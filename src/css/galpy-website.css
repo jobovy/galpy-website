@@ -1,0 +1,23 @@
+body {
+  padding-top: 0rem;
+  background-color: #fbfbf5;
+}
+
+.center-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.btn-secondary {
+  background-image: linear-gradient(#cbe9ff,#0193fd);
+  border-color: #cbe9ff;
+  color: #fbfbf5;
+}
+
+.courier-code {
+ font-family: Courier;
+}

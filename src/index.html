@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="galpy, a Python package for galactic dynamics">
+    <meta name="author" content="Jo Bovy">
+    <title>galpy, a Python package for galactic dynamics</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- Animate-on-scroll CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- Custom styles -->
+    <link href="css/galpy-website.css" rel="stylesheet">
+
+    <!-- javascript -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <!-- favicon -->
+    <link rel="icon" href="images/logo-small.ico">
+
+  </head>
+  <body>
+
+    <main role="main" class="container">
+
+      <!-- full-page landing image + short description -->
+      <div class="container">
+	<div class="center-screen" style="text-align: center; margin-top: 0em; margin-bottom: 0em;">
+	  <!-- <img src="images/logo-small.png" width="225" alt="galpy: Galactic dynamics in Python" /> --> 
+	  <img src="images/galpy-logo.gif" width="225" alt="galpy: Galactic dynamics in Python" />
+	  <p style="margin-top: 1em; font-style: italic; opacity: 0" id="galpy-intro-statement"><span class="courier-code">galpy</span> is a Python package for galactic dynamics.</p>
+	</div>
+      </div>
+      
+      <!-- Sections -->     
+      <div class="container" id="sections-container" style="display: none;">
+
+	<hr class="featurette-divider">
+
+	<div class="row featurette" data-aos="fade-in" data-aos-once="true">
+	  <div class="col-md-7">
+            <h2 class="featurette-heading" id="installation">Easy to get started with, <span class="text-muted">get advanced galactic dynamics at your fingertips</span></h2>
+            <p class="lead">Get started with integrating orbits in a Milky-Way potential in a few lines of code in minutes. Or build your own galactic models using a flexible set of components. From simple orbit integration to fast action-angle calculations, <span class="courier-code">galpy</span> has you covered.</p>
+	    <p><a class="btn btn-secondary" href="http://docs.galpy.org/en/stable/#quick-start-guide" target="_blank" role="button">view quick-start guide &raquo;</a></p>
+	  </div>
+	  <div class="col-md-5" style="max-width: 300">
+	    <a href="http://docs.galpy.org/en/stable/#quick-start-guide" target="_blank"><img src="images/galpy-webintro.gif" style="max-width:100%;" alt="galpy installation"/></a>
+	  </div>
+	</div>
+	
+	<hr class="featurette-divider">
+
+	<div class="row featurette" data-aos="fade-in" data-aos-once="true">
+	  <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading" id="installation">Simple installation <span class="text-muted">on all major operating systems</span></h2>
+            <p class="lead">Whether you are on a Linux, Mac, or Windows system, installation is quick and painless. Use <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank">miniconda</a> for a single-line installation of <span class="courier-code">galpy</span> and all of its dependencies or use <a href="https://pypi.org/project/pip/" target="_blank">pip</a> for installing the latest release or the bleeding-edge <span class="courier-code">master</span> branch with all of the latest in-development features.</p>
+	    <p><a class="btn btn-secondary" href="http://docs.galpy.org/en/stable/installation.html" target="_blank" role="button">view installation instructions &raquo;</a></p>
+	  </div>
+	  <div class="col-md-5 order-md-1" style="max-width: 300">
+	    <a href="http://docs.galpy.org/en/stable/installation.html" target="_blank"><img src="images/installation.png" style="max-width:100%;" alt="galpy installation"/></a>
+	  </div>
+	</div>
+	
+	<hr class="featurette-divider">
+	
+	<div class="row featurette" data-aos="fade-in" data-aos-once="true">
+	  <div class="col-md-7">
+            <h2 class="featurette-heading" id="docs">Extensive documentation <span class="text-muted">and many ways to get help</span></h2>
+            <p class="lead">All of <span class="courier-code">galpy</span>'s features are documented with a rich set of examples in the <a href="http://docs.galpy.org/en/stable/#quick-start-guide" target="_blank">quick-start guide</a> and a full <a href="http://docs.galpy.org/en/stable/#library-reference" target="_blank">library reference guide</a>. If you run into problems, open an <a href="https://github.com/jobovy/galpy/issues" target="_blank">issue</a> on <span class="courier-code">galpy</span>'s GitHub page, join the <a href="https://galpy.slack.com/" target="_blank"> <span class="courier-code">galpy</span> slack community</a> (join <a href="https://slackin-galpy.herokuapp.com/" target="_blank">here</a>), or email the code's maintainer. We're always happy to help!</p>
+	    <p><a class="btn btn-secondary" href="http://docs.galpy.org" target="_blank" role="button">view docs (v1.5.0) &raquo;</a>
+	    <a class="btn btn-secondary" href="http://docs.galpy.org/en/latest/" target="_blank" role="button">view docs (<span class="courier-code">master</span> branch) &raquo;</a></p>
+	  </div>
+	  <div class="col-md-5" style="max-width: 300">
+	    <a href="http://docs.galpy.org" target="_blank"><img src="images/docs.png" style="max-width:100%;" alt="galpy installation"/></a>
+	  </div>
+	</div>
+	
+	<hr class="featurette-divider">
+	
+	<div class="row featurette" data-aos="fade-in" data-aos-once="true">
+	  <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading" id="development">Open-source, continuously-integrated, <span class="text-muted"> with &gt;99.8% test coverage</span></h2>
+            <p class="lead">Fully open-source development since day 1. All of <span class="courier-code">galpy</span>'s development happens on GitHub, from simple maintenance to bleeding-edge new features. All code updates and pull requests are built and tested using continuous integration provided by <a href="https://travis-ci.org/" target="_blank">travis</a> and <a href="https://www.appveyor.com/" target="_blank">appveyor</a>. With test coverage exceeding 99.8%, <span class="courier-code">galpy</span> is as reliable as code gets.</p>
+	    <p><a class="btn btn-secondary" href="https://www.github.com/jobovy/galpy" target="_blank" role="button">visit <span class="courier-code">galpy</span> on GitHub &raquo;</a></p>
+	  </div>
+	  <div class="col-md-5 order-md-1" style="max-width: 300">
+	    <a href="https://www.github.com/jobovy/galpy" target="_blank"><img src="images/development.png" style="max-width:100%;"  alt="galpy installation"/></a>
+	  </div>
+	</div>
+	
+	<hr class="featurette-divider">
+	
+	<!-- /end sections -->
+	
+      </div><!-- /.container -->
+
+    </main><!-- /.container -->
+
+    <!-- activate the 'activate-on-scroll' library -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      $(document).ready(function() {
+      setTimeout(function(){
+        $('#galpy-intro-statement').animate({opacity: '0%'},{duration: 3000, complete: function(){
+        $('#galpy-intro-statement').animate({opacity: '100%'}, 3000);
+      }})});
+      setTimeout(function(){
+        // First make this section visible
+        $('#sections-container').css({'display': 'block'});
+        // Then initialize the activate-on-scroll functionality
+        AOS.init({duration: 1400,});
+      },4000);
+      });
+    </script>
+  </body>
+</html>
