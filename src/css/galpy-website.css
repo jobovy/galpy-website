@@ -12,6 +12,17 @@ body {
   min-height: 100vh;
 }
 
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.featurette {
+  text-align: justify;
+}
+
 .btn-secondary {
   background-image: linear-gradient(#cbe9ff,#0193fd);
   border-color: #cbe9ff;
@@ -20,4 +31,35 @@ body {
 
 .courier-code {
  font-family: Courier;
+}
+
+.examples-carousel {
+  margin:0 auto;
+  max-width: 1000px;
+  max-height: 500px;
+  width: 85%;
+  height: auto;
+}
+
+div.examples-carousel-item {
+  padding: 0px;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.examples-carousel-item > img {
+  width: auto;		
+  max-width: 90%;
+  height: auto;
+  margin: auto;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.slick-prev:before, .slick-next:before {
+  color: gray;
 }

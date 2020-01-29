@@ -11,13 +11,17 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <!-- Animate-on-scroll CSS -->
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- slick carousel CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
     <!-- Custom styles -->
     <link href="css/galpy-website.css" rel="stylesheet">
 
     <!-- javascript -->
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script> 
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
     <!-- favicon -->
     <link rel="icon" href="images/logo-small.ico">
@@ -95,7 +99,21 @@
 	<hr class="featurette-divider">
 	
 	<!-- /end sections -->
-	
+
+	<div class="center row featurette" data-aos="fade-in" data-aos-once="true">
+	  <div class="col order-md-1">
+            <h2 class="featurette-heading" id="examples" style="text-align: center;"><span class="courier-code">galpy</span> in action</h2>
+            <p class="lead"><span class="courier-code">galpy</span> has been used in more than <a href="https://galpy.readthedocs.io/en/latest/index.html#papers-using-galpy" target="_blank">200 scientific publications</a> in the astrophysical literature. From the properties of planetary systems around distant stars, the kinematics of pulsars and stars ejected from the Milky Way by supernova explosions, and binary evolution in stellar clusters, to chemo-dynamical modeling of stellar populations in the Milky Way and the dynamics of satellites around external galaxies, <span class="courier-code">galpy</span> is used widely throughout astrophysics.<br/><br/></p><p class="lead" style="text-align:center;">Check out the gallery below for examples:</p>
+	  </div>
+	<!--</div>-->
+	    
+	<!--<div class="center row featurette" data-aos="fade-in" data-aos-once="true">-->
+	<div class="center col order-md-2">
+	    <div class="examples-carousel" id="examples-carousel">
+	      <!-- Populated using Javascript loading of JSON file -->
+	    </div>
+	</div>
+
       </div><!-- /.container -->
 
     </main><!-- /.container -->
@@ -104,15 +122,73 @@
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
       $(document).ready(function() {
+      // Landing page animation
       setTimeout(function(){
-        $('#galpy-intro-statement').animate({opacity: '0%'},{duration: 3000, complete: function(){
-        $('#galpy-intro-statement').animate({opacity: '100%'}, 3000);
+        $("#galpy-intro-statement").animate({opacity: "0%"},{duration: 3000, complete: function(){
+        $("#galpy-intro-statement").animate({opacity: "100%"}, 3000);
       }})});
       setTimeout(function(){
         // First make this section visible
-        $('#sections-container').css({'display': 'block'});
+        $("#sections-container").css({"display": "block"});
+        // Create the list of image divs with papers using galpy
+        $.getJSON("./data/papers-using-galpy.json")
+        .done(function(data) {
+          // randomize array to create random starting point, https://stackoverflow.com/a/56448185/10195320
+          function shuffle(obj){
+            // new obj to return
+            let newObj = {};
+            // create keys array
+            var keys = Object.keys(obj);
+            // randomize keys array
+            keys.sort(function(a,b){return Math.random()- 0.5;});
+            // save in new array
+            keys.forEach(function(k) {
+              newObj[k] = obj[k];
+            });
+            return newObj;
+          }
+          $.each(shuffle(data),function(key,bibentry) {
+            if ( key != '_template' ) {
+	      $("<a>").attr("id",`${key}-link`).attr("href",bibentry.url).attr("target","_blank")
+                .addClass("examples-carousel-item")
+	        .attr("alt",`Figure from ${bibentry.title}, ${bibentry.author} (${bibentry.year}), ${bibentry.journal} ${bibentry.volume}, ${bibentry.pages}`)
+	        .attr("title",`Figure from ${bibentry.title}, ${bibentry.author} (${bibentry.year}), ${bibentry.journal} ${bibentry.volume}, ${bibentry.pages}`).appendTo("#examples-carousel");
+	      $("<div>").attr("id",key).addClass("examples-carousel-item").appendTo(`#${key}-link`);
+              $("<img>").attr("data-lazy","data/paper-figs/"+bibentry.img).appendTo(`#${key}`);
+	    }
+	   });
+        // Then setup carousel
+        $(".examples-carousel").slick({
+	  slide: "a",
+          infinite: true,
+          arrows: true,
+          slidesToShow: 3,
+          slidesToScroll: 1,
+	  lazyLoad: 'ondemand',
+	  autoplay: true,
+	  autoplaySpeed: 1500,
+	  responsive: [
+	    {
+	      breakpoint: 1200,
+	      settings: {
+                slidesToShow: 2,
+	      }
+	    },
+	    {
+	      breakpoint: 820,
+	      settings: {
+                slidesToShow: 1,
+	      }
+	    },
+	  ]
+        });
         // Then initialize the activate-on-scroll functionality
         AOS.init({duration: 1400,});
+        })
+        .fail(function(jqxhr, textStatus, error ) {
+          var err= textStatus + ", " + error;
+          console.log( "Request Failed: " + err );
+        });
       },4000);
       });
     </script>
