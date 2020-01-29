@@ -1,0 +1,62 @@
+{
+  "Bovy12a":
+    { "author": "Jo Bovy, Hans-Walter Rix, Chao Liu, et al.",
+      "title": "The spatial structure of mono-abundance sub-populations of the Milky Way disk",
+      "year": "2012",
+      "journal": "Astrophys. J.",
+      "volume": "753",
+      "pages": "148", 
+      "url": "https://arxiv.org/abs/1111.1724",
+      "img": "bovy12a.png"
+    },
+  "BovyTremaine12a":
+    { "author": "Jo Bovy & Scott Tremaine",
+      "title": "On the local dark matter density",
+      "year": "2012",
+      "journal": "Astrophys. J.",
+      "volume": "756",
+      "pages": "89",
+      "url": "https://arxiv.org/abs/1205.4033",
+      "img": "bovytremaine12a.png"
+    },
+  "Bovy12b":
+    { "author": "Jo Bovy, Carlos Allende Prieto, Timothy C. Beers, et al. ",
+      "title": "The Milky Way’s circular velocity curve between 4 and 14 kpc from APOGEE data",
+      "year": "2012",
+      "journal": "Astrophys. J.",
+      "volume": "759",
+      "pages": "131",
+      "url": "https://arxiv.org/abs/1209.0759",
+      "img": "bovy12b.png"
+    },
+  "BovyRix13":
+    { "author": "Jo Bovy & Hans-Walter Rix",
+      "title": "A direct dynamical measurement of the Milky Way’s disk surface density profile, disk scale length, and dark matter profile at 4 kpc &lt; R &lt; 9 kpc",
+      "year": "2013",
+      "journal": "Astrophys. J. ",
+      "volume": "779",
+      "pages": "115",
+      "url": "https://arxiv.org/abs/1309.0809",
+      "img": "bovyrix13a.png"
+    },
+  "DexterLeary13":
+    { "author": "Jason Dexter & Ryan M. O’Leary",
+      "title": "The peculiar pulsar population of the central parsec",
+      "year": "2013",
+      "journal": "Astrophys. J. Lett.",
+      "volume": "783",
+      "pages": "L7",
+      "url": "https://arxiv.org/abs/1310.7022",
+      "img": "dexterleary13a.png"
+    },
+  "_template":
+    { "author": "",
+      "title": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "pages": "",
+      "url": "",
+      "img": ""
+    }
+}
