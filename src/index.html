@@ -117,8 +117,31 @@
 	  </div>
 	</div>
 
-      </div><!-- /.container -->
+	<hr class="featurette-divider">
 
+	<div class="center row featurette" data-aos="fade-in" data-aos-once="true">
+	  <div class="col order-md-1">
+            <h2 class="featurette-heading" id="examples" style="text-align: center;">Support and acknowledge <span class="courier-code">galpy</span></h2>
+            <p class="lead">The best ways to support <span class="courier-code">galpy</span> is to acknowledge <span class="courier-code">galpy</span> in any work that you do with it, by linking to the code (at <span class="text-muted">https://github.com/jobovy/galpy</span>) and by citing the <a href="http://arxiv.org/abs/1412.3451" target="_blank"><span class="courier-code">galpy</span> paper</a>:</p>
+
+	    <p class="text-muted" style="text-align:center;"><span class="courier-code">galpy</span>: A Python Library for Galactic Dynamics, Jo Bovy (2015), <em>Astrophys. J. Supp.</em>, <b>216</b>, 29 </p>
+	  </div>
+	</div>
+
+
+
+    <!-- Footer -->
+    <footer class="page-footer font-small">
+
+      <hr class="featurette-divider" style="margin-bottom: 0.5rem;">
+      <!-- Copyright -->
+      <div class="footer-copyright text-center lead" style="font-size: 0.85rem;margin-bottom: 0.5rem;">© 2020 <a href="http://astro.utoronto.ca/~bovy" target="_blank"> Jo Bovy</a>
+      </div>
+      <!-- Copyright -->
+    </footer>
+    <!-- Footer -->
+
+      </div><!-- /.container -->
     </main><!-- /.container -->
 
     <!-- activate the 'activate-on-scroll' library -->
@@ -151,7 +174,7 @@
             return newObj;
           }
           $.each(shuffle(data),function(key,bibentry) {
-            if ( key != '_template' ) {
+            if ( key != "_template" ) {
 	      $("<a>").attr("id",`${key}-link`).attr("href",bibentry.url).attr("target","_blank")
                 .addClass("examples-carousel-item")
 	        .attr("alt",`Figure from ${bibentry.title}, ${bibentry.author} (${bibentry.year}), ${bibentry.journal} ${bibentry.volume}, ${bibentry.pages}`)
@@ -198,6 +221,7 @@
           var err= textStatus + ", " + error;
           console.log( "Request Failed: " + err );
         });
+	//},000);
       },4000);
       });
     </script>
