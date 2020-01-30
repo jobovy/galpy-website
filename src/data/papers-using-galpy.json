@@ -49,6 +49,404 @@
       "url": "https://arxiv.org/abs/1310.7022",
       "img": "dexterleary13a.png"
     },
+  "Anders13a": {
+    "author": "Friedrich Anders, Christina Chiappini, Basilio X. Santiago, et al.",
+    "title": "Chemodynamics of the Milky Way. I. The first year of APOGEE data",
+    "year": "2013",
+    "journal": "Astron. & Astrophys.",
+    "volume": "564",
+    "pages": "A115",
+    "url": "https://arxiv.org/abs/1311.4549",
+    "img": "anders13a.png"
+  },
+  "Bovy14a": {
+    "author": "Jo Bovy",
+    "title": "Dynamical modeling of tidal streams",
+    "year": "2014",
+    "journal": "Astrophys. J.",
+    "volume": "795",
+    "pages": "95",
+    "url": "https://arxiv.org/abs/1401.2985",
+    "img": "bovy14a.png"
+  },
+  "Loebman14a": {
+    "author": "Sarah R. Loebman, Zeljko Ivezic Thomas R. Quinn, Jo Bovy, Charlotte R. Christensen, Mario Juric, Rok Roskar, Alyson M. Brooks, & Fabio Governato",
+    "title": "The Milky Way Tomography with SDSS. V. Mapping the Dark Matter Halo",
+    "year": "2014",
+    "journal": "Astrophys. J.",
+    "volume": "794",
+    "pages": "151",
+    "url": "http://adsabs.harvard.edu/abs/2014ApJ...794..151L"
+  },
+  "Bower15a": {
+    "author": "Geoffrey C. Bower, Adam Deller, Paul Demorest, et al.",
+    "title": "The Proper Motion of the Galactic Center Pulsar Relative to Sagittarius A*",
+    "year": "2015",
+    "journal": "Astrophys. J.",
+    "volume": "798",
+    "pages": "120",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...798..120B"
+  },
+  "Bovy15a": {
+    "author": "Jo Bovy, Jonathan C. Bird, Ana E. Garcia Perez, Steven M. Majewski, David L. Nidever, & Gail Zasowski",
+    "title": "The power spectrum of the Milky Way: Velocity fluctuations in the Galactic disk",
+    "year": "2015",
+    "journal": "Astrophys. J.",
+    "volume": "800",
+    "pages": "83",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...800...83B"
+  },
+  "Balbinot15a": {
+    "author": "Eduardo Balbinot, B. X. Santiago, L. Girardi, et al.",
+    "title": "The LMC geometry and outer stellar populations from early DES data",
+    "year": "2015",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "449",
+    "pages": "1129",
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.449.1129B"
+  },
+  "Fardal15a": {
+    "author": "Mark A. Fardal, Shuiyao Huang, & Martin D. Weinberg",
+    "title": "Generation of mock tidal streams",
+    "year": "2015",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "452",
+    "pages": "301",
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.452..301F"
+  },
+  "Sesar15a": {
+    "author": "Branimir Sesar, Jo Bovy, Edouard J. Bernard, et al.",
+    "title": "The nature and orbit of the Ophiuchus stream",
+    "year": "2015",
+    "journal": "Astrophys. J.",
+    "volume": "809",
+    "pages": "59",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809...59S"
+  },
+  "OLeary15a": {
+    "author": "Ryan M. O\u2019Leary, Matthew D. Kistler, Matthew Kerr, & Jason Dexter",
+    "title": "Young Pulsars and the Galactic Center GeV Gamma-ray Excess",
+    "year": "2015",
+    "journal": "Phys. Rev. Lett.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "http://arxiv.org/abs/1504.02477"
+  },
+  "delaVega15a": {
+    "author": "Alexander de la Vega, Alice C. Quillen, Jeffrey L. Carlin, Sukanya Chakrabarti, & Elena D\u2019Onghia",
+    "title": "Phase Wrapping of Epicyclic Perturbations in the Wobbly Galaxy",
+    "year": "2015",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "454",
+    "pages": "933",
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.454..933D"
+  },
+  "Casey15a": {
+    "author": "Andrew R. Casey & Kevin C. Schlaufman",
+    "title": "Chemistry of the Most Metal-poor Stars in the Bulge and the z \u2273 10 Universe",
+    "year": "2015",
+    "journal": "Astrophys. J.",
+    "volume": "809",
+    "pages": "110",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809..110C"
+  },
+  "Balbinot15b": {
+    "author": "E. Balbinot, B. Yanny, T. S. Li, et al.",
+    "title": "The Phoenix stream: a cold stream in the Southern hemisphere",
+    "year": "2015",
+    "journal": "Astrophys. J.",
+    "volume": "820",
+    "pages": "58",
+    "url": "http://adsabs.harvard.edu/abs/2016ApJ...820...58B"
+  },
+  "Li15a": {
+    "author": "T. S. Li, E. Balbinot, N. Mondrik, et al.",
+    "title": "Discovery of a Stellar Overdensity in Eridanus-Phoenix in the Dark Energy Survey",
+    "year": "2015",
+    "journal": "Astrophys. J.",
+    "volume": "817",
+    "pages": "135",
+    "url": "http://adsabs.harvard.edu/abs/2016ApJ...817..135L"
+  },
+  "Fritz15a": {
+    "author": "T. K. Fritz & N. Kallivayalil",
+    "title": "The Proper Motion of Palomar 5",
+    "year": "2015",
+    "journal": "Astrophys. J.",
+    "volume": "811",
+    "pages": "123",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...811..123F"
+  },
+  "Grand15a": {
+    "author": "Robert J. J. Grand, Jo Bovy, Daisuke Kawata, Jason A. S. Hunt, Benoit Famaey, Arnaud Siebert, Giacomo Monari, & Mark Cropper",
+    "title": "Spiral- and bar-driven peculiar velocities in Milky Way-sized galaxy simulations",
+    "year": "2015",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "453",
+    "pages": "1867",
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.453.1867G"
+  },
+  "Hattori15a": {
+    "author": "Kohei Hattori & Gerard Gilmore",
+    "title": "Vertical kinematics of the thick disc at 4.5 \u2272 R \u2272 9.5 kpc",
+    "year": "2015",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "454",
+    "pages": "649",
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.454..649H"
+  },
+  "Plevne15a": {
+    "author": "O. Plevne, T. Ak, S. Karaali, S. Bilir, S. Ak, Z. F. Bostanci",
+    "title": "Local Stellar Kinematics from RAVE data - VI. Metallicity Gradients Based on the F-G Main-sequence Stars",
+    "year": "2015",
+    "journal": "Pub. Astron. Soc. Aus.",
+    "volume": "32",
+    "pages": "43",
+    "url": "http://adsabs.harvard.edu/abs/2015PASA...32...43P"
+  },
+  "Sanders15a": {
+    "author": "Jason L. Sanders, Jo Bovy, & Denis Erkal",
+    "title": "Dynamics of stream-subhalo interactions",
+    "year": "2015",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "457",
+    "pages": "3817",
+    "url": "http://adsabs.harvard.edu/abs/2016MNRAS.457.3817S"
+  },
+  "Howes15a": {
+    "author": "L. M. Howes, A. R. Casey, M. Asplund, et al.",
+    "title": "Extremely metal-poor stars from the cosmic dawn in the bulge of the Milky Way",
+    "year": "2015",
+    "journal": "Nature",
+    "volume": "527",
+    "pages": "484",
+    "url": "http://adsabs.harvard.edu/abs/2015Natur.527..484H"
+  },
+  "Bovy16a": {
+    "author": "Jo Bovy",
+    "title": "Detecting the disruption of dark-matter halos with stellar streams",
+    "year": "2016",
+    "journal": "Phys. Rev. Lett.",
+    "volume": "116",
+    "pages": "121301",
+    "url": "http://adsabs.harvard.edu/abs/2016PhRvL.116l1301B"
+  },
+  "Anguiano16a": {
+    "author": "B. Anguiano, G. M. De Silva, K. Freeman, et al.",
+    "title": "Identification of Globular Cluster Stars in RAVE data II: Extended tidal debris around NGC 3201",
+    "year": "2016",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "457",
+    "pages": "2078",
+    "url": "http://adsabs.harvard.edu/abs/2016MNRAS.457.2078A"
+  },
+  "OLeary16a": {
+    "author": "Ryan M. O\u2019Leary, Matthew D. Kistler, Matthew Kerr, & Jason Dexter",
+    "title": "Young and Millisecond Pulsar GeV Gamma-ray Fluxes from the Galactic Center and Beyond",
+    "year": "2016",
+    "journal": "Phys. Rev. D",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/1601.05797"
+  },
+  "CantatGaudin16a": {
+    "author": "T. Cantat-Gaudin, P. Donati, A. Vallenari, R. Sordo, A. Bragaglia, L. Magrini",
+    "title": "Abundances and kinematics for ten anticentre open clusters",
+    "year": "2016",
+    "journal": "Astron. & Astrophys.",
+    "volume": "588",
+    "pages": "A120",
+    "url": "http://adsabs.harvard.edu/abs/2016A%26A...588A.120C"
+  },
+  "Jethwa16a": {
+    "author": "P. Jethwa, D. Erkal, & V. Belokurov",
+    "title": "A Magellanic Origin of the DES Dwarfs",
+    "year": "2016",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "461",
+    "pages": "2212",
+    "url": "http://arxiv.org/abs/1603.04420"
+  },
+  "Kaplan16a": {
+    "author": "D. L. Kaplan, T. Kupfer, D. J. Nice, et al.",
+    "title": "PSR J1024-0719: A Millisecond Pulsar in an Unusual Long-Period Orbit",
+    "year": "2016",
+    "journal": "Astrophys. J.",
+    "volume": "826",
+    "pages": "86",
+    "url": "http://arxiv.org/abs/1604.00131"
+  },
+  "Bassa16a": {
+    "author": "C. G. Bassa, G. H. Janssen, B. W. Stappers, et al.",
+    "title": "A millisecond pulsar in an extremely wide binary system",
+    "year": "2016",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "460",
+    "pages": "2207",
+    "url": "http://arxiv.org/abs/1604.00129"
+  },
+  "Tetarenko16a": {
+    "author": "B. E. Tetarenko, A. Bahramian, R. M. Arnason, et al.",
+    "title": "The first low-mass black hole X-ray binary identified in quiescence outside of a globular cluster",
+    "year": "2016",
+    "journal": "Astrophys. J.",
+    "volume": "825",
+    "pages": "10",
+    "url": "http://arxiv.org/abs/1605.00270"
+  },
+  "Trick16a": {
+    "author": "Wilma H. Trick, Jo Bovy, & Hans-Walter Rix",
+    "title": "Action-based Dynamical Modelling for the Milky Way Disk",
+    "year": "2016",
+    "journal": "Astrophys. J.",
+    "volume": "830",
+    "pages": "97",
+    "url": "http://arxiv.org/abs/1605.08601"
+  },
+  "Boubert16a": {
+    "author": "Douglas Boubert & N. W. Evans",
+    "title": "A Dipole on the Sky: Predictions for Hypervelocity Stars from the Large Magellanic Cloud",
+    "year": "2016",
+    "journal": "Astrophys. J. Lett.",
+    "volume": "825",
+    "pages": "L6",
+    "url": "http://arxiv.org/abs/1606.02548"
+  },
+  "Bovy16b": {
+    "author": "Jo Bovy, Denis Erkal, & Jason L. Sanders",
+    "title": "Linear perturbation theory for tidal streams and the small-scale CDM power spectrum",
+    "year": "2016",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "466",
+    "pages": "628",
+    "url": "https://arxiv.org/abs/1606.03470"
+  },
+  "OnalTas16a": {
+    "author": "O. Onal Tas, S. Bilir, G. M. Seabroke, S. Karaali, S. Ak, T. Ak, & Z. F. Bostanci",
+    "title": "Local Stellar Kinematics from RAVE data - VII. Metallicity Gradients from Red Clump Stars",
+    "year": "2016",
+    "journal": "Pub. Astron. Soc. Aus.",
+    "volume": "33",
+    "pages": "e044",
+    "url": "http://arxiv.org/abs/1607.07049"
+  },
+  "Bakis16a": {
+    "author": "V. Bakis, H. Bakis, S. Bilir, Z. Eker",
+    "title": "Study of Eclipsing Binary and Multiple Systems in OB Associations IV: Cas OB6 Member DN Cas",
+    "year": "2016",
+    "journal": "Pub. Astron. Soc. Aus.",
+    "volume": "33",
+    "pages": "e046",
+    "url": "http://arxiv.org/abs/1608.00456"
+  },
+  "Bovy16c": {
+    "author": "Jo Bovy, Anita Bahmanyar, Tobias K. Fritz, & Nitya Kallivayalil",
+    "title": "The shape of the inner Milky Way halo from observations of the Pal 5 and GD-1 stellar streams",
+    "year": "2016",
+    "journal": "Astrophys. J.",
+    "volume": "833",
+    "pages": "31",
+    "url": "https://arxiv.org/abs/1609.01298"
+  },
+  "AllendePrieto16a": {
+    "author": "Carlos Allende Prieto, Daisuke Kawata, & Mark Cropper",
+    "title": "The Rotation-Metallicity Relation for the Galactic Disk as Measured in the Gaia DR1 TGAS and APOGEE Data",
+    "year": "2016",
+    "journal": "Astron. & Astrophys.",
+    "volume": "596",
+    "pages": "A98",
+    "url": "https://arxiv.org/abs/1609.07821"
+  },
+  "Hunt16a": {
+    "author": "Jason A. S. Hunt, Jo Bovy, & Raymond Carlberg",
+    "title": "Detection of a dearth of stars with zero angular momentum in the solar neighbourhood",
+    "year": "2016",
+    "journal": "Astrophys. J. Lett.",
+    "volume": "832",
+    "pages": "L25",
+    "url": "http://arxiv.org/abs/1610.02030"
+  },
+  "Cordero16a": {
+    "author": "M. J. Cordero, V. H\u00e9nault-Brunet, C. A. Pilachowski, E. Balbinot, C. I. Johnson, & A. L. Varri",
+    "title": "Differences in the rotational properties of multiple stellar populations in M 13: a faster rotation for the \u201cextreme\u201d chemical subpopulation",
+    "year": "2016",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "465",
+    "pages": "3515",
+    "url": "https://arxiv.org/abs/1610.09374"
+  },
+  "Lamb16a": {
+    "author": "Masen Lamb, Kim Venn, David Andersen, et al.",
+    "title": "Using the Multi-Object Adaptive Optics demonstrator RAVEN to observe metal-poor stars in and towards the Galactic Centre",
+    "year": "2016",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "465",
+    "pages": "3536",
+    "url": "https://arxiv.org/abs/1611.02712"
+  },
+  "Kunder16a": {
+    "author": "Andrea Kunder, Georges Kordopatis, Matthias Steinmetz, et al.",
+    "title": "The Radial Velocity Experiment (RAVE): Fifth Data Release",
+    "year": "2016",
+    "journal": "Astron. J.",
+    "volume": "153",
+    "pages": "75",
+    "url": "https://arxiv.org/abs/1609.03210"
+  },
+  "Fritz16a": {
+    "author": "Tobias K. Fritz, Sean Linden, Paul Zivick, et al.",
+    "title": "The Proper Motion of Pyxis: the first use of Adaptive Optics in tandem with HST on a faint halo object",
+    "year": "2016",
+    "journal": "Astrophys. J.",
+    "volume": "840",
+    "pages": "30",
+    "url": "https://arxiv.org/abs/1611.08598"
+  },
+  "39": {
+    "author": "Serena Repetto, Andrei P. Igoshev, & Gijs Nelemans",
+    "title": "The Galactic distribution of X-ray binaries and its implications for compact object formation and natal kicks",
+    "year": "2017",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "467",
+    "pages": "298",
+    "url": "https://arxiv.org/abs/1701.01347"
+  },
+  "Martin16a": {
+    "author": "P. Martin, C. S. Jeffery, Naslim N., & V. M. Woolf",
+    "title": "Kinematics of Subluminous O and B Stars by Surface Helium Abundance",
+    "year": "2017",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "467",
+    "pages": "68",
+    "url": "https://arxiv.org/abs/1701.03026"
+  },
+  "Maji17a": {
+    "author": "Moupiya Maji, Qirong Zhu, Federico Marinacci, & Yuexing Li",
+    "title": "Is there a disk of satellites around the Milky Way?",
+    "year": "2017",
+    "journal": "Astrophys. J.",
+    "volume": "843",
+    "pages": "62",
+    "url": "https://arxiv.org/abs/1702.00485"
+  },
+  "Balbinot17a": {
+    "author": "Eduardo Balbinot & Mark Gieles",
+    "title": "The devil is in the tails: the role of globular cluster mass evolution on stream properties",
+    "year": "2017",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "474",
+    "pages": "2479",
+    "url": "https://arxiv.org/abs/1702.02543"
+  },
+  "OMalley17a": {
+    "author": "Erin M. O\u2019Malley, Christina Gilligan, & Brian Chaboyer",
+    "title": "Absolute Ages and Distances of 22 GCs using Monte Carlo Main-Sequence Fitting",
+    "year": "2017",
+    "journal": "Astrophys. J.",
+    "volume": "838",
+    "pages": "162",
+    "url": "https://arxiv.org/abs/1703.01915"
+  },
   "_template":
     { "author": "",
       "title": "",
