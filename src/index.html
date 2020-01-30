@@ -178,7 +178,7 @@
             return newObj;
           }
           $.each(shuffle(data),function(key,bibentry) {
-            if ( key != "_template" ) {
+            if ( key != "_template" && bibentry.hasOwnProperty("img")) {
 	      $("<a>").attr("id",`${key}-link`).attr("href",bibentry.url).attr("target","_blank")
                 .addClass("examples-carousel-item")
 	        .attr("alt",`Figure from ${bibentry.title}, ${bibentry.author} (${bibentry.year}), ${bibentry.journal} ${bibentry.volume}, ${bibentry.pages}`)
