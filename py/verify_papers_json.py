@@ -3,6 +3,7 @@
 import os, os.path
 import json
 import urllib.request
+import warnings
 
 def verify_one_entry(entry,name):
     """Verify a single entry
@@ -16,15 +17,18 @@ def verify_one_entry(entry,name):
     assert 'volume' in entry
     assert 'pages' in entry
     assert 'url' in entry
-    assert 'img' in entry
+    if not 'img' in entry:
+        warnings.warn('Missing image for entry {}'.format(name))
     if name == '_template': return None
     # Test whether the URL exists
     try:
         urllib.request.urlopen(entry['url'])
     except:
         raise AssertionError("URL {} does not seem to exist ...".format(entry['url']))
-    # Test whether the image is present
-    if not os.path.exists(os.path.join('..','src','data','paper-figs',entry['img'])):
+    # Test whether the image is present if the img attribute is given
+    if 'img' in entry and \
+       not os.path.exists(os.path.join('..','src','data',
+                                       'paper-figs',entry['img'])):
         raise AssertionError("Paper image does not appear to exist at {} ..."\
                                  .format(os.path.join('data','paper-figs',entry['img'])))
     return None
