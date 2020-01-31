@@ -1912,7 +1912,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "492",
     "pages": "456",
-    "url": "http://arxiv.org/abs/1912.02393"
+    "url": "http://arxiv.org/abs/1912.02393",
+    "img": "wan19a.png"
   },
   "Zhang19a": {
     "author": "Yu Zhang, Shih-Yun Tang, W. P. Chen, Xiaoying Pang, & J. Z. Liu",
@@ -1921,7 +1922,8 @@
     "journal": "Astrophys. J.",
     "volume": "in press",
     "pages": "",
-    "url": "http://arxiv.org/abs/1912.06657"
+    "url": "http://arxiv.org/abs/1912.06657",
+    "img": "zhang19a.png"
   },
   "Banks19a": {
     "author": "Timothy Banks, Talar Yontan, Selcuk Bilir, & Remziye Canbay",
@@ -1930,34 +1932,38 @@
     "journal": "J. Astron. Astrophys.",
     "volume": "in press",
     "pages": "",
-    "url": "http://arxiv.org/abs/1912.08760"
+    "url": "http://arxiv.org/abs/1912.08760",
+    "img": "banks19a.png"
   },
-  "Prudil19b": {
+  "Prudil20a": {
     "author": "Z. Prudil, I. D\u00e9k\u00e1ny, E. K. Grebel, & A. Kunder",
     "title": "Evidence for Galactic disc RR~Lyrae stars in the Solar neighbourhood",
     "year": "2020",
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "492",
     "pages": "3408",
-    "url": "http://arxiv.org/abs/2001.02486"
+    "url": "http://arxiv.org/abs/2001.02486",
+    "img": "prudil20a.png"
   },
-  "Horta19a": {
+  "Horta20a": {
     "author": "Danny Horta, Ricardo P. Schiavon, J. Ted Mackereth, et al.",
     "title": "The Chemical Compositions of Accreted and in situ Galactic Globular Clusters According to SDSS/APOGEE",
     "year": "2020",
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/2001.03177"
+    "url": "http://arxiv.org/abs/2001.03177",
+    "img": "horta20a.png"
   },
-  "Chaplin19a": {
+  "Chaplin20a": {
     "author": "William J. Chaplin, Aldo M. Serenelli, Andrea Miglio, et al.",
     "title": "Age dating of an early Milky Way merger via asteroseismology of the naked-eye star \u03bd Indi",
     "year": "2020",
     "journal": "Nature Astron.",
     "volume": "in press",
     "pages": "",
-    "url": "http://arxiv.org/abs/2001.04653"
+    "url": "http://arxiv.org/abs/2001.04653",
+    "img": "chaplin20a.png"
   },
   "_template":
     { "author": "",
