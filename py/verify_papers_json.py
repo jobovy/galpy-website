@@ -34,8 +34,17 @@ def verify_one_entry(entry,name):
     return None
 
 if __name__ == '__main__':
+    # Function to check for duplicate keys (https://stackoverflow.com/a/16172132/10195320)
+    def dupe_checking_hook(pairs):
+        result = dict()
+        for key,val in pairs:
+            if key in result:
+                raise KeyError("Duplicate key specified: %s" % key)
+            result[key] = val
+        return result
+    # Read the JSON file
     with open('../src/data/papers-using-galpy.json','r') as jsonfile:
-        data= json.load(jsonfile)
+        data= json.load(jsonfile,object_pairs_hook=dupe_checking_hook)
     for key in data:
         verify_one_entry(data[key],key)
     
