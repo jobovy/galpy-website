@@ -103,7 +103,7 @@
 	<div class="center row featurette" data-aos="fade-in" data-aos-once="true">
 	  <div class="col order-md-1">
             <h2 class="featurette-heading" id="examples" style="text-align: center;"><span class="courier-code">galpy</span> in action</h2>
-            <p class="lead"><span class="courier-code">galpy</span> has been used in more than <a href="https://galpy.readthedocs.io/en/latest/index.html#papers-using-galpy" target="_blank">200 scientific publications</a> in the astrophysical literature. From the properties of planetary systems around distant stars, the kinematics of pulsars and stars ejected from the Milky Way by supernova explosions, and binary evolution in stellar clusters, to chemo-dynamical modeling of stellar populations in the Milky Way and the dynamics of satellites around external galaxies, <span class="courier-code">galpy</span> is widely used throughout astrophysics.<br/><br/></p><p class="lead" style="text-align:center;">Check out the gallery below for examples:</p>
+            <p class="lead"><span class="courier-code">galpy</span> has been used in more than <a href="https://galpy.readthedocs.io/en/latest/index.html#papers-using-galpy" target="_blank"><span id="span-number-of-papers-using-galpy">200</span> scientific publications</a> in the astrophysical literature. From the properties of planetary systems around distant stars, the kinematics of pulsars and stars ejected from the Milky Way by supernova explosions, and binary evolution in stellar clusters, to chemo-dynamical modeling of stellar populations in the Milky Way and the dynamics of satellites around external galaxies, <span class="courier-code">galpy</span> is widely used throughout astrophysics.<br/><br/></p><p class="lead" style="text-align:center;">Check out the gallery below for examples:</p>
 	  </div>
 	<!--</div>-->
 	    
@@ -163,6 +163,9 @@
         // Create the list of image divs with papers using galpy
         $.getJSON("./data/papers-using-galpy.json")
         .done(function(data) {
+          // First update the number of papers using galpy listed on the page
+          let paperSpan= document.getElementById("span-number-of-papers-using-galpy");
+          paperSpan.innerHTML= (Math.round((Object.keys(data).length-1)/50)*50).toFixed(0);
           // randomize array to create random starting point, https://stackoverflow.com/a/56448185/10195320
           function shuffle(obj){
             // new obj to return
