@@ -1,0 +1,28 @@
+name: Update website
+
+# Update on every push
+on: [push]
+
+jobs:
+  build:
+    name: Update website
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'ci skip')"
+    steps:
+      # check-out this repository
+      - uses: actions/checkout@v2
+      # Verify the JSON file
+      - name: verify papers JSON
+        working-directory: py
+        shell: bash -l {0}
+        run: python verify_papers_json.py
+      # Push to Amazon S3
+      - name: Upload website
+        uses: jakejarvis/s3-sync-action@v0.5.1
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-east-2'
+          SOURCE_DIR: 'src'      # optional: defaults to entire repository
+        
