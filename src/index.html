@@ -34,9 +34,9 @@
       <!-- full-page landing image + short description -->
       <div class="container">
 	<div class="center-screen" style="text-align: center; margin-top: 0em; margin-bottom: 0em;">
-	  <!-- <img src="images/logo-small.png" width="225" alt="galpy: Galactic dynamics in Python" /> --> 
 	  <img id="logo-gif" src="images/galpy-logo.gif" width="225" alt="galpy: Galactic dynamics in Python" />
 	  <p style="margin-top: 1em; font-style: italic; opacity: 0" id="galpy-intro-statement"><span class="courier-code">galpy</span> is a Python package for galactic dynamics.</p>
+	  <p class="lower-left-screen" style="color: gray; opacity: 1" id="galpy-intro-loading"><span class="courier-code">Loading ...</p>
 	</div>
       </div>
       
@@ -152,10 +152,15 @@
       var gifSource = $("#logo-gif").attr("src"); //get the source in the var
       $("#logo-gif").attr("src", ""); //erase the source     
       $("#logo-gif").attr("src", gifSource+"?"+new Date().getTime()); //add the date to the source of the image...
-      // Landing page animation
+      // Landing page animations: fade-in the intro statement
       setTimeout(function(){
         $("#galpy-intro-statement").animate({opacity: "0"},{duration: 3000, complete: function(){
         $("#galpy-intro-statement").animate({opacity: "1"}, 3000);
+      }})});
+      // Fade out "Loading ..." statement
+      setTimeout(function(){
+        $("#galpy-intro-loading").animate({opacity: "1"},{duration: 2000, complete: function(){
+        $("#galpy-intro-loading").animate({opacity: "0"}, 2000);
       }})});
       setTimeout(function(){
         // First make this section visible

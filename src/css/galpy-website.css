@@ -12,6 +12,12 @@ body {
   min-height: 100vh;
 }
 
+.lower-left-screen {
+  position:absolute;
+  bottom: 0;
+  left: 2em;
+}
+
 .center {
   display: flex;
   flex-direction: column;
