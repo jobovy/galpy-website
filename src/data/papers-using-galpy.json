@@ -1597,7 +1597,8 @@
     "journal": "Astrophys. J.",
     "volume": "882",
     "pages": "111",
-    "url": "http://arxiv.org/abs/1907.10100"
+    "url": "http://arxiv.org/abs/1907.10100",
+    "img": "daniel19a.png"
   },
   "Ness19a": {
     "author": "Melissa K. Ness, Kathryn V. Johnston, Kirsten Blancato, Hans-Walter Rix, Angus Beane, Jonathan C. Bird, & Keith Hawkins",
@@ -1606,7 +1607,8 @@
     "journal": "Astrophys. J.",
     "volume": "submitted",
     "pages": "",
-    "url": "https://arxiv.org/abs/1907.10606"
+    "url": "https://arxiv.org/abs/1907.10606",
+    "img": "ness19a.png"
   },
   "Burdge19a": {
     "author": "Kevin B. Burdge, Michael W. Coughlin, Jim Fuller, et al.",
@@ -1615,7 +1617,8 @@
     "journal": "Nature",
     "volume": "571",
     "pages": "528",
-    "url": "http://arxiv.org/abs/1907.11291"
+    "url": "http://arxiv.org/abs/1907.11291",
+    "img": "burdge19a.png"
   },
   "Webb19a": {
     "author": "Jeremy J. Webb, Jo Bovy, Raymond G. Carlberg, & Mark Gieles",
@@ -1624,7 +1627,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "488",
     "pages": "5748",
-    "url": "http://arxiv.org/abs/1907.13132"
+    "url": "http://arxiv.org/abs/1907.13132",
+    "img": "webb19a.png"
   },
   "Rao19a": {
     "author": "Anjali Rao, Poshak Gandhi, Christian Knigge, John A. Paice, Nathan W. C. Leigh, & Douglas Boubert",
@@ -1633,7 +1637,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1908.00810"
+    "url": "http://arxiv.org/abs/1908.00810",
+    "img": "rao19a.png"
   },
   "Yang19a": {
     "author": "T. Yang, S. S. Boruah, & N. Afshordi",
@@ -1642,7 +1647,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1908.02336"
+    "url": "http://arxiv.org/abs/1908.02336",
+    "img": "yang19a.png"
   },
   "Stone19a": {
     "author": "Connor Stone & Stephane Courteau",
@@ -1651,7 +1657,8 @@
     "journal": "Astrophys. J.",
     "volume": "882",
     "pages": "6",
-    "url": "http://arxiv.org/abs/1908.06105"
+    "url": "http://arxiv.org/abs/1908.06105",
+    "img": "stone19a.png"
   },
   "Blunt19a": {
     "author": "Sarah Blunt, Michael Endl, Lauren M. Weiss, et al.",
@@ -1660,7 +1667,8 @@
     "journal": "Astron. J.",
     "volume": "158",
     "pages": "181",
-    "url": "http://arxiv.org/abs/1908.09925"
+    "url": "http://arxiv.org/abs/1908.09925",
+    "img": "blunt19a.png"
   },
   "Cakmak19a": {
     "author": "Hikmet \u00c7akmak, Ra\u00fal Michel, Y\u00fcksel Karata\u015f",
@@ -1669,7 +1677,8 @@
     "journal": "Turkish J. Phys.",
     "volume": "in press",
     "pages": "",
-    "url": "http://arxiv.org/abs/1908.05479"
+    "url": "http://arxiv.org/abs/1908.05479",
+    "img": "cakmak19a.png"
   },
   "Postnikova19a": {
     "author": "E. S. Postnikova, W. H. Elsanhoury, Devesh P. Sariya, N. V. Chupina, S. V. Vereshchagin, Ing-Guey Jiang",
@@ -1678,7 +1687,8 @@
     "journal": "Research in Astron. Astrophys.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1908.10094"
+    "url": "http://arxiv.org/abs/1908.10094",
+    "img": "postnikova19a.png"
   },
   "Atri19a": {
     "author": "P. Atri, J. C. A. Miller-Jones, A. Bahramian, et al.",
@@ -1687,7 +1697,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "489",
     "pages": "3116",
-    "url": "http://arxiv.org/abs/1908.07199"
+    "url": "http://arxiv.org/abs/1908.07199",
+    "img": "atri19a.png"
   },
   "Potravnov19a": {
     "author": "I.S. Potravnov, V.P. Grinin, N.A. Serebriakova",
@@ -1696,7 +1707,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "630",
     "pages": "A64",
-    "url": "http://arxiv.org/abs/1908.08673"
+    "url": "http://arxiv.org/abs/1908.08673",
+    "img": "potravnov19a.png"
   },
   "Starkman19a": {
     "author": "Nathaniel Starkman, Jo Bovy, & Jeremy Webb",
