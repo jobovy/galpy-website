@@ -1714,7 +1714,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1909.04679"
+    "url": "http://arxiv.org/abs/1909.04679",
+    "img": "belokurov19a.png"
   },
   "OHare19a": {
     "author": "Ciaran A. J. O\u2019Hare, N. Wyn Evans, Christopher McCabe, GyuChul Myeong, & Vasily Belokurov",
@@ -1723,7 +1724,8 @@
     "journal": "Phys. Rev. D",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1909.04684"
+    "url": "http://arxiv.org/abs/1909.04684",
+    "img": "ohare19a.png"
   },
   "Kushniruk19a": {
     "author": "Iryna Kushniruk & Thomas Bensby",
@@ -1732,7 +1734,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "631",
     "pages": "A47",
-    "url": "http://arxiv.org/abs/1909.04949"
+    "url": "http://arxiv.org/abs/1909.04949",
+    "img": "kushniruk19a.png"
   },
   "Frankel19a": {
     "author": "Neige Frankel, Jason Sanders, Hans-Walter Rix, Yuan-Sen Ting, & Melissa Ness",
@@ -1741,7 +1744,8 @@
     "journal": "Astrophys. J.",
     "volume": "884",
     "pages": "99",
-    "url": "http://arxiv.org/abs/1909.07118"
+    "url": "http://arxiv.org/abs/1909.07118",
+    "img": "frankel19a.png"
   },
   "Longeard19b": {
     "author": "Nicolas Longeard, Nicolas Martin, Rodrigo A. Ibata, Michelle L.M. Collins, Benjamin P.M. Laevens, Eric Bell, Dougal Mackey",
@@ -1750,7 +1754,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "490",
     "pages": "1498",
-    "url": "http://arxiv.org/abs/1909.08622"
+    "url": "http://arxiv.org/abs/1909.08622",
+    "img": "longeard19b.png"
   },
   "Kwang19a": {
     "author": "Young Kwang Kim, Young Sun Lee, & Timothy C. Beers",
@@ -1759,7 +1764,8 @@
     "journal": "Astrophys. J.",
     "volume": "882",
     "pages": "176",
-    "url": "http://arxiv.org/abs/1909.11250"
+    "url": "http://arxiv.org/abs/1909.11250",
+    "img": "kwang19a.png"
   },
   "Monty19a": {
     "author": "Stephanie Monty, Kim A. Venn, James M. M. Lane, Deborah Lokhorst, & David Yong",
@@ -1768,7 +1774,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1909.11969"
+    "url": "http://arxiv.org/abs/1909.11969",
+    "img": "monty19a.png"
   },
   "Pathak19b": {
     "author": "Dhruv Pathak & Manjari Bagchi",
@@ -1777,7 +1784,8 @@
     "journal": "",
     "volume": "",
     "pages": "",
-    "url": "http://arxiv.org/abs/1909.13113"
+    "url": "http://arxiv.org/abs/1909.13113",
+    "img": "pathak19b.png"
   },
   "Webb19b": {
     "author": "Jeremy J. Webb, Natalie Price-Jones, Jo Bovy, Simon Portegies Zwart, Jason A. S. Hunt, J. Ted Mackereth, & Henry W. Leung",
@@ -1786,7 +1794,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1910.01646"
+    "url": "http://arxiv.org/abs/1910.01646",
+    "img": "webb19b.png"
   },
   "Bub19a": {
     "author": "Mathew W. Bub & Cristobal Petrovich",
@@ -1795,7 +1804,8 @@
     "journal": "Astrophys. J.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1910.02079"
+    "url": "http://arxiv.org/abs/1910.02079",
+    "img": "bub19a.png"
   },
   "Mackereth19b": {
     "author": "J. Ted Mackereth & Jo Bovy",
@@ -1804,7 +1814,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "in press",
     "pages": "",
-    "url": "http://arxiv.org/abs/1910.03590"
+    "url": "http://arxiv.org/abs/1910.03590",
+    "img": "mackereth19b.png"
   },
   "Zevin19a": {
     "author": "Michael Zevin, Luke Zoltan Kelley, Anya Nugent, Wen-fai Fong, Christopher P. L. Berry, Vicky Kalogera",
