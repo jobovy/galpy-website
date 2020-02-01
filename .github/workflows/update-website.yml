@@ -11,6 +11,11 @@ jobs:
     steps:
       # check-out this repository
       - uses: actions/checkout@v2
+      # Specify Python version as >=3
+      - uses: actions/setup-python@v1
+        with:
+          python-version: '>3.6'
+          architecture: 'x64' 
       # Verify the JSON file
       - name: verify papers JSON
         working-directory: py
