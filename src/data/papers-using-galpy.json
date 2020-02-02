@@ -1345,7 +1345,8 @@
     "journal": "Astron. J.",
     "volume": "157",
     "pages": "125",
-    "url": "http://arxiv.org/abs/1902.10220"
+    "url": "http://arxiv.org/abs/1902.10220",
+    "img": "derosa19a.png"
   },
   "Gandhi19a": {
     "author": "Suroor S Gandhi & Melissa K Ness",
@@ -1354,7 +1355,8 @@
     "journal": "Astrophys. J.",
     "volume": "880",
     "pages": "134",
-    "url": "http://arxiv.org/abs/1903.04030"
+    "url": "http://arxiv.org/abs/1903.04030",
+    "img": "gandhi19a.png"
   },
   "Tonnesen19a": {
     "author": "Stephanie Tonnesen",
@@ -1363,7 +1365,8 @@
     "journal": "Astrophys. J.",
     "volume": "874",
     "pages": "161",
-    "url": "http://arxiv.org/abs/1903.08178"
+    "url": "http://arxiv.org/abs/1903.08178",
+    "img": "tonnesen19a.png"
   },
   "Michtchenko19a": {
     "author": "Tatiana A. Michtchenko, Douglas A. Barros, Angeles P\u00e9rez-Villegas, & Jacques R. D. L\u00e9pine",
@@ -1372,7 +1375,8 @@
     "journal": "Astrophys. J.",
     "volume": "876",
     "pages": "36",
-    "url": "http://arxiv.org/abs/1903.08325"
+    "url": "http://arxiv.org/abs/1903.08325",
+    "img": "michtchenko19a.png"
   },
   "Matsuno19a": {
     "author": "Tadafumi Matsuno, Wako Aoki, & Takuma Suda",
@@ -1381,7 +1385,8 @@
     "journal": "Astrophys. J. Lett.",
     "volume": "874",
     "pages": "L35",
-    "url": "http://arxiv.org/abs/1903.09456"
+    "url": "http://arxiv.org/abs/1903.09456",
+    "img": "matsuno19a.png"
   },
   "Donlon19a": {
     "author": "Thomas Donlon II, Heidi Jo Newberg, Jake Weiss, Paul Amy, & Jeffery Thompson",
@@ -1390,7 +1395,8 @@
     "journal": "Astrophys. J.",
     "volume": "886",
     "pages": "76",
-    "url": "http://arxiv.org/abs/1903.10136"
+    "url": "http://arxiv.org/abs/1903.10136",
+    "img": "donlon19a.png"
   },
   "Savino19a": {
     "author": "A. Savino & L. Posti",
@@ -1399,7 +1405,8 @@
     "journal": "Astron. & Astrophys. Lett.",
     "volume": "624",
     "pages": "L9",
-    "url": "http://arxiv.org/abs/1904.01021"
+    "url": "http://arxiv.org/abs/1904.01021",
+    "img": "savino19a.png"
   },
   "Li19a": {
     "author": "Zhao-Yu Li & Juntai Shen",
@@ -1408,7 +1415,8 @@
     "journal": "Astrophys. J.",
     "volume": "in press",
     "pages": "",
-    "url": "http://arxiv.org/abs/1904.03314"
+    "url": "http://arxiv.org/abs/1904.03314",
+    "img": "li19a.png"
   },
   "Kiman19a": {
     "author": "Rocio Kiman, Sarah J. Schmidt, Ruth Angus, Kelle L. Cruz, Jacqueline K. Faherty, Emily Rice",
@@ -1417,7 +1425,8 @@
     "journal": "Astron. J.",
     "volume": "157",
     "pages": "231",
-    "url": "http://arxiv.org/abs/1904.05911"
+    "url": "http://arxiv.org/abs/1904.05911",
+    "img": "kiman19a.png"
   },
   "Hunt19a": {
     "author": "Jason A. S. Hunt, Mathew W. Bub, Jo Bovy, J. Ted Mackereth, Wilma H. Trick, & Daisuke Kawata",
@@ -1426,7 +1435,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "490",
     "pages": "1026",
-    "url": "http://arxiv.org/abs/1904.10968"
+    "url": "http://arxiv.org/abs/1904.10968",
+    "img": "hunt19a.png"
   },
   "Gran19a": {
     "author": "F. Gran, M. Zoccali, R. Contreras Ramos, E. Valenti, A. Rojas-Arriagada, J. A. Carballo-Bello, J. Alonso-Garc\u00eda, D. Minniti, M. Rejkuba, & F. Surot",
@@ -1435,7 +1445,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "628",
     "pages": "A45",
-    "url": "http://arxiv.org/abs/1904.10872"
+    "url": "http://arxiv.org/abs/1904.10872",
+    "img": "gran19a.png"
   },
   "Iorio19a": {
     "author": "G. Iorio, C. Nipoti, G. Battaglia, & A. Sollima",
@@ -1444,7 +1455,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "487",
     "pages": "5692",
-    "url": "http://arxiv.org/abs/1904.10461"
+    "url": "http://arxiv.org/abs/1904.10461",
+    "img": "iorio19a.png"
   },
   "Pathak19a": {
     "author": "Dhruv Pathak & Manjari Bagchi",
@@ -1453,7 +1465,8 @@
     "journal": "",
     "volume": "",
     "pages": "",
-    "url": "http://arxiv.org/abs/1905.01159"
+    "url": "http://arxiv.org/abs/1905.01159",
+    "img": "pathak19a.png"
   },
   "Kunder19a": {
     "author": "Andrea Kunder, Alex Tilton, Dylon Maertens, Jonathan Ogata, David Nataf, R. Michael Rich, Christian I. Johnson, Christina Gilligan, & Brian Chaboyer",
@@ -1462,7 +1475,8 @@
     "journal": "Astrophys. J. Lett.",
     "volume": "877",
     "pages": "L17",
-    "url": "http://arxiv.org/abs/1905.03256"
+    "url": "http://arxiv.org/abs/1905.03256",
+    "img": "kunder19a.png"
   },
   "Xing19a": {
     "author": "Qian-Fan Xing, Gang Zhao, Wako Aoki, Satoshi Honda, Hai-Ning Li, Miho N. Ishigaki, & Tadafumi Matsuno",
@@ -1471,7 +1485,8 @@
     "journal": "Nature Astron.",
     "volume": "3",
     "pages": "631",
-    "url": "http://arxiv.org/abs/1905.04141"
+    "url": "http://arxiv.org/abs/1905.04141",
+    "img": "xing19a.png"
   },
   "Kipper19a": {
     "author": "Rain Kipper, Peeter Tenjes, Gert Hutsi, Taavi Tuvikene, & Elmo Tempel",
