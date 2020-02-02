@@ -895,7 +895,8 @@
     "journal": "Astrophys. J.",
     "volume": "860",
     "pages": "91",
-    "url": "https://arxiv.org/abs/1805.02332"
+    "url": "https://arxiv.org/abs/1805.02332",
+    "img": "vickers18a.png"
   },
   "Liu18a": {
     "author": "X. J. Liu, C. G. Bassa, & B. W. Stappers",
@@ -904,7 +905,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "478",
     "pages": "2359",
-    "url": "http://arxiv.org/abs/1805.02892"
+    "url": "http://arxiv.org/abs/1805.02892",
+    "img": "liu18a.png"
   },
   "Trick18a": {
     "author": "Wilma H. Trick, Johanna Coronado, Hans-Walter Rix",
@@ -913,7 +915,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "484",
     "pages": "3291",
-    "url": "http://arxiv.org/abs/1805.03653"
+    "url": "http://arxiv.org/abs/1805.03653",
+    "img": "trick18a.png"
   },
   "Dehnen18a": {
     "author": "Walter Dehnen & Hasanuddin",
@@ -922,7 +925,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "479",
     "pages": "4720",
-    "url": "http://arxiv.org/abs/1805.08481"
+    "url": "http://arxiv.org/abs/1805.08481",
+    "img": "dehnen18a.png"
   },
   "Deason18a": {
     "author": "Alis J. Deason, Vasily Belokurov, Sergey E. Koposov, & Lachlan Lancaster",
@@ -931,7 +935,8 @@
     "journal": "Astrophys. J. Lett.",
     "volume": "862",
     "pages": "L1",
-    "url": "http://arxiv.org/abs/1805.10288"
+    "url": "http://arxiv.org/abs/1805.10288",
+    "img": "deason18a.png"
   },
   "Carlin18a": {
     "author": "Jeffrey L. Carlin & David J. Sand",
@@ -940,7 +945,8 @@
     "journal": "Astrophys. J.",
     "volume": "865",
     "pages": "7",
-    "url": "https://arxiv.org/abs/1805.11624"
+    "url": "https://arxiv.org/abs/1805.11624",
+    "img": "carlin18a.png"
   },
   "Pace18a": {
     "author": "Andrew B. Pace & Ting S. Li",
@@ -949,7 +955,8 @@
     "journal": "Astrophys. J.",
     "volume": "875",
     "pages": "77",
-    "url": "http://arxiv.org/abs/1806.02345"
+    "url": "http://arxiv.org/abs/1806.02345",
+    "img": "pace18a.png"
   },
   "Hunt18b": {
     "author": "Jason A. S. Hunt, Jack Hong, Jo Bovy, Daisuke Kawata, Robert J. J. Grand",
@@ -958,7 +965,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "481",
     "pages": "3794",
-    "url": "http://arxiv.org/abs/1806.02832"
+    "url": "http://arxiv.org/abs/1806.02832",
+    "img": "hunt18b.png"
   },
   "Yoon18a": {
     "author": "Jinmi Yoon, Timothy C. Beers, Sarah Dietz, Young Sun Lee, Vinicius M. Placco, Gary Da Costa, Stefan Keller, Christopher I. Owen, & Mahavir Sharma",
@@ -967,7 +975,8 @@
     "journal": "Astrophys. J.",
     "volume": "861",
     "pages": "146",
-    "url": "http://arxiv.org/abs/1806.04738"
+    "url": "http://arxiv.org/abs/1806.04738",
+    "img": "yoon18a.png"
   },
   "Li18a": {
     "author": "Chengdong Li, Gang Zhao, Meng Zhai, & Yunpeng Jia",
@@ -976,7 +985,8 @@
     "journal": "Astrophys. J.",
     "volume": "860",
     "pages": "53",
-    "url": "http://adsabs.harvard.edu/abs/2018ApJ...860...53L"
+    "url": "http://adsabs.harvard.edu/abs/2018ApJ...860...53L",
+    "img": "li18a.png"
   },
   "Mikolaitis18a": {
     "author": "Sarunas Mikolaitis, Grazina Tautvaisiene, Arnas Drazdauskas, & Renata Minkeviciute",
@@ -985,7 +995,8 @@
     "journal": "Publ. Astron. Soc. Pacific",
     "volume": "130",
     "pages": "074202",
-    "url": "http://arxiv.org/abs/1901.01082"
+    "url": "http://arxiv.org/abs/1901.01082",
+    "img": "mikolaitis18a.png"
   },
   "Peng18a": {
     "author": "Xiyan Peng, Zhenyu Wu, Zhaoxiang Qi, Cuihua Du, Jun Ma, Xu Zhou, Yunpeng Jia, & Songhu Wang",
@@ -994,7 +1005,8 @@
     "journal": "Publ. Astron. Soc. Pacific",
     "volume": "130",
     "pages": "074102",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018PASP..130g4102P"
+    "url": "https://ui.adsabs.harvard.edu/abs/2018PASP..130g4102P",
+    "img": "peng18a.png"
   },
   "Simion18a": {
     "author": "Iulia T. Simion, Vasily Belokurov, & Sergey E. Koposov",
@@ -1003,7 +1015,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "482",
     "pages": "921",
-    "url": "http://arxiv.org/abs/1807.01335"
+    "url": "http://arxiv.org/abs/1807.01335",
+    "img": "simion18a.png"
   },
   "Kos18a": {
     "author": "Janez Kos, Gayandhi de Silva, Joss Bland-Hawthorn, et al.",
@@ -1012,7 +1025,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "480",
     "pages": "5242",
-    "url": "http://arxiv.org/abs/1807.00822"
+    "url": "http://arxiv.org/abs/1807.00822",
+    "img": "kos18a.png"
   },
   "Archibald18a": {
     "author": "Anne M. Archibald, Nina V. Gusinskaia, Jason W. T. Hessels, Adam T. Deller, David L. Kaplan, Duncan R. Lorimer, Ryan S. Lynch, Scott M. Ransom, & Ingrid H. Stairs",
@@ -1021,7 +1035,8 @@
     "journal": "Nature",
     "volume": "559",
     "pages": "73",
-    "url": "https://arxiv.org/abs/1807.02059"
+    "url": "https://arxiv.org/abs/1807.02059",
+    "img": "archibald18a.png"
   },
   "Contigiani18a": {
     "author": "O. Contigiani, E. M. Rossi, T. Marchetti",
@@ -1030,7 +1045,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "487",
     "pages": "4025",
-    "url": "http://arxiv.org/abs/1807.04468"
+    "url": "http://arxiv.org/abs/1807.04468",
+    "img": "contigiani18a.png"
   },
   "Malhan18a": {
     "author": "Khyati Malhan & Rodrigo A. Ibata",
@@ -1039,7 +1055,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "486",
     "pages": "2995",
-    "url": "http://arxiv.org/abs/1807.05994"
+    "url": "http://arxiv.org/abs/1807.05994",
+    "img": "malhan18a.png"
   },
   "Robitaille18a": {
     "author": "J.-F. Robitaille, A. M. M. Scaife, E. Carretti, M. Haverkorn, R. M. Crocker, M. J. Kesteven, S. Poppi, & L. Staveley-Smith",
@@ -1048,7 +1065,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "617",
     "pages": "A101",
-    "url": "http://arxiv.org/abs/1807.04054"
+    "url": "http://arxiv.org/abs/1807.04054",
+    "img": "robitaill18a.png"
   },
   "Cotar18a": {
     "author": "Klemen \u010cotar, Toma\u017e Zwitter, Janez Kos, et al.",
@@ -1057,7 +1075,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "483",
     "pages": "3196",
-    "url": "http://arxiv.org/abs/1807.07977"
+    "url": "http://arxiv.org/abs/1807.07977",
+    "img": "cotar18a.png"
   },
   "Darling18a": {
     "author": "Keir Darling & Lawrence M. Widrow",
@@ -1066,7 +1085,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "484",
     "pages": "1050",
-    "url": "http://arxiv.org/abs/1807.11516"
+    "url": "http://arxiv.org/abs/1807.11516",
+    "img": "darling18a.png"
   },
   "Longeard18a": {
     "author": "Nicolas Longeard, Nicolas Martin, Else Starkenburg, et al.",
@@ -1075,7 +1095,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "480",
     "pages": "2609",
-    "url": "http://arxiv.org/abs/1807.10655"
+    "url": "http://arxiv.org/abs/1807.10655",
+    "img": "longeard18a.png"
   },
   "Mackereth18b": {
     "author": "J. Ted Mackereth, Ricardo P. Schiavon, Joel Pfeffer, et al.",
@@ -1084,7 +1105,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "482",
     "pages": "3426",
-    "url": "http://arxiv.org/abs/1808.00968"
+    "url": "http://arxiv.org/abs/1808.00968",
+    "img": "mackereth18a.png"
   },
   "Ting18a": {
     "author": "Yuan-Sen Ting & Hans-Walter Rix",
@@ -1093,7 +1115,8 @@
     "journal": "Astrophys. J.",
     "volume": "878",
     "pages": "21",
-    "url": "http://arxiv.org/abs/1808.03278"
+    "url": "http://arxiv.org/abs/1808.03278",
+    "img": "ting18a.png"
   },
   "Almeida-Fernandes18a": {
     "author": "F. Almeida-Fernandes & H. J. Rocha-Pinto",
@@ -1102,7 +1125,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "480",
     "pages": "4903",
-    "url": "http://arxiv.org/abs/1808.03637"
+    "url": "http://arxiv.org/abs/1808.03637",
+    "img": "almeida-fernandes18a.png"
   },
   "Valentini18a": {
     "author": "M. Valentini, C. Chiappini, D. Bossini, et al.",
@@ -1111,7 +1135,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "627",
     "pages": "A173",
-    "url": "http://arxiv.org/abs/1808.08569"
+    "url": "http://arxiv.org/abs/1808.08569",
+    "img": "valentini18a.png"
   },
   "Jia18a": {
     "author": "Yunpeng Jia, Yuqin Chen, Gang Zhao, Xiangxiang Xue, Jingkun Zhao, Chengqun Yang, & Chengdong Li",
