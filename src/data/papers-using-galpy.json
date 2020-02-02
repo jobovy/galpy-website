@@ -1120,7 +1120,8 @@
     "journal": "Astrophys. J.",
     "volume": "863",
     "pages": "93",
-    "url": "http://arxiv.org/abs/1808.05386"
+    "url": "http://arxiv.org/abs/1808.05386",
+    "img": "jia18a.png"
   },
   "Kaderali18a": {
     "author": "Shaziana Kaderali, Jason A. S. Hunt, Jeremy J. Webb, Natalie Price-Jones, & Raymond Carlberg",
@@ -1129,7 +1130,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "484",
     "pages": "L114",
-    "url": "https://arxiv.org/abs/1809.04108"
+    "url": "https://arxiv.org/abs/1809.04108",
+    "img": "kaderali18a.png"
   },
   "Li18b": {
     "author": "Haining Li, Kefeng Tan, & Gang Zhao",
@@ -1138,7 +1140,8 @@
     "journal": "Astrophys. J. Supp.",
     "volume": "238",
     "pages": "16",
-    "url": "http://arxiv.org/abs/1809.03881"
+    "url": "https://ui.adsabs.harvard.edu/abs/2018ApJS..238...16L",
+    "img": "li18b.png"
   },
   "Adibekyan18a": {
     "author": "V. Adibekyan, P. de Laverny, A. Recio-Blanco, et al.",
@@ -1147,7 +1150,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "619",
     "pages": "A130",
-    "url": "http://arxiv.org/abs/1810.01813"
+    "url": "http://arxiv.org/abs/1810.01813",
+    "img": "adibekyan18a.png"
   },
   "Gomel18a": {
     "author": "Roy Gomel, Sahar Shahaf, Tsevi Mazeh, Simchon Faigler, Lisa A. Crause, Ramotholo Sefako, Damien Segransan, Pierre F.L. Maxted, & Igor Soszynski",
@@ -1156,7 +1160,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "482",
     "pages": "5327",
-    "url": "http://arxiv.org/abs/1810.09501"
+    "url": "http://arxiv.org/abs/1810.09501",
+    "img": "gomel18a.png"
   },
   "Schlaufman18a": {
     "author": "Kevin C. Schlaufman, Ian B. Thompson, & Andrew R. Casey",
@@ -1165,7 +1170,8 @@
     "journal": "Astrophys. J.",
     "volume": "867",
     "pages": "98",
-    "url": "http://arxiv.org/abs/1811.00549"
+    "url": "http://arxiv.org/abs/1811.00549",
+    "img": "schlaufman18a.png"
   },
   "Igoshev18a": {
     "author": "Andrei P. Igoshev",
@@ -1174,7 +1180,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "482",
     "pages": "3415",
-    "url": "http://arxiv.org/abs/1810.12922"
+    "url": "http://arxiv.org/abs/1810.12922",
+    "img": "igoshev18a.png"
   },
   "Sestito18a": {
     "author": "Federico Sestito, Nicolas Longeard, Nicolas F. Martin, et al.",
@@ -1183,7 +1190,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "484",
     "pages": "2166",
-    "url": "http://arxiv.org/abs/1811.03099"
+    "url": "http://arxiv.org/abs/1811.03099",
+    "img": "sestito18a.png"
   },
   "Li18c": {
     "author": "Guang-Wei Li, Brian Yanny, & Yue Wu",
@@ -1192,7 +1200,8 @@
     "journal": "Astrophys. J.",
     "volume": "869",
     "pages": "122",
-    "url": "http://arxiv.org/abs/1811.06427"
+    "url": "http://arxiv.org/abs/1811.06427",
+    "img": "li18c.png"
   },
   "Richings18a": {
     "author": "Jack Richings, Carlos Frenk, Adrian Jenkins, Andrew Robertson",
@@ -1201,7 +1210,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "in press",
     "pages": "",
-    "url": "https://arxiv.org/abs/1811.12437"
+    "url": "https://arxiv.org/abs/1811.12437",
+    "img": "richings18a.png"
   },
   "Webb18a": {
     "author": "Jeremy J. Webb & Jo Bovy",
@@ -1210,7 +1220,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "485",
     "pages": "5929",
-    "url": "http://arxiv.org/abs/1811.07022"
+    "url": "http://arxiv.org/abs/1811.07022",
+    "img": "webb18a.png"
   },
   "Zhang18a": {
     "author": "Lan Zhang, Dana I. Casetti-Dinescu, Christian Moni Bidin, Rene A. Mendez, Terrence M. Girard, Katherine Vieira, Vladimir I. Korchagin, William F. van Altena, & Gang Zhao",
@@ -1219,7 +1230,8 @@
     "journal": "Astrophys. J.",
     "volume": "871",
     "pages": "99",
-    "url": "http://arxiv.org/abs/1812.00198"
+    "url": "http://arxiv.org/abs/1812.00198",
+    "img": "zhang18a.png"
   },
   "Jankowski18a": {
     "author": "F. Jankowski, M. Bailes, W. van Straten, et al.",
@@ -1228,7 +1240,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "484",
     "pages": "3691",
-    "url": "http://arxiv.org/abs/1812.04038"
+    "url": "http://arxiv.org/abs/1812.04038",
+    "img": "jankowski18a.png"
   },
   "Fu19a": {
     "author": "Sal Wanying Fu, Joshua D. Simon, Alex G. Alarcon Jara",
@@ -1237,7 +1250,8 @@
     "journal": "Astrophys. J.",
     "volume": "883",
     "pages": "11",
-    "url": "http://arxiv.org/abs/1901.00594"
+    "url": "http://arxiv.org/abs/1901.00594",
+    "img": "fu19a.png"
   },
   "Mackereth19a": {
     "author": "J. Ted Mackereth, Jo Bovy, Henry W. Leung, et al.",
@@ -1246,7 +1260,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "489",
     "pages": "176",
-    "url": "http://arxiv.org/abs/1901.04502"
+    "url": "http://arxiv.org/abs/1901.04502",
+    "img": "mackereth19a.png"
   },
   "Hasselquist19a": {
     "author": "Sten Hasselquist, Jeffrey L. Carlin, Jon A. Holtzman, et al.",
@@ -1255,7 +1270,8 @@
     "journal": "Astrophys. J.",
     "volume": "872",
     "pages": "58",
-    "url": "http://arxiv.org/abs/1901.04559"
+    "url": "http://arxiv.org/abs/1901.04559",
+    "img": "hasselquist19a.png"
   },
   "Hayden18a": {
     "author": "Michael R. Hayden, Joss Bland-Hawthorn, Sanjib Sharma, et al.",
@@ -1264,7 +1280,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "submitted",
     "pages": "",
-    "url": "https://arxiv.org/abs/1901.07565"
+    "url": "https://arxiv.org/abs/1901.07565",
+    "img": "hayden18a.png"
   },
   "Longeard19a": {
     "author": "Nicolas Longeard, Nicolas Martin, Else Starkenburg, et al.",
@@ -1273,7 +1290,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "491",
     "pages": "356",
-    "url": "http://arxiv.org/abs/1902.02780"
+    "url": "http://arxiv.org/abs/1902.02780",
+    "img": "longeard19a.png"
   },
   "Hamilton19a": {
     "author": "Chris Hamilton & Roman R. Rafikov",
@@ -1282,7 +1300,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "488",
     "pages": "5489",
-    "url": "http://arxiv.org/abs/1902.01344"
+    "url": "http://arxiv.org/abs/1902.01344",
+    "img": "hamilton19a.png"
   },
   "Hamilton19b": {
     "author": "Chris Hamilton & Roman R. Rafikov",
@@ -1291,7 +1310,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "488",
     "pages": "5512",
-    "url": "http://arxiv.org/abs/1902.01345"
+    "url": "http://arxiv.org/abs/1902.01345",
+    "img": "hamilton19b.png"
   },
   "Tang19a": {
     "author": "Shih-Yun Tang, Xiaoying Pang, Zhen Yuan, W. P. Chen, Jongsuk Hong, Bertrand Goldman, Andreas Just, Bekdaulet Shukirgaliyev, & Chien-Cheng Lin",
@@ -1300,7 +1320,8 @@
     "journal": "Astrophys. J.",
     "volume": "877",
     "pages": "12",
-    "url": "http://arxiv.org/abs/1902.01404"
+    "url": "http://arxiv.org/abs/1902.01404",
+    "img": "tang19a.png"
   },
   "Raddi19a": {
     "author": "R. Raddi, M. A. Hollands, D. Koester, et al.",
@@ -1309,7 +1330,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "489",
     "pages": "1489",
-    "url": "https://arxiv.org/abs/1902.05061"
+    "url": "https://arxiv.org/abs/1902.05061",
+    "img": "raddi19a.png"
   },
   "Furnkranz19a": {
     "author": "Verena F\u00fcrnkranz, Stefan Meingast, Jo\u00e3o Alves",
@@ -1318,7 +1340,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "624",
     "pages": "L11",
-    "url": "https://arxiv.org/abs/1902.07216"
+    "url": "https://arxiv.org/abs/1902.07216",
+    "img": "furnkranz19a.png"
   },
   "Crundall19a": {
     "author": "Timothy D. Crundall, Michael J. Ireland, Mark R. Krumholz, Christoph Federrath, Maru\u0161a \u017derjal, Jonah T. Hansen",
@@ -1327,7 +1350,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "489",
     "pages": "3625",
-    "url": "http://arxiv.org/abs/1902.07732"
+    "url": "http://arxiv.org/abs/1902.07732",
+    "img": "crundall19a.png"
   },
   "Khanna19a": {
     "author": "Shourya Khanna, Sanjib Sharma, Thor Tepper-Garcia, et al.",
@@ -1336,7 +1360,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "489",
     "pages": "4962",
-    "url": "http://arxiv.org/abs/1902.10113"
+    "url": "http://arxiv.org/abs/1902.10113",
+    "img": "khanna19a.png"
   },
   "DeRosa19a": {
     "author": "Robert J. De Rosa & Paul Kalas",
