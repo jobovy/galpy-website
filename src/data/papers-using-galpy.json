@@ -1480,7 +1480,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "486",
     "pages": "5924",
-    "url": "http://arxiv.org/abs/1905.05553"
+    "url": "http://arxiv.org/abs/1905.05553",
+    "img": "kipper19a.png"
   },
   "Yeom19a": {
     "author": "Bum-Suk Yeom, Young Sun Lee, Jae-Rim Koo, Timothy C. Beers, & Young Kwang Kim",
@@ -1489,7 +1490,8 @@
     "journal": "J. Kor. Astron. Soc.",
     "volume": "52",
     "pages": "57",
-    "url": "http://arxiv.org/abs/1905.07879"
+    "url": "http://arxiv.org/abs/1905.07879",
+    "img": "yeom19a.png"
   },
   "Bovy19a": {
     "author": "Jo Bovy, Henry W. Leung, Jason A. S. Hunt, J. Ted Mackereth, et al.",
@@ -1498,7 +1500,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "490",
     "pages": "4740",
-    "url": "http://arxiv.org/abs/1905.11404"
+    "url": "http://arxiv.org/abs/1905.11404",
+    "img": "bovy19a.png"
   },
   "Prudil19a": {
     "author": "Z. Prudil, I. D\u00e9kany, E. K. Grebel, M. Catelan, M. Skarka, & R. Smolec",
@@ -1507,7 +1510,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "487",
     "pages": "3270",
-    "url": "http://arxiv.org/abs/1905.11870"
+    "url": "http://arxiv.org/abs/1905.11870",
+    "img": "prudil19a.png"
   },
   "Lane19a": {
     "author": "James M. M. Lane, Julio F. Navarro, Azadeh Fattahi, Kyle A. Oman, & Jo Bovy",
@@ -1516,7 +1520,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "in press",
     "pages": "94",
-    "url": "http://arxiv.org/abs/1905.12633"
+    "url": "http://arxiv.org/abs/1905.12633",
+    "img": "lane19a.png"
   },
   "Trick19a": {
     "author": "Wilma H. Trick, Francesca Fragkoudi, Jason A. S. Hunt, J. Ted Mackereth, & Simon D. M. White",
@@ -1525,7 +1530,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "in press",
     "pages": "",
-    "url": "http://arxiv.org/abs/1906.04786"
+    "url": "http://arxiv.org/abs/1906.04786",
+    "img": "trick19a.png"
   },
   "Bonifacio19a": {
     "author": "P. Bonifacio, E. Caffau, F. Sestito, et al.",
@@ -1534,7 +1540,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "487",
     "pages": "3797",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B"
+    "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B",
+    "img": "bonifacio19a.png"
   },
   "Mardini19a": {
     "author": "Mohammad K. Mardini, Vinicius M. Placco, Ali Taani, Haining Li, & Gang Zhao",
@@ -1543,7 +1550,8 @@
     "journal": "Astrophys. J.",
     "volume": "875",
     "pages": "89",
-    "url": "http://arxiv.org/abs/1904.09603"
+    "url": "http://arxiv.org/abs/1904.09603",
+    "img": "mardini19a.png"
   },
   "Buckley19a": {
     "author": "Matthew R. Buckley, David W. Hogg, & Adrian M. Price-Whelan",
@@ -1552,7 +1560,8 @@
     "journal": "Phys. Rev. D.",
     "volume": "",
     "pages": "",
-    "url": "https://arxiv.org/abs/1907.00987"
+    "url": "https://arxiv.org/abs/1907.00987",
+    "img": "buckley19a.png"
   },
   "Kounkel19a": {
     "author": "Marina Kounkel & Kevin Covey",
@@ -1561,7 +1570,8 @@
     "journal": "Astron. J.",
     "volume": "158",
     "pages": "122",
-    "url": "http://arxiv.org/abs/1907.07709"
+    "url": "http://arxiv.org/abs/1907.07709",
+    "img": "kounkel19a.png"
   },
   "Feltzing19a": {
     "author": "Sofia Feltzing, J. Bradley Bowers, & Oscar Agertz",
@@ -1570,7 +1580,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1907.08011"
+    "url": "http://arxiv.org/abs/1907.08011",
+    "img": "feltzing19a.png"
   },
   "Shipp19a": {
     "author": "N. Shipp, T. S. Li, A. B. Pace, et al.",
@@ -1579,7 +1590,8 @@
     "journal": "Astrophys. J.",
     "volume": "885",
     "pages": "3",
-    "url": "http://arxiv.org/abs/1907.09488"
+    "url": "http://arxiv.org/abs/1907.09488",
+    "img": "shipp19a.png"
   },
   "Mikolaitis19a": {
     "author": "\u0160ar\u016bnas Mikolaitis, Arnas Drazdauskas, Renata Minkevi\u010di\u016bt\u0117, et al.",
@@ -1588,7 +1600,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "628",
     "pages": "A49",
-    "url": "http://arxiv.org/abs/1907.09157"
+    "url": "http://arxiv.org/abs/1907.09157",
+    "img": "mikolaitis19a.png"
   },
   "Daniel19a": {
     "author": "Kathryne J. Daniel, David A. Schaffner, Fiona McCluskey, Codie Fiedler Kawaguchi, & Sarah Loebman",
