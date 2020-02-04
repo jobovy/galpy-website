@@ -670,7 +670,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "612",
     "pages": "A115",
-    "url": "http://arxiv.org/abs/1801.07738"
+    "url": "http://arxiv.org/abs/1801.07738",
+    "img": "niederhofer18a.png"
   },
   "Cantat-Gaudin18a": {
     "author": "T. Cantat-Gaudin, A. Vallenari, R. Sordo, F. Pensabene, A. Krone-Martins, A. Moitinho, C. Jordi, L. Casamiquela, L. Balaguer-N\u00fanez, C. Soubiran, N. Brouillet",
@@ -679,7 +680,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "615",
     "pages": "A49",
-    "url": "http://arxiv.org/abs/1801.10042"
+    "url": "http://arxiv.org/abs/1801.10042",
+    "img": "cantat-gaudin18a.png"
   },
   "Mackereth18a": {
     "author": "J. Ted Mackereth & Jo Bovy",
@@ -688,7 +690,8 @@
     "journal": "Pub. Astron.Soc. Pac.",
     "volume": "130",
     "pages": "114501",
-    "url": "https://arxiv.org/abs/1802.02592"
+    "url": "https://arxiv.org/abs/1802.02592",
+    "img": "mackereth18a.png"
   },
   "Martini18a": {
     "author": "Paul Martini, Adam K. Leroy, Jeffrey G. Mangum, Alberto Bolatto, Katie M. Keating, Karin Sandstrom, & Fabian Walter",
@@ -697,7 +700,8 @@
     "journal": "Astrophys. J.",
     "volume": "856",
     "pages": "61",
-    "url": "https://arxiv.org/abs/1802.04359"
+    "url": "https://arxiv.org/abs/1802.04359",
+    "img": "martini18a.png"
   },
   "Kunder18a": {
     "author": "Andrea Kunder, Arthur Mills, Joseph Edgecomb, et al.",
@@ -706,7 +710,8 @@
     "journal": "Astron. J.",
     "volume": "155",
     "pages": "171",
-    "url": "http://arxiv.org/abs/1802.09562"
+    "url": "http://arxiv.org/abs/1802.09562",
+    "img": "kunder18a.png"
   },
   "Hunt18a": {
     "author": "Jason A. S. Hunt & Jo Bovy",
@@ -715,7 +720,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "477",
     "pages": "3945",
-    "url": "http://arxiv.org/abs/1803.02358"
+    "url": "http://arxiv.org/abs/1803.02358",
+    "img": "hunt18a.png"
   },
   "Labadie-Bartz18a": {
     "author": "Jonathan Labadie-Bartz, Joseph E. Rodriguez, Keivan G. Stassun, et al.",
@@ -724,7 +730,8 @@
     "journal": "Astrophys. J. Supp.",
     "volume": "240",
     "pages": "13",
-    "url": "https://arxiv.org/abs/1803.07559"
+    "url": "https://arxiv.org/abs/1803.07559",
+    "img": "labadie-bartz18a.png"
   },
   "Anders18a": {
     "author": "Friedrich Anders, Cristina Chiappini, Bas\u00edlio X. Santiago, Gal Matijevi\u010d, Anna B. Queiroz, Matthias Steinmetz",
@@ -733,7 +740,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "619",
     "pages": "A125",
-    "url": "http://arxiv.org/abs/1803.09341"
+    "url": "http://arxiv.org/abs/1803.09341",
+    "img": "anders18a.png"
   },
   "Grieves18a": {
     "author": "Nolan Grieves, Jian Ge, Neil Thomas, et al.",
@@ -742,7 +750,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "481",
     "pages": "3244",
-    "url": "http://arxiv.org/abs/1803.11538"
+    "url": "http://arxiv.org/abs/1803.11538",
+    "img": "grieves18a.png"
   },
   "Toonen18a": {
     "author": "S. Toonen, H.B. Perets, A.P. Igoshev, E. Michaely, & Y. Zenati",
@@ -751,7 +760,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "619",
     "pages": "A53",
-    "url": "http://arxiv.org/abs/1804.01538"
+    "url": "http://arxiv.org/abs/1804.01538",
+    "img": "toonen18a.png"
   },
   "Sohn18a": {
     "author": "Sangmo Tony Sohn, Laura L. Watkins, Mark A. Fardal, Roeland P. van der Marel, Alis J. Deason, Gurtina Besla, & Andrea Bellini",
@@ -760,7 +770,8 @@
     "journal": "Astrophys. J.",
     "volume": "862",
     "pages": "52",
-    "url": "https://arxiv.org/abs/1804.01994"
+    "url": "https://arxiv.org/abs/1804.01994",
+    "img": "sohn18a.png"
   },
   "Banik18a": {
     "author": "Nilanjan Banik, Gianfranco Bertone, Jo Bovy, & Nassim Bozorgnia",
@@ -769,7 +780,8 @@
     "journal": "J. Cosmol. Astropart. Phys.",
     "volume": "2018",
     "pages": "061",
-    "url": "http://arxiv.org/abs/1804.04384"
+    "url": "http://arxiv.org/abs/1804.04384",
+    "img": "banik18a.png"
   },
   "Fardal18a": {
     "author": "Mark A. Fardal, Roeland P. van der Marel, David R. Law, Sangmo Tony Sohn, Branimir Sesar, Nina Hernitschek, & Hans-Walter Rix",
@@ -778,7 +790,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "483",
     "pages": "4724",
-    "url": "http://arxiv.org/abs/1804.04995"
+    "url": "http://arxiv.org/abs/1804.04995",
+    "img": "fardal18a.png"
   },
   "Xing18a": {
     "author": "Q. F. Xing. & G. Zhao",
@@ -787,7 +800,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "476",
     "pages": "5388",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.5388X"
+    "url": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.5388X",
+    "img": "xing18a.png"
   },
   "Buder18a": {
     "author": "S. Buder, K. Lind, M. K. Ness, et al.",
@@ -796,7 +810,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "624",
     "pages": "A19",
-    "url": "http://arxiv.org/abs/1804.05869"
+    "url": "http://arxiv.org/abs/1804.05869",
+    "img": "buder18a.png"
   },
   "Simpson18a": {
     "author": "Jeffrey D. Simpson, Sarah L. Martell, Gary Da Costa, et al.",
@@ -805,7 +820,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "482",
     "pages": "5302",
-    "url": "http://arxiv.org/abs/1804.05894"
+    "url": "http://arxiv.org/abs/1804.05894",
+    "img": "simpson18a.png"
   },
   "Wojno18a": {
     "author": "Jennifer Wojno, Georges Kordopatis, Matthias Steinmetz, et al.",
@@ -814,7 +830,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "477",
     "pages": "5612",
-    "url": "http://arxiv.org/abs/1804.06379"
+    "url": "http://arxiv.org/abs/1804.06379",
+    "img": "wojno18a.png"
   },
   "Boubert18a": {
     "author": "Douglas Boubert & N. Wyn Evans",
@@ -823,7 +840,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "477",
     "pages": "5261",
-    "url": "http://arxiv.org/abs/1804.05849"
+    "url": "http://arxiv.org/abs/1804.05849",
+    "img": "boubert18a.png"
   },
   "Coronado18a": {
     "author": "Johanna Coronado, Hans-Walter Rix, & Wilma H. Trick",
@@ -832,7 +850,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "481",
     "pages": "2970",
-    "url": "http://arxiv.org/abs/1804.07760"
+    "url": "http://arxiv.org/abs/1804.07760",
+    "img": "coronado18a.png"
   },
   "Fu18a": {
     "author": "Sal Wanying Fu, Joshua D. Simon, Matthew Shetrone, et al.",
@@ -841,7 +860,8 @@
     "journal": "Astrophys. J.",
     "volume": "866",
     "pages": "42",
-    "url": "https://arxiv.org/abs/1804.08622"
+    "url": "https://arxiv.org/abs/1804.08622",
+    "img": "fu18a.png"
   },
   "Raddi18a": {
     "author": "R. Raddi, M. A. Hollands, B. T. Gaensicke, D. M. Townsley, J. J. Hermes, N. P. Gentile Fusillo, & D. Koester",
@@ -850,7 +870,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "479",
     "pages": "L96",
-    "url": "http://arxiv.org/abs/1804.09677"
+    "url": "http://arxiv.org/abs/1804.09677",
+    "img": "raddi18a.png"
   },
   "Boubert18b": {
     "author": "Douglas Boubert, James Guillochon, Keith Hawkins, Idan Ginsburg, & N. Wyn Evans",
@@ -859,7 +880,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "479",
     "pages": "2789",
-    "url": "http://arxiv.org/abs/1804.10179"
+    "url": "http://arxiv.org/abs/1804.10179",
+    "img": "boubert18b.png"
   },
   "Simon18a": {
     "author": "Joshua D. Simon",
@@ -868,7 +890,8 @@
     "journal": "Astrophys. J.",
     "volume": "863",
     "pages": "89",
-    "url": "http://arxiv.org/abs/1804.10230"
+    "url": "http://arxiv.org/abs/1804.10230",
+    "img": "simon18a.png"
   },
   "Shen18a": {
     "author": "Ken J. Shen, Douglas Boubert, Boris T. G\u00e4nsicke, et al.",
@@ -877,7 +900,8 @@
     "journal": "Astrophys. J.",
     "volume": "865",
     "pages": "15",
-    "url": "http://arxiv.org/abs/1804.11163"
+    "url": "http://arxiv.org/abs/1804.11163",
+    "img": "shen18a.png"
   },
   "Fritz18a": {
     "author": "T. K. Fritz, G. Battaglia, M. S. Pawlowski, N. Kallivayalil, R. van der Marel, T. S. Sohn, C. Brook, & G. Besla",
@@ -886,7 +910,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "619",
     "pages": "A103",
-    "url": "http://arxiv.org/abs/1805.00908"
+    "url": "http://arxiv.org/abs/1805.00908",
+    "img": "fritz18a.png"
   },
   "Vickers18a": {
     "author": "John J. Vickers & Martin C. Smith",
@@ -1157,6 +1182,16 @@
     "pages": "L114",
     "url": "https://arxiv.org/abs/1809.04108",
     "img": "kaderali18a.png"
+  },
+  "Banik18b.png": {
+    "author": "Nilanjan Banik & Jo Bovy",
+    "title": "Effects of baryonic and dark matter substructure on the Pal 5 stream",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "484",
+    "pages": "2009",
+    "url": "https://arxiv.org/abs/1809.09640",
+    "img": "banik18b.png"
   },
   "Li18b": {
     "author": "Haining Li, Kefeng Tan, & Gang Zhao",
