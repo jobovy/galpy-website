@@ -76,7 +76,8 @@
     "journal": "Astrophys. J.",
     "volume": "794",
     "pages": "151",
-    "url": "http://adsabs.harvard.edu/abs/2014ApJ...794..151L"
+    "url": "http://adsabs.harvard.edu/abs/2014ApJ...794..151L",
+    "img": "loebman14a.png"
   },
   "Bower15a": {
     "author": "Geoffrey C. Bower, Adam Deller, Paul Demorest, et al.",
@@ -85,7 +86,8 @@
     "journal": "Astrophys. J.",
     "volume": "798",
     "pages": "120",
-    "url": "http://adsabs.harvard.edu/abs/2015ApJ...798..120B"
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...798..120B",
+    "img": "bower15a.png"
   },
   "Bovy15a": {
     "author": "Jo Bovy, Jonathan C. Bird, Ana E. Garcia Perez, Steven M. Majewski, David L. Nidever, & Gail Zasowski",
@@ -94,7 +96,8 @@
     "journal": "Astrophys. J.",
     "volume": "800",
     "pages": "83",
-    "url": "http://adsabs.harvard.edu/abs/2015ApJ...800...83B"
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...800...83B",
+    "img": "bovy15a.png"
   },
   "Balbinot15a": {
     "author": "Eduardo Balbinot, B. X. Santiago, L. Girardi, et al.",
@@ -103,7 +106,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "449",
     "pages": "1129",
-    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.449.1129B"
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.449.1129B",
+    "img": "balbinot15a.png"
   },
   "Fardal15a": {
     "author": "Mark A. Fardal, Shuiyao Huang, & Martin D. Weinberg",
@@ -112,7 +116,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "452",
     "pages": "301",
-    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.452..301F"
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.452..301F",
+    "img": "fardal15a.png"
   },
   "Sesar15a": {
     "author": "Branimir Sesar, Jo Bovy, Edouard J. Bernard, et al.",
@@ -121,7 +126,8 @@
     "journal": "Astrophys. J.",
     "volume": "809",
     "pages": "59",
-    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809...59S"
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809...59S",
+    "img": "sesar15a.png"
   },
   "OLeary15a": {
     "author": "Ryan M. O\u2019Leary, Matthew D. Kistler, Matthew Kerr, & Jason Dexter",
@@ -130,7 +136,8 @@
     "journal": "Phys. Rev. Lett.",
     "volume": "submitted",
     "pages": "",
-    "url": "http://arxiv.org/abs/1504.02477"
+    "url": "http://arxiv.org/abs/1504.02477",
+    "img": "oleary15a.png"
   },
   "delaVega15a": {
     "author": "Alexander de la Vega, Alice C. Quillen, Jeffrey L. Carlin, Sukanya Chakrabarti, & Elena D\u2019Onghia",
@@ -139,7 +146,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "454",
     "pages": "933",
-    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.454..933D"
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.454..933D",
+    "img": "delavega15a.png"
   },
   "Casey15a": {
     "author": "Andrew R. Casey & Kevin C. Schlaufman",
@@ -148,7 +156,8 @@
     "journal": "Astrophys. J.",
     "volume": "809",
     "pages": "110",
-    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809..110C"
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809..110C",
+    "img": "casey15a.png"
   },
   "Balbinot15b": {
     "author": "E. Balbinot, B. Yanny, T. S. Li, et al.",
@@ -157,7 +166,8 @@
     "journal": "Astrophys. J.",
     "volume": "820",
     "pages": "58",
-    "url": "http://adsabs.harvard.edu/abs/2016ApJ...820...58B"
+    "url": "http://adsabs.harvard.edu/abs/2016ApJ...820...58B",
+    "img": "balbinot15b.png"
   },
   "Li15a": {
     "author": "T. S. Li, E. Balbinot, N. Mondrik, et al.",
@@ -166,7 +176,8 @@
     "journal": "Astrophys. J.",
     "volume": "817",
     "pages": "135",
-    "url": "http://adsabs.harvard.edu/abs/2016ApJ...817..135L"
+    "url": "http://adsabs.harvard.edu/abs/2016ApJ...817..135L",
+    "img": "li15a.png"
   },
   "Fritz15a": {
     "author": "T. K. Fritz & N. Kallivayalil",
@@ -175,7 +186,8 @@
     "journal": "Astrophys. J.",
     "volume": "811",
     "pages": "123",
-    "url": "http://adsabs.harvard.edu/abs/2015ApJ...811..123F"
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...811..123F",
+    "img": "fritz15a.png"
   },
   "Grand15a": {
     "author": "Robert J. J. Grand, Jo Bovy, Daisuke Kawata, Jason A. S. Hunt, Benoit Famaey, Arnaud Siebert, Giacomo Monari, & Mark Cropper",
@@ -184,7 +196,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "453",
     "pages": "1867",
-    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.453.1867G"
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.453.1867G",
+    "img": "grand15a.png"
   },
   "Hattori15a": {
     "author": "Kohei Hattori & Gerard Gilmore",
@@ -193,7 +206,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "454",
     "pages": "649",
-    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.454..649H"
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.454..649H",
+    "img": "hattori15a.png"
   },
   "Plevne15a": {
     "author": "O. Plevne, T. Ak, S. Karaali, S. Bilir, S. Ak, Z. F. Bostanci",
@@ -202,7 +216,8 @@
     "journal": "Pub. Astron. Soc. Aus.",
     "volume": "32",
     "pages": "43",
-    "url": "http://adsabs.harvard.edu/abs/2015PASA...32...43P"
+    "url": "http://adsabs.harvard.edu/abs/2015PASA...32...43P",
+    "img": "plevne15a.png"
   },
   "Sanders15a": {
     "author": "Jason L. Sanders, Jo Bovy, & Denis Erkal",
@@ -211,7 +226,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "457",
     "pages": "3817",
-    "url": "http://adsabs.harvard.edu/abs/2016MNRAS.457.3817S"
+    "url": "http://adsabs.harvard.edu/abs/2016MNRAS.457.3817S",
+    "img": "sanders15a.png"
   },
   "Howes15a": {
     "author": "L. M. Howes, A. R. Casey, M. Asplund, et al.",
@@ -220,7 +236,8 @@
     "journal": "Nature",
     "volume": "527",
     "pages": "484",
-    "url": "http://adsabs.harvard.edu/abs/2015Natur.527..484H"
+    "url": "http://adsabs.harvard.edu/abs/2015Natur.527..484H",
+    "img": "howes15a.png"
   },
   "Bovy16a": {
     "author": "Jo Bovy",
@@ -229,7 +246,8 @@
     "journal": "Phys. Rev. Lett.",
     "volume": "116",
     "pages": "121301",
-    "url": "http://adsabs.harvard.edu/abs/2016PhRvL.116l1301B"
+    "url": "http://adsabs.harvard.edu/abs/2016PhRvL.116l1301B",
+    "img": "bovy16a.png"
   },
   "Anguiano16a": {
     "author": "B. Anguiano, G. M. De Silva, K. Freeman, et al.",
@@ -238,7 +256,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "457",
     "pages": "2078",
-    "url": "http://adsabs.harvard.edu/abs/2016MNRAS.457.2078A"
+    "url": "http://adsabs.harvard.edu/abs/2016MNRAS.457.2078A",
+    "img": "anguiano16a.png"
   },
   "OLeary16a": {
     "author": "Ryan M. O\u2019Leary, Matthew D. Kistler, Matthew Kerr, & Jason Dexter",
@@ -247,7 +266,8 @@
     "journal": "Phys. Rev. D",
     "volume": "submitted",
     "pages": "",
-    "url": "https://arxiv.org/abs/1601.05797"
+    "url": "https://arxiv.org/abs/1601.05797",
+    "img": "oleary16a.png"
   },
   "CantatGaudin16a": {
     "author": "T. Cantat-Gaudin, P. Donati, A. Vallenari, R. Sordo, A. Bragaglia, L. Magrini",
@@ -256,7 +276,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "588",
     "pages": "A120",
-    "url": "http://adsabs.harvard.edu/abs/2016A%26A...588A.120C"
+    "url": "http://adsabs.harvard.edu/abs/2016A%26A...588A.120C",
+    "img": "cantatgaudin16a.png"
   },
   "Jethwa16a": {
     "author": "P. Jethwa, D. Erkal, & V. Belokurov",
@@ -2005,7 +2026,8 @@
     "journal": "Pub. Astron.Soc. Jap.",
     "volume": "71",
     "pages": "92",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019PASJ...71...92C"
+    "url": "https://ui.adsabs.harvard.edu/abs/2019PASJ...71...92C",
+    "img": "chibueze19a.png"
   },
   "Venn19a": {
     "author": "Kim Venn, Collin Kielty, Federico Sestito, et al.",
