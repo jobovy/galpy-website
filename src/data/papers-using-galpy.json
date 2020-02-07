@@ -265,7 +265,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "461",
     "pages": "2212",
-    "url": "http://arxiv.org/abs/1603.04420"
+    "url": "http://arxiv.org/abs/1603.04420",
+    "img": "jethwa16a.png"
   },
   "Kaplan16a": {
     "author": "D. L. Kaplan, T. Kupfer, D. J. Nice, et al.",
@@ -274,7 +275,8 @@
     "journal": "Astrophys. J.",
     "volume": "826",
     "pages": "86",
-    "url": "http://arxiv.org/abs/1604.00131"
+    "url": "http://arxiv.org/abs/1604.00131",
+    "img": "kaplan16a.png"
   },
   "Bassa16a": {
     "author": "C. G. Bassa, G. H. Janssen, B. W. Stappers, et al.",
@@ -283,7 +285,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "460",
     "pages": "2207",
-    "url": "http://arxiv.org/abs/1604.00129"
+    "url": "http://arxiv.org/abs/1604.00129",
+    "img": "bassa16a.png"
   },
   "Tetarenko16a": {
     "author": "B. E. Tetarenko, A. Bahramian, R. M. Arnason, et al.",
@@ -292,7 +295,8 @@
     "journal": "Astrophys. J.",
     "volume": "825",
     "pages": "10",
-    "url": "http://arxiv.org/abs/1605.00270"
+    "url": "http://arxiv.org/abs/1605.00270",
+    "img": "tetarenko16a.png"
   },
   "Trick16a": {
     "author": "Wilma H. Trick, Jo Bovy, & Hans-Walter Rix",
@@ -301,7 +305,8 @@
     "journal": "Astrophys. J.",
     "volume": "830",
     "pages": "97",
-    "url": "http://arxiv.org/abs/1605.08601"
+    "url": "http://arxiv.org/abs/1605.08601",
+    "img": "trick16a.png"
   },
   "Boubert16a": {
     "author": "Douglas Boubert & N. W. Evans",
@@ -310,7 +315,8 @@
     "journal": "Astrophys. J. Lett.",
     "volume": "825",
     "pages": "L6",
-    "url": "http://arxiv.org/abs/1606.02548"
+    "url": "http://arxiv.org/abs/1606.02548",
+    "img": "boubert16a.png"
   },
   "Bovy16b": {
     "author": "Jo Bovy, Denis Erkal, & Jason L. Sanders",
@@ -319,7 +325,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "466",
     "pages": "628",
-    "url": "https://arxiv.org/abs/1606.03470"
+    "url": "https://arxiv.org/abs/1606.03470",
+    "img": "bovy16b.png"
   },
   "OnalTas16a": {
     "author": "O. Onal Tas, S. Bilir, G. M. Seabroke, S. Karaali, S. Ak, T. Ak, & Z. F. Bostanci",
@@ -328,7 +335,8 @@
     "journal": "Pub. Astron. Soc. Aus.",
     "volume": "33",
     "pages": "e044",
-    "url": "http://arxiv.org/abs/1607.07049"
+    "url": "http://arxiv.org/abs/1607.07049",
+    "img": "onaltas16a.png"
   },
   "Bakis16a": {
     "author": "V. Bakis, H. Bakis, S. Bilir, Z. Eker",
@@ -337,7 +345,8 @@
     "journal": "Pub. Astron. Soc. Aus.",
     "volume": "33",
     "pages": "e046",
-    "url": "http://arxiv.org/abs/1608.00456"
+    "url": "http://arxiv.org/abs/1608.00456",
+    "img": "bakis16a.png"
   },
   "Bovy16c": {
     "author": "Jo Bovy, Anita Bahmanyar, Tobias K. Fritz, & Nitya Kallivayalil",
@@ -346,7 +355,8 @@
     "journal": "Astrophys. J.",
     "volume": "833",
     "pages": "31",
-    "url": "https://arxiv.org/abs/1609.01298"
+    "url": "https://arxiv.org/abs/1609.01298",
+    "img": "bovy16c.png"
   },
   "AllendePrieto16a": {
     "author": "Carlos Allende Prieto, Daisuke Kawata, & Mark Cropper",
@@ -355,7 +365,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "596",
     "pages": "A98",
-    "url": "https://arxiv.org/abs/1609.07821"
+    "url": "https://arxiv.org/abs/1609.07821",
+    "img": "allendeprieto16a.png"
   },
   "Hunt16a": {
     "author": "Jason A. S. Hunt, Jo Bovy, & Raymond Carlberg",
@@ -364,7 +375,8 @@
     "journal": "Astrophys. J. Lett.",
     "volume": "832",
     "pages": "L25",
-    "url": "http://arxiv.org/abs/1610.02030"
+    "url": "http://arxiv.org/abs/1610.02030",
+    "img": "hunt16a.png"
   },
   "Cordero16a": {
     "author": "M. J. Cordero, V. H\u00e9nault-Brunet, C. A. Pilachowski, E. Balbinot, C. I. Johnson, & A. L. Varri",
@@ -373,7 +385,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "465",
     "pages": "3515",
-    "url": "https://arxiv.org/abs/1610.09374"
+    "url": "https://arxiv.org/abs/1610.09374",
+    "img": "cordero16a.png"
   },
   "Lamb16a": {
     "author": "Masen Lamb, Kim Venn, David Andersen, et al.",
@@ -382,7 +395,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "465",
     "pages": "3536",
-    "url": "https://arxiv.org/abs/1611.02712"
+    "url": "https://arxiv.org/abs/1611.02712",
+    "img": "lamb16a.png"
   },
   "Kunder16a": {
     "author": "Andrea Kunder, Georges Kordopatis, Matthias Steinmetz, et al.",
@@ -391,7 +405,8 @@
     "journal": "Astron. J.",
     "volume": "153",
     "pages": "75",
-    "url": "https://arxiv.org/abs/1609.03210"
+    "url": "https://arxiv.org/abs/1609.03210",
+    "img": "kunder16a.png"
   },
   "Fritz16a": {
     "author": "Tobias K. Fritz, Sean Linden, Paul Zivick, et al.",
@@ -400,16 +415,18 @@
     "journal": "Astrophys. J.",
     "volume": "840",
     "pages": "30",
-    "url": "https://arxiv.org/abs/1611.08598"
+    "url": "https://arxiv.org/abs/1611.08598",
+    "img": "fritz16a.png"
   },
-  "39": {
+  "Repetto17a.png": {
     "author": "Serena Repetto, Andrei P. Igoshev, & Gijs Nelemans",
     "title": "The Galactic distribution of X-ray binaries and its implications for compact object formation and natal kicks",
     "year": "2017",
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "467",
     "pages": "298",
-    "url": "https://arxiv.org/abs/1701.01347"
+    "url": "https://arxiv.org/abs/1701.01347",
+    "img": "repetto17a.png"
   },
   "Martin16a": {
     "author": "P. Martin, C. S. Jeffery, Naslim N., & V. M. Woolf",
@@ -418,7 +435,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "467",
     "pages": "68",
-    "url": "https://arxiv.org/abs/1701.03026"
+    "url": "https://arxiv.org/abs/1701.03026",
+    "img": "martin16a.png"
   },
   "Maji17a": {
     "author": "Moupiya Maji, Qirong Zhu, Federico Marinacci, & Yuexing Li",
@@ -427,7 +445,8 @@
     "journal": "Astrophys. J.",
     "volume": "843",
     "pages": "62",
-    "url": "https://arxiv.org/abs/1702.00485"
+    "url": "https://arxiv.org/abs/1702.00485",
+    "img": "maji17a.png"
   },
   "Balbinot17a": {
     "author": "Eduardo Balbinot & Mark Gieles",
@@ -436,7 +455,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "474",
     "pages": "2479",
-    "url": "https://arxiv.org/abs/1702.02543"
+    "url": "https://arxiv.org/abs/1702.02543",
+    "img": "balbinot17a.png"
   },
   "OMalley17a": {
     "author": "Erin M. O\u2019Malley, Christina Gilligan, & Brian Chaboyer",
@@ -445,17 +465,19 @@
     "journal": "Astrophys. J.",
     "volume": "838",
     "pages": "162",
-    "url": "https://arxiv.org/abs/1703.01915"
+    "url": "https://arxiv.org/abs/1703.01915",
+    "img": "omally17a.png"
   },
-  "Simpson17a":
-    { "author": "J. D. Simpson, G. M. De Silva, S. L. Martell, D. B. Zucker, A. M. N. Ferguson, E. J. Bernard, M. Irwin, J. Penarrubia, & E. Tolstoy",
-      "title": "Siriusly, a newly identified intermediate-age Milky Way stellar cluster: A spectroscopic study of Gaia 1",
-      "year": "2017",
-      "journal": "Mon. Not. Roy. Astron. Soc.",
-      "volume": "471",
-      "pages": "4087",
-      "url": "https://arxiv.org/abs/1703.03823"
-    },
+  "Simpson17a": {
+    "author": "J. D. Simpson, G. M. De Silva, S. L. Martell, D. B. Zucker, A. M. N. Ferguson, E. J. Bernard, M. Irwin, J. Penarrubia, & E. Tolstoy",
+    "title": "Siriusly, a newly identified intermediate-age Milky Way stellar cluster: A spectroscopic study of Gaia 1",
+    "year": "2017",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "471",
+    "pages": "4087",
+    "url": "https://arxiv.org/abs/1703.03823",
+    "img": "simpson17a.png"
+  },
   "Trick17a": {
     "author": "Wilma H. Trick, Jo Bovy, Elena D\u2019Onghia, & Hans-Walter Rix",
     "title": "Action-based Dynamical Modeling for the Milky Way Disk: The Influence of Spiral Arms",
@@ -463,7 +485,8 @@
     "journal": "Astrophys. J.",
     "volume": "839",
     "pages": "61",
-    "url": "https://arxiv.org/abs/1703.05970"
+    "url": "https://arxiv.org/abs/1703.05970",
+    "img": "trick17a.png"
   },
   "Koch17a": {
     "author": "Andreas Koch, Camilla Juul Hansen, & Andrea Kunder",
@@ -472,7 +495,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "604",
     "pages": "A41",
-    "url": "https://arxiv.org/abs/1703.06921"
+    "url": "https://arxiv.org/abs/1703.06921",
+    "img": "koch17a.png"
   },
   "Myeong17a": {
     "author": "G. C. Myeong, N. W. Evans, V. Belokurov, S. E. Koposov, & J. L. Sanders",
@@ -481,16 +505,18 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "469",
     "pages": "L78",
-    "url": "https://arxiv.org/abs/1704.01363"
+    "url": "https://arxiv.org/abs/1704.01363",
+    "img": "myeong17a.png"
   },
-  "Marchetti17a":
-    { "author": "T. Marchetti, E. M. Rossi, G. Kordopatis, A. G. A. Brown, A. Rimoldi, E. Starkenburg, K. Youakim, & R. Ashley",
-      "title": "An artificial neural network to discover Hypervelocity stars: Candidates in Gaia DR1 TGAS",
-      "year": "2017",
-      "journal": "Mon. Not. Roy. Astron. Soc.",
-      "volume": "470",
-      "pages": "1388",
-      "url": "https://arxiv.org/abs/1704.07990"
+  "Marchetti17a": {
+    "author": "T. Marchetti, E. M. Rossi, G. Kordopatis, A. G. A. Brown, A. Rimoldi, E. Starkenburg, K. Youakim, & R. Ashley",
+    "title": "An artificial neural network to discover Hypervelocity stars: Candidates in Gaia DR1 TGAS",
+    "year": "2017",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "470",
+    "pages": "1388",
+    "url": "https://arxiv.org/abs/1704.07990",
+    "img": "marchetti17a.png"
   },
   "Granados17a": {
     "author": "Andr\u00e9s Granados, Lady-J. Henao-O., Santiago Vanegas, & Leonardo Casta\u00f1eda",
@@ -499,7 +525,8 @@
     "journal": "",
     "volume": "",
     "pages": "",
-    "url": "http://arxiv.org/abs/1705.01665"
+    "url": "http://arxiv.org/abs/1705.01665",
+    "img": "granados17a.png"
   },
   "Grisoni17a": {
     "author": "V. Grisoni, E. Spitoni, F. Matteucci, A. Recio-Blanco, P. de Laverny, M. Hayden, S. Mikolaitis, & C. C. Worley",
@@ -508,7 +535,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "472",
     "pages": "3637",
-    "url": "https://arxiv.org/abs/1706.02614"
+    "url": "https://arxiv.org/abs/1706.02614",
+    "img": "grisoni17a.png"
   },
   "Giesler17a": {
     "author": "Matthew Giesler, Drew Clausen, & Christian D. Ott",
@@ -517,7 +545,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "477",
     "pages": "1853",
-    "url": "https://arxiv.org/abs/1708.05915"
+    "url": "https://arxiv.org/abs/1708.05915",
+    "img": "giesler17a.png"
   },
   "Simpson17b": {
     "author": "Jeffrey D. Simpson, Gayandhi De Silva, Sarah L. Martell, Colin A. Navin, & Daniel B. Zucker",
@@ -526,7 +555,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "472",
     "pages": "2856",
-    "url": "https://arxiv.org/abs/1708.06875"
+    "url": "https://arxiv.org/abs/1708.06875",
+    "img": "simpson17b.png"
   },
   "Hunt17a": {
     "author": "Jason A. S. Hunt, Jo Bovy, Angeles P\u00e9rez-Villegas, et al.",
@@ -535,7 +565,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "474",
     "pages": "95",
-    "url": "https://arxiv.org/abs/1709.02807"
+    "url": "https://arxiv.org/abs/1709.02807",
+    "img": "hunt17a.png"
   },
   "Koch17b": {
     "author": "Andreas Koch, Terese T. Hansen, & Andrea Kunder",
@@ -544,7 +575,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "609",
     "pages": "A13",
-    "url": "https://arxiv.org/abs/1709.04022"
+    "url": "https://arxiv.org/abs/1709.04022",
+    "img": "koch17b.png"
   },
   "Contreras17a": {
     "author": "R. Contreras Ramos, M. Zoccali, F. Rojas, A. Rojas-Arriagada, M. G\u00e1rate, P. Huijse, F. Gran, M. Soto, A.A.R. Valcarce, P. A. Est\u00e9vez, & D. Minniti",
@@ -553,7 +585,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "608",
     "pages": "A140",
-    "url": "http://arxiv.org/abs/1709.07919"
+    "url": "http://arxiv.org/abs/1709.07919",
+    "img": "contreras17a.png"
   },
   "Igoshev17a": {
     "author": "A. P. Igoshev & S. B. Popov",
@@ -562,7 +595,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "473",
     "pages": "3204",
-    "url": "http://arxiv.org/abs/1709.10385"
+    "url": "http://arxiv.org/abs/1709.10385",
+    "img": "igoshev17a.png"
   },
   "Ramirez17a": {
     "author": "I. Ramirez, D. Yong, E. Gutierrez, M. Endl, D. L. Lambert, J.-D. Do Nascimento Jr",
@@ -571,7 +605,8 @@
     "journal": "Astrophys. J.",
     "volume": "850",
     "pages": "80",
-    "url": "http://arxiv.org/abs/1710.05930"
+    "url": "http://arxiv.org/abs/1710.05930",
+    "img": "ramirez17a.png"
   },
   "Silva17a": {
     "author": "V. Silva Aguirre, M. Bojsen-Hansen, D. Slumstrup, et al.",
@@ -580,7 +615,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "475",
     "pages": "5487",
-    "url": "http://arxiv.org/abs/1710.09847"
+    "url": "http://arxiv.org/abs/1710.09847",
+    "img": "silva17a.png"
   },
   "Casey17a": {
     "author": "Andrew R. Casey & Kevin C. Schlaufman",
@@ -589,7 +625,8 @@
     "journal": "Astrophys. J.",
     "volume": "850",
     "pages": "179",
-    "url": "http://arxiv.org/abs/1711.04776"
+    "url": "http://arxiv.org/abs/1711.04776",
+    "img": "casey17a.png"
   },
   "Hayden17a": {
     "author": "M. R. Hayden, A. Recio-Blanco, P. de Laverny, et al.",
@@ -598,7 +635,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "609",
     "pages": "A79",
-    "url": "http://arxiv.org/abs/1711.05751"
+    "url": "http://arxiv.org/abs/1711.05751",
+    "img": "hayden17a.png"
   },
   "Li17a": {
     "author": "Chengdong Li & Gang Zhao",
@@ -607,7 +645,8 @@
     "journal": "Astrophys. J.",
     "volume": "850",
     "pages": "25",
-    "url": "http://adsabs.harvard.edu/abs/2017ApJ...850...25L"
+    "url": "http://adsabs.harvard.edu/abs/2017ApJ...850...25L",
+    "img": "li17a.png"
   },
   "Fritz17a": {
     "author": "T. K. Fritz, M. Lokken, N. Kallivayalil, A. Wetzel, S. T. Linden, P. Zivick, & E. J. Tollerud",
@@ -616,7 +655,8 @@
     "journal": "Astrophys. J.",
     "volume": "860",
     "pages": "164",
-    "url": "http://arxiv.org/abs/1711.09097"
+    "url": "http://arxiv.org/abs/1711.09097",
+    "img": "fritz17a.png"
   },
   "Marchetti17b": {
     "author": "T. Marchetti, O. Contigiani, E. M. Rossi, J. G. Albert, A. G. A. Brown, & A. Sesana",
@@ -625,7 +665,8 @@
     "journal": "Mon. Not. Roy. Astron. Soc.",
     "volume": "476",
     "pages": "4697",
-    "url": "https://arxiv.org/abs/1711.11397"
+    "url": "https://arxiv.org/abs/1711.11397",
+    "img": "marchetti17b.png"
   },
   "Hayden17b": {
     "author": "Hayden, M. R., Recio-Blanco, A., de Laverny, P., Mikolaitis, S., & Worley, C. C.",
@@ -634,7 +675,8 @@
     "journal": "Astron. & Astrophys.",
     "volume": "608",
     "pages": "L1",
-    "url": "http://arxiv.org/abs/1712.02358"
+    "url": "http://arxiv.org/abs/1712.02358",
+    "img": "hayden17b.png"
   },
   "Johnson17a": {
     "author": "Marshall C. Johnson, Joseph E. Rodriguez, George Zhou, et al.",
@@ -643,7 +685,8 @@
     "journal": "Astrophys. J.",
     "volume": "155",
     "pages": "100",
-    "url": "http://arxiv.org/abs/1712.03241"
+    "url": "http://arxiv.org/abs/1712.03241",
+    "img": "johnson17a.png"
   },
   "Pathak17a": {
     "author": "Dhruv Pathak & Manjari Bagchi",
@@ -652,7 +695,8 @@
     "journal": "",
     "volume": "",
     "pages": "",
-    "url": "http://arxiv.org/abs/1712.06590"
+    "url": "http://arxiv.org/abs/1712.06590",
+    "img": "pathak17a.png"
   },
   "Onal18a": {
     "author": "O. Onal Tas, S. Bilir, &  O. Plevne",
