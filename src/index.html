@@ -37,9 +37,13 @@
 	  <img id="logo-gif" src="images/galpy-logo.gif" width="225" alt="galpy: Galactic dynamics in Python" />
 	  <p style="margin-top: 1em; font-style: italic; opacity: 0" id="galpy-intro-statement"><span class="courier-code">galpy</span> is a Python package for galactic dynamics.</p>
 	  <p class="lower-left-screen" style="color: gray; opacity: 1" id="galpy-intro-loading"><span class="courier-code">Loading ...</p>
+	  <div class="lower-center-screen" style="opacity: 0;" id="galpy-intro-explore" data-aos="fade-out" data-aos-anchor-placement="bottom-center" data-aos-once="true">
+	    <p style="margin-bottom: 0;">Explore</a>
+	    <p style="margin-top: -0.5rem;"><i class="arrow down"></i></p>
+	  </div>
 	</div>
       </div>
-      
+
       <!-- Sections -->     
       <div class="container" id="sections-container" style="display: none;">
 
@@ -47,7 +51,7 @@
 
 	<div class="row featurette" data-aos="fade-in" data-aos-once="true">
 	  <div class="col-md-7">
-            <h2 class="featurette-heading" id="installation">Easy to get started with, <span class="text-muted">get advanced galactic dynamics at your fingertips</span></h2>
+            <h2 class="featurette-heading" id="quickstart">Easy to get started with, <span class="text-muted">get advanced galactic dynamics at your fingertips</span></h2>
             <p class="lead">Get started with integrating orbits in a Milky-Way potential in just a few lines of code. Or build your own galactic models using a flexible set of components. From simple orbit integration to fast action-angle calculations, <span class="courier-code">galpy</span> has you covered.</p>
 	    <p><a class="btn btn-secondary" href="http://docs.galpy.org/en/stable/#quick-start-guide" target="_blank" role="button">view quick-start guide &raquo;</a></p>
 	  </div>
@@ -160,6 +164,11 @@
       setTimeout(function(){
         $("#galpy-intro-loading").animate({opacity: "1"},{duration: 2000, complete: function(){
         $("#galpy-intro-loading").animate({opacity: "0"}, 2000);
+      }})});
+      // Fade in "Explore" statement
+      setTimeout(function(){
+        $("#galpy-intro-explore").animate({opacity: "0"},{duration: 3000, complete: function(){
+        $("#galpy-intro-explore").animate({opacity: "1"}, 3000);
       }})});
       setTimeout(function(){
         // First make this section visible

@@ -18,11 +18,32 @@ body {
   left: 2em;
 }
 
+.lower-center-screen {
+  position:absolute;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
 .center {
   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: center;
+}
+
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
 }
 
 .featurette {
@@ -83,4 +104,12 @@ div.examples-carousel-item {
   background-size: 0 100%;
   
   transition: background-size .4s ease-in-out;
+}
+
+/* Animate On Scoll fade out */
+[data-aos="fade-out"] {
+  transition-property: opacity !important;
+}
+[data-aos="fade-out"].aos-animate {
+  opacity: 0 !important;
 }
