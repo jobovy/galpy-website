@@ -37,7 +37,7 @@
 	  <img id="logo-gif" src="images/galpy-logo.gif" width="225" alt="galpy: Galactic dynamics in Python" />
 	  <p style="margin-top: 1em; font-style: italic; opacity: 0" id="galpy-intro-statement"><span class="courier-code">galpy</span> is a Python package for galactic dynamics.</p>
 	  <p class="lower-left-screen" style="color: gray; opacity: 1" id="galpy-intro-loading"><span class="courier-code">Loading ...</p>
-	  <div class="lower-center-screen" style="opacity: 0;" id="galpy-intro-explore" data-aos="fade-out" data-aos-anchor-placement="bottom-center" data-aos-once="true">
+	  <div class="lower-center-screen" id="galpy-intro-explore" onmouseover="" style="cursor: pointer; opacity: 0;">
 	    <p style="margin-bottom: 0;">Explore</a>
 	    <p style="margin-top: -0.5rem;"><i class="arrow down"></i></p>
 	  </div>
@@ -170,6 +170,32 @@
         $("#galpy-intro-explore").animate({opacity: "0"},{duration: 3000, complete: function(){
         $("#galpy-intro-explore").animate({opacity: "1"}, 3000);
       }})});
+      // Functionality to make the "Explore" statement disappear using AOS, needs to be added after scrolling, because interferes with clicking the Explore statement and scrolling that way
+      function explore_add_aos() {
+        // Only do this once, so turn off when called
+        $(window).off("scroll",explore_add_aos);
+        // Add AOS attributes and refresh AOS
+        $("#galpy-intro-explore").attr("data-aos","fade-out");
+        $("#galpy-intro-explore").attr("data-aos-anchor-placement","bottom-center");
+        $("#galpy-intro-explore").attr("data-aos-once","true");
+        $("#galpy-intro-explore").attr("data-aos-id","explore");
+        // Entirely remove the "Explore" statement element once AOS has removed it
+        document.addEventListener("aos:in:explore", () => {$("#galpy-intro-explore").remove();});
+        AOS.refreshHard();
+        // Change the mouse-over to the regular cursor again
+        $("#galpy-intro-explore").removeAttr("onmouseover");
+        $("#galpy-intro-explore").css("cursor","default");
+        // Remove the click functionality once scrolled
+        $("#galpy-intro-explore").off("click",explore_add_click);
+      };
+      $(window).on("scroll",explore_add_aos);
+      // Before scrolling, clicking on "Explore" brings you to the quickstart div
+      function explore_add_click() {
+        $("html,body").animate({
+        scrollTop: $("#quickstart").offset().top},
+        "slow");
+      };
+      $("#galpy-intro-explore").on("click",explore_add_click);
       setTimeout(function(){
         // First make this section visible
         $("#sections-container").css({"display": "block"});
