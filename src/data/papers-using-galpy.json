@@ -29,6 +29,16 @@
       "url": "https://arxiv.org/abs/1209.0759",
       "img": "bovy12b.png"
     },
+  "Moldon12a": {
+    "author": "J. Moldon, M. Ribo, J. M. Paredes, et al.",
+    "title": "On the origin of LS 5039 and PSR J1825-1446",
+    "year": "2012",
+    "journal": "Astron. & Astrophys.",
+    "volume": "543",
+    "pages": "A26",
+    "url": "http://arxiv.org/abs/1205.2080",
+    "img": "moldon12a.png"
+  },
   "BovyRix13":
     { "author": "Jo Bovy & Hans-Walter Rix",
       "title": "A direct dynamical measurement of the Milky Way’s disk surface density profile, disk scale length, and dark matter profile at 4 kpc &lt; R &lt; 9 kpc",
@@ -1139,6 +1149,16 @@
     "url": "http://arxiv.org/abs/1807.04468",
     "img": "contigiani18a.png"
   },
+  "Fardal19a": {
+    "author": "Mark A. Fardal, Roeland P. van der Marel, et al.",
+    "title": "The course of the Orphan Stream in the Northern Galactic Hemisphere traced with Gaia DR2",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "486",
+    "pages": "936",
+    "url": "http://arxiv.org/abs/1812.06066",
+    "img": "fardal19a.png"
+  },
   "Malhan18a": {
     "author": "Khyati Malhan & Rodrigo A. Ibata",
     "title": "Constraining the Milky Way Halo Potential with the GD-1 stellar stream",
@@ -1939,6 +1959,16 @@
     "url": "http://arxiv.org/abs/1909.07118",
     "img": "frankel19a.png"
   },
+  "Luo19a": {
+    "author": "Yangping Luo, Peter Nemeth, Licai Deng, et al.",
+    "title": "Hot subdwarf stars observed in Gaia DR2 and LAMOST DR5",
+    "year": "2019",
+    "journal": "Astrophys. J.",
+    "volume": "881",
+    "pages": "7",
+    "url": "http://arxiv.org/abs/1906.09393",
+    "img": "luo19a.png"
+  },
   "Longeard19b": {
     "author": "Nicolas Longeard, Nicolas Martin, Rodrigo A. Ibata, Michelle L.M. Collins, Benjamin P.M. Laevens, Eric Bell, Dougal Mackey",
     "title": "Detailed study of the Milky Way globular cluster Laevens 3",
@@ -2149,6 +2179,36 @@
     "url": "http://arxiv.org/abs/1912.08760",
     "img": "banks19a.png"
   },
+  "Silverwood19a": {
+    "author": "Hamish Silverwood & Richard Easther",
+    "title": "Stellar Accelerations and the Galactic Gravitational Field",
+    "year": "2019",
+    "journal": "Pub. Astron. Soc. Aus.",
+    "volume": "36",
+    "pages": "e038",
+    "url": "http://arxiv.org/abs/1812.07581",
+    "img": "silverwood19a.png"
+  },
+  "Darma19a": {
+    "author": "R. Darma, W. Hidayat, & M. I. Arifyanto",
+    "title": "Tracing Stellar Close Encounters with Our Sun from GAIA DR2, LAMOST DR4, and RAVE DR5 Catalogues",
+    "year": "2019",
+    "journal": "J. Phys.: Conf. Series",
+    "volume": "1245",
+    "pages": "012028",
+    "url": "http://ui.adsabs.harvard.edu/abs/2019JPhCS1245a2028D",
+    "img": "darma19a.png"
+  },
+  "Dietz19a": {
+    "author": "Sarah E. Dietz, Jinmi Yoon, Timothy C. Beers, et al.",
+    "title": "The Metallicity Gradient and Complex Formation History of the Outermost Halo of the Milky Way",
+    "year": "2019",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/1911.11140",
+    "img": "dietz19a.png"
+  },
   "Prudil20a": {
     "author": "Z. Prudil, I. D\u00e9k\u00e1ny, E. K. Grebel, & A. Kunder",
     "title": "Evidence for Galactic disc RR~Lyrae stars in the Solar neighbourhood",
@@ -2179,14 +2239,154 @@
     "url": "http://arxiv.org/abs/2001.04653",
     "img": "chaplin20a.png"
   },
-  "_template":
-    { "author": "",
-      "title": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "pages": "",
-      "url": "",
-      "img": ""
-    }
+  "Amarante20a": {
+    "author": "Joao A. S. Amarante, Martin C. Smith, & Corrado Boeche",
+    "title": "The tale of the tail -- disentangling the high transverse velocity stars in Gaia DR2",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "492",
+    "pages": "3816",
+    "url": "http://arxiv.org/abs/1912.12679",
+    "img": "amarante20a.png"
+  },
+  "BeitiaAntero20a": {
+    "author": "Leire Beitia-Antero, Ana Ines Gomez de Castro, & Raul de la Fuente Marcos",
+    "title": "High reddening patches in Gaia DR2. Possible artifacts or indication of star formation at the edge of the Galactic disk",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "634",
+    "pages": "A33",
+    "url": "http://arxiv.org/abs/2001.03627",
+    "img": "beitiaantero20a.png"
+  },
+  "Wheeler20a": {
+    "author": "Adam Wheeler, Melissa Ness, Sven Buder, et al.",
+    "title": "Abundances in the Milky Way across five nucleosynthetic channels from 4 million LAMOST stars",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "http://arxiv.org/abs/2001.08227",
+    "img": "wheeler20a.png"
+  },
+  "Luo20a": {
+    "author": "Yangping Luo",
+    "title": "Photometric study and kinematics of the EL CVn type eclipsing binary: WASP 1628+10",
+    "year": "2020",
+    "journal": "New. Astron.",
+    "volume": "78",
+    "pages": "101363",
+    "url": "http://ui.adsabs.harvard.edu/abs/2020NewA...7801363L",
+    "img": "luo20a.png"
+  },
+  "Frankel20a": {
+    "author": "Neige Frankel, Jason Sanders, Yuan-Sen Ting, et al.",
+    "title": "Keeping it Cool: Much Orbit Migration, yet Little Heating, in the Galactic Disk",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "http://arxiv.org/abs/2002.04622",
+    "img": "frankel20a.png"
+  },
+  "Lancaster20a": {
+    "author": "Lachlan Lancaster, Jenny Greene, Yuan-Sen Ting, et al.",
+    "title": "A Mystery in Chamaeleon: Serendipitous Discovery of a Galactic Symbiotic Nova",
+    "year": "2020",
+    "journal": "Astron. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "http://arxiv.org/abs/2002.07852",
+    "img": "lancaster20a.png"
+  },
+  "Hammer20a": {
+    "author": "Francois Hammer, Yanbin Yang, Frederic Arenou, et al.",
+    "title": "Orbital evidences for dark-matter-free Milky Way dwarf spheroidal galaxies",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "892",
+    "pages": "3",
+    "url": "http://arxiv.org/abs/2002.09493",
+    "img": "hammer20a.png"
+  },
+  "Coronado20a": {
+    "author": "Johanna Coronado, Hans-Walter Rix, Wilma H. Trick, et al.",
+    "title": "From birth associations to field stars: mapping the small-scale orbit distribution in the Galactic disc",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "http://arxiv.org/abs/2002.09496",
+    "img": "coronado20a.png"
+  },
+  "Rusakov20a.png": {
+    "author": "V. Rusakov, M. Monelli, C. Gallart, et al.",
+    "title": "The bursty star formation history of the Fornax dwarf spheroidal galaxy revealed with the HST",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "http://arxiv.org/abs/2002.09714",
+    "img": "rusakov20a.png"
+  },
+  "Ciuca20a": {
+    "author": "Ioana Ciuca, Daisuke Kawata, Andrea Miglio, et al.",
+    "title": "Unveiling the Distinct Formation Pathways of the Inner and Outer Discs of the Milky Way with Bayesian Machine Learning",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "http://arxiv.org/abs/2003.03316",
+    "img": "ciuca20a.png"
+  },
+  "Gan20a": {
+    "author": "Tianjun Gan, Avi Shporer, John H. Livingston, et al.",
+    "title": "LHS 1815b: The First Thick-Disk Planet Detected By TESS",
+    "year": "2020",
+    "journal": "Astron. J.",
+    "volume": "159",
+    "pages": "160",
+    "url": "http://arxiv.org/abs/2003.04525",
+    "img": "gan20a.png"
+  },
+  "Miyoshi20a": {
+    "author": "Takahiro Miyoshi & Masashi Chiba",
+    "title": "Long-term orbital evolution of Galactic satellites and the effects on their star formation histories",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "http://arxiv.org/abs/2003.07006",
+    "img": "miyoshi20a.png"
+  },
+  "PortegiesZwart20a": {
+    "author": "Simon Portegies Zwart, Inti Pelupessy, Carmen Martinez-Barbosa, et al.",
+    "title": "Non-intrusive hierarchical coupling strategies for multi-scale simulations in gravitational dynamics",
+    "year": "2020",
+    "journal": "Comm. Nonlin. Sci. Num. Sim.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2002.11206",
+    "img": "portegieszwart20a.png"
+  },
+  "Feuillet20a": {
+    "author": "Diane K Feuillet, Sofia Feltzing, Christian Sahlholdt, et al.",
+    "title": "The SkyMapper-Gaia RVS view of the Sausage -- an investigation of the metallicity and mass of the Milky Way's last major merger",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2003.11039",
+    "img": "feuillet20a.png"
+  },
+  "_template": {
+    "author": "",
+    "title": "",
+    "year": "",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "",
+    "img": ""
+  }
 }
