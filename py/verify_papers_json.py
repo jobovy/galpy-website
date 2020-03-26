@@ -45,6 +45,8 @@ if __name__ == '__main__':
     # Read the JSON file
     with open('../src/data/papers-using-galpy.json','r') as jsonfile:
         data= json.load(jsonfile,object_pairs_hook=dupe_checking_hook)
+    print("Papers file contains {} publications"\
+              .format(len(data)-1))
     for key in data:
         verify_one_entry(data[key],key)
     
