@@ -2379,6 +2379,146 @@
     "url": "https://arxiv.org/abs/2003.11039",
     "img": "feuillet20a.png"
   },
+  "Caffau20a": {
+    "author": "E. Caffau, P. Bonifacio, L. Sbordone, et al.",
+    "title": "The Pristine survey XI: the FORS2 sample",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "493",
+    "pages": "4677",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4677C",
+    "img": "caffau20a.png"
+  },
+  "Hanke20a": {
+    "author": "Michael Hanke, Andreas Koch, Zdenek Prudil, Eva K. Grebel, & Ulrich Bastian",
+    "title": "Purveyors of fine halos. II. Chemodynamical association of halo stars with Milky Way globular clusters",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.00018",
+    "img": "hanke20a.png"
+  },
+  "PriceJones20a": {
+    "author": "Natalie Price-Jones, Jo Bovy, Jeremy J. Webb, et al.",
+    "title": "Strong chemical tagging with APOGEE: 21 candidate star clusters that have dissolved across the Milky Way disc",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.04263",
+    "img": "pricejones20a.png"
+  },
+  "CantatGaudin20a": {
+    "author": "T. Cantat-Gaudin, F. Anders, A. Castro-Ginard, et al.",
+    "title": "Painting a portrait of the Galactic disc with its stellar clusters ",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "to be submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.07274",
+    "img": "cantatgaudin20a.png"
+  },
+  "Kawka20a": {
+    "author": "Adela Kawka, Jeffrey D. Simpson, Stephane Vennes, et al.",
+    "title": "The closest extremely low-mass white dwarf to the Sun",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.07556",
+    "img": "kawka20a.png"
+  },
+  "Kounkel20a": {
+    "author": "Marina Kounkel, Kevin Covey, & Keivan G. Stassun",
+    "title": "Untangling the Galaxy. II. Structure within 3 kpc",
+    "year": "2020",
+    "journal": "Astron. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.07261",
+    "img": "kounkel20a.png"
+  },
+  "Chen20a": {
+    "author": "Y.Q. Chen & G. Zhao",
+    "title": "Open Clusters as Tracers on Radial Migration of the Galactic Disk",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.09382",
+    "img": "chen20a.png"
+  },
+  "Salvesen20a": {
+    "author": "Greg Salvesen & Supavit Pokawanvit",
+    "title": "Origin of Spin-Orbit Misalignments: The Microblazar V4641 Sgr",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.08392",
+    "img": "salvesen20a.png"
+  },
+  "Miglio20a": {
+    "author": "Andrea Miglio, Cristina Chiappini, Ted Mackereth, et al.",
+    "title": "Age dissection of the Milky Way discs: red giants in the Kepler field",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.14806",
+    "img": "miglio20a.png"
+  },
+  "Ding20a": {
+    "author": "Hao Ding, Adam T. Deller, Paulo Freire, David L. Kaplan, T. Joseph W. Lazio, Ryan Shannon, & Benjamin Stappers",
+    "title": "Very long baseline astrometry of PSR J1012+5307 and its implications on alternative theories of gravity",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2004.14668",
+    "img": "ding20a.png"
+  },
+  "TrujilloGomez20a": {
+    "author": "Sebastian Trujillo-Gomez, J. M. Diederik Kruijssen, Marta Reina-Campos, Joel L. Pfeffer, Benjamin W. Keller, Robert A. Crain, Nate Bastian, & Meghan E. Hughes",
+    "title": "The kinematics of globular cluster populations in the E-MOSAICS simulations and their implications for the assembly history of the Milky Way",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2005.02401",
+    "img": "trujillogomez20a.png"
+  },
+  "Kushniruk20a": {
+    "author": "Iryna Kushniruk, Thomas Bensby, Sofia Feltzing, Christian L. Sahlholdt, Diane Feuillet, & Luca Casagrande",
+    "title": "HR 1614 is not a dissolving cluster",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2005.05054",
+    "img": "kushniruk20a.png"
+  },
+  "RiRan20a": {
+    "author": "Doo Ri Han, Young Sun Lee, Young Kwang Kim, & Timothy C. Beers",
+    "title": "Formation and Evolution History of the Galactic Disk System",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2005.04866",
+    "img": "riran20a.png"
+  },
+  "Bird20a": {
+    "author": "Sarah A. Bird, Xiang-Xiang Xue, Chao Liu, Juntai Shen, Chris Flynn, & Chengqun Yang",
+    "title": "Constraints on the assembly history of the Milky Way's smooth, diffuse stellar halo from the metallicity-dependent, radially-dominated velocity anisotropy profiles probed with K giants and BHB stars using LAMOST, SDSS/SEGUE, and Gaia",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2005.05980",
+    "img": "bird20a.png"
+  },
   "_template": {
     "author": "",
     "title": "",
