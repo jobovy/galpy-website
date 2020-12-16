@@ -2519,6 +2519,646 @@
     "url": "https://arxiv.org/abs/2005.05980",
     "img": "bird20a.png"
   },
+  "Tautvaisiene20a": {
+    "author": "G. Tautvaisiene, S. Mikolaitis, A. Drazdauskas, et al.",
+    "title": "Chemical Composition of Bright Stars in the Continuous Viewing Zone of the TESS Space Mission",
+    "year": "2020",
+    "journal": "Astrophys. J. Supp.",
+    "volume": "248",
+    "pages": "19",
+    "url": "https://arxiv.org/abs/2005.07526",
+    "img": "tautvaisiene20a.png"
+  },
+  "Tian20a": {
+    "author": "Hai-Jun Tian",
+    "title": "Discovery of a young stellar 'snake' with two dissolving cores in the solar neighborhood",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2005.12265",
+    "img": "tian20a.png"
+  },
+  "Wang20a": {
+    "author": "H.-F. Wang, Y. Huang, H.-W. Zhang, M. López-Corredoira, W.-Y. Cui, B.-Q. Chen, R. Guo, & J. Chang",
+    "title": "Diagonal Ridge pattern of different age populations found in Gaia DR2 with LAMOST Main-Sequence-Turn-Off and OB type Stars",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "902",
+    "pages": "70",
+    "url": "https://arxiv.org/abs/2005.14362",
+    "img": "wang20a.png"
+  },
+  "Luo20b": {
+    "author": "Yangping Luo, Peter Nemeth, Qida Li",
+    "title": "Hot Subdwarf Stars Identified in Gaia DR2 with Spectra of LAMOST DR6 and DR7. II. Kinematics",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "898",
+    "pages": "64",
+    "url": "https://arxiv.org/abs/2006.01655",
+    "img": "luo20b.png"
+  },
+  "Montalban20a": {
+    "author": "Josefina Montalban, John Ted Mackereth, Andrea Miglio, et al.",
+    "title": "Chronologically dating the early assembly of the Milky Way",
+    "year": "2020",
+    "journal": "Nature",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2006.01783",
+    "img": "montalban20a.png"
+  },
+  "Hunt20a": {
+    "author": "Jason A. S. Hunt, Kathryn V. Johnston, Alex R. Pettitt, Emily C. Cunningham, Daisuke Kawata, & David W. Hogg",
+    "title": "The power of co-ordinate transformations in dynamical interpretations of Galactic structure",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "497",
+    "pages": "818",
+    "url": "https://arxiv.org/abs/2006.03600",
+    "img": "hunt20a.png"
+  },
+  "Evans20a": {
+    "author": "Fraser A. Evans, Mathieu Renzo, Elena Maria Rossi",
+    "title": "Core-Collapse Supernovae in Binaries as the Origin of Galactic Hyper-Runaway Stars",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "497",
+    "pages": "5344",
+    "url": "https://arxiv.org/abs/2006.00849",
+    "img": "evans20a.png"
+  },
+  "Webb20a": {
+    "author": "Jeremy J. Webb & Jo Bovy",
+    "title": "High-resolution simulations of dark matter subhalo disruption in a Milky-Way-like tidal field",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "499",
+    "pages": "116",
+    "url": "https://arxiv.org/abs/2006.06695",
+    "img": "webb20a.png"
+  },
+  "Crosta20a": {
+    "author": "Mariateresa Crosta, Marco Giammaria, Mario G. Lattanzi, & Eloisa Poggio",
+    "title": "Testing dark matter and geometry sustained circular velocities in the Milky Way with Gaia DR2",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "496",
+    "pages": "2107",
+    "url": "https://arxiv.org/abs/1810.04445",
+    "img": "crosta20a.png"
+  },
+  "Donlon20a": {
+    "author": "Thomas Donlon II, Heidi Jo Newberg, Robyn Sanderson, Lawrence M. Widrow",
+    "title": "The Milky Way's Shell Structure Reveals the Time of a Radial Collision",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "902",
+    "pages": "119",
+    "url": "https://arxiv.org/abs/2006.08764",
+    "img": "donlon20a.png"
+  },
+  "Zhong20a": {
+    "author": "Jing Zhong, Li Chen, Di Wu, Lu Li, Leya Bai, & Jinliang Hou",
+    "title": "Exploring open cluster properties with Gaia and LAMOST",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "640",
+    "pages": "A127",
+    "url": "https://arxiv.org/abs/2006.06929",
+    "img": "zhong20a.png"
+  },
+  "Stefansson20a": {
+    "author": "Gudmundur Stefansson, Ravi Kopparapu, Andrea Lin, et al.",
+    "title": "A Mini-Neptune and a Venus-Zone Planet in the Radius Valley Orbiting the Nearby M2-dwarf TOI-1266: Validation with the Habitable-zone Planet Finder",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2006.11180",
+    "img": "stefansson20a.png"
+  },
+  "Gaensicke20a": {
+    "author": "Boris T. Gaensicke, Detlev Koester, Roberto Raddi, Odette Toloza, & S.O. Kepler",
+    "title": "SDSS J124043.01+671034.68: The partially burned remnant of a low-mass white dwarf that underwent thermonuclear ignition?",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "496",
+    "pages": "4079",
+    "url": "https://arxiv.org/abs/2006.07381",
+    "img": "gaensicke20a.png"
+  },
+  "Kanodia20a": {
+    "author": "Shubham Kanodia, Caleb I. Canas, Gudmundur Stefansson, et al.",
+    "title": "TOI-1728b: The Habitable-zone Planet Finder confirms a warm super Neptune orbiting an M dwarf host",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "899",
+    "pages": "29",
+    "url": "https://arxiv.org/abs/2006.14546",
+    "img": "kanodia20a.png"
+  },
+  "Maccarone20a": {
+    "author": "Thomas J. Maccarone, Arlo Osler, P. Atri, David M. Russell, David L. Meier, Ian M. McHardy, & Penelope A. Longa-Pena",
+    "title": "The stringent upper limit on jet power in the persistent soft state source 4U-1957+11",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "498",
+    "pages": "L40",
+    "url": "https://arxiv.org/abs/2007.00834",
+    "img": "maccarone20a.png"
+  },
+  "Tian20b": {
+    "author": "Hao Tian, Chao Liu, Yougang Wang, Yan Xu, Chengqun Yang, Bo Zhang, & Xiang-Xiang Xue",
+    "title": "Differential rotation of the halo traced by the K-giant stars",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "899",
+    "pages": "110",
+    "url": "https://arxiv.org/abs/2007.00852",
+    "img": "tian20b.png"
+  },
+  "Caffau20b": {
+    "author": "E. Caffau, L. Monaco, P. Bonifacio, et al.",
+    "title": "High-speed stars: Galactic hitchhikers",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "638",
+    "pages": "A122",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020A%26A...638A.122C/abstract",
+    "img": "caffau20b.png"
+  },
+  "Boldrini20a": {
+    "author": "Pierre Boldrini",
+    "title": "The origin of the black hole offset in M31",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "498",
+    "pages": "L31",
+    "url": "https://arxiv.org/abs/2007.03010",
+    "img": "boldrini20a.png"
+  },
+  "Correa20a": {
+    "author": "Camila A. Correa",
+    "title": "Constraining Velocity-dependent Self-Interacting Dark Matter with the Milky Way's dwarf spheroidal galaxies",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2007.02958",
+    "img": "correa20a.png"
+  },
+  "Banerjee20a": {
+    "author": "Projjwal Banerjee, Meng-Ru Wu, & Zhen Yuan",
+    "title": "Neutron Star Mergers as the Main Source of R-process: Natal Kicks And Inside-Out Evolution to The Rescue",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "902",
+    "pages": "L34",
+    "url": "https://arxiv.org/abs/2007.04442",
+    "img": "banerjee20a.png"
+  },
+  "Sahin20a": {
+    "author": "Timur Sahin & Selcuk Bilir",
+    "title": "On the Origin of Metal-poor Stars in the Solar Neighborhood",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "899",
+    "pages": "41",
+    "url": "https://arxiv.org/abs/2007.08514",
+    "img": "sahin20a.png"
+  },
+  "Grossschedl20a": {
+    "author": "Josefa E. Grossschedl, Joao Alves, Stefan Meingast, & Gabor Herbst-Kiss",
+    "title": "3D dynamics of the Orion cloud complex -- Discovery of coherent radial gas motions at the 100-pc scale",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2007.07254",
+    "img": "grossschedl20a.png"
+  },
+  "RecioBlanco20a": {
+    "author": "Alejandra Recio-Blanco, Emma Fernández Alvar, Patrick de Laverny, Teresa Antoja, Amina Helmi, Aurélien Crida",
+    "title": "The heavy-elements heritage of the falling sky",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2007.08313",
+    "img": "recioblanco20a.png"
+  },
+  "Horta20b": {
+    "author": "Danny Horta, Ricardo P. Schiavon, J. Ted Mackereth, et al.",
+    "title": "Evidence from APOGEE for the presence of a major building block of the halo buried in the inner Galaxy",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "500",
+    "pages": "1385",
+    "url": "https://arxiv.org/abs/2007.10374",
+    "img": "horta20b.png"
+  },
+  "Reggiani20a": {
+    "author": "Henrique Reggiani, Kevin C. Schlaufman, Andrew R. Casey, & Alexander P. Ji",
+    "title": "The Most Metal-poor Stars in the Inner Bulge",
+    "year": "2020",
+    "journal": "Astron. J.",
+    "volume": "160",
+    "pages": "173",
+    "url": "https://arxiv.org/abs/2007.12728",
+    "img": "reggiani20a.png"
+  },
+  "RojasArriagada20a": {
+    "author": "A. Rojas-Arriagada, G. Zasowski, M. Schultheis, et al.",
+    "title": "How Many Components? Quantifying the Complexity of the Metallicity Distribution in the Milky Way Bulge with APOGEE",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "499",
+    "pages": "1037",
+    "url": "https://arxiv.org/abs/2007.13967",
+    "img": "rojasarriagada20a.png"
+  },
+  "Garrow20a": {
+    "author": "Turner Garrow, Jeremy J. Webb, & Jo Bovy",
+    "title": "The Effects of Dwarf Galaxies on the Orbital Evolution of Galactic Globular Clusters",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "499",
+    "pages": "804",
+    "url": "https://arxiv.org/abs/2007.13752",
+    "img": "garrow20a.png"
+  },
+  "Chakrabarti20a": {
+    "author": "Sukanya Chakrabarti, Jason Wright, Philip Chang, et al.",
+    "title": "Towards a direct measure of the Galactic acceleration",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "902",
+    "pages": "L28",
+    "url": "https://arxiv.org/abs/2007.15097",
+    "img": "chakrabarti20a.png"
+  },
+  "Libralato20a": {
+    "author": "M. Libralato, M. Fardal, D. Lennon, R. P. van der Marel, & A. Bellini",
+    "title": "The absolute proper motions of the Arches and Quintuplet clusters",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "497",
+    "pages": "4733",
+    "url": "https://arxiv.org/abs/2008.01741",
+    "img": "libralato20a.png"
+  },
+  "Masseron20a": {
+    "author": "T. Masseron, D. A. Garcia-Hernandez, R. Santovena, A. Manchado, O. Zamora, M. Manteiga, & C. Dafonte",
+    "title": "Phosphorus-rich stars with unusual abundances are challenging theoretical predictions",
+    "year": "2020",
+    "journal": "Nature Communications",
+    "volume": "11",
+    "pages": "3759",
+    "url": "https://arxiv.org/abs/2008.01633",
+    "img": "masseron20a.png"
+  },
+  "CastroSegura20a": {
+    "author": "N. Castro Segura, C. Knigge, J. A. Acosta-Pulido, et al.",
+    "title": "Bow-shocks, nova shells, disc winds and tilted discs: The Nova-Like V341 Ara Has It All",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2008.07462",
+    "img": "castrosegura20a.png"
+  },
+  "Sun20a": {
+    "author": "Weixiang Sun, Yang Huang, Haifeng Wang, et al.",
+    "title": "Mapping the Galactic disk with the LAMOST and Gaia Red clump sample: V: On the origin of the 'young' [α/Fe]-enhanced stars",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "903",
+    "pages": "12",
+    "url": "https://arxiv.org/abs/2008.10218",
+    "img": "sun20a.png"
+  },
+  "Sizova20a": {
+    "author": "M. D. Sizova, S. V. Vereshchagin, B. M. Shustov, & N. V. Chupina",
+    "title": "Solar System Encounters with Open Star Clusters",
+    "year": "2020",
+    "journal": "Astron. Rep.",
+    "volume": "64",
+    "pages": "711",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020ARep...64..711S/abstract",
+    "img": "sizova20a.png"
+  },
+  "Lucey20a": {
+    "author": "Madeline Lucey, Keith Hawkins, Melissa Ness, et al.",
+    "title": "The COMBS Survey II: Distinguishing the Metal-Poor Bulge from the Halo Interlopers",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2009.03886",
+    "img": "lucey20a.png"
+  },
+  "Hwang20a": {
+    "author": "Hsiang-Chih Hwang, Yuan-Sen Ting, Kevin C. Schlaufman, Nadia L. Zakamska, & Rosemary F.G. Wyse",
+    "title": "The non-monotonic, strong metallicity dependence of the wide-binary fraction",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2010.02920",
+    "img": "hwang20a.png"
+  },
+  "Guerrero20a": {
+    "author": "Martin A Guerrero, Roberto Ortiz, Laurence Sabin, Gerardo Ramos-Larios, & Emilio J Alfaro",
+    "title": "Detailed Studies of IPHAS sources. II. Sab 19, a true planetary nebula and its mimic crossing the Perseus Arm",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2010.05553",
+    "img": "guerrero20a.png"
+  },
+  "Bennett20a": {
+    "author": "Morgan Bennett & Jo Bovy",
+    "title": "Did Sgr cause the vertical waves in the solar neighbourhood?",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2010.04165",
+    "img": "bennett20a.png"
+  },
+  "Meingast20a": {
+    "author": "Stefan Meingast, Joao Alves, & Alena Rottensteiner",
+    "title": "Extended stellar systems in the solar neighborhood -- V. Discovery of coronae of nearby star clusters",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2010.06591",
+    "img": "meingast20a.png"
+  },
+  "Bonetti20a": {
+    "author": "Matteo Bonetti, Elisa Bortolas, Alessandro Lupi, & Massimo Dotti",
+    "title": "Dynamical evolution of massive perturbers in realistic multi-component galaxy models I: implementation and validation",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2010.08555",
+    "img": "bonetti20a.png"
+  },
+  "CarballoBello20a": {
+    "author": "Julio A. Carballo-Bello, Ricardo Salinas, & Andres E. Piatti",
+    "title": "The disruption of the low-mass globular cluster E3",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "499",
+    "pages": "2157",
+    "url": "https://arxiv.org/abs/2009.11320",
+    "img": "carballobello20a.png"
+  },
+  "Kawka20b": {
+    "author": "Adela Kawka, Stephane Vennes, Nicole F. Allard, T. Leininger, & F. X. Gadea",
+    "title": "The nearby magnetic cool DZ white dwarf PM J08186-3110",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "500",
+    "pages": "2732",
+    "url": "https://arxiv.org/abs/2010.15319",
+    "img": "kawka20b.png"
+  },
+  "Yang20a": {
+    "author": "Hongjing Yang, Shude Mao, Weicheng Zang, & Xiangyu Zhang",
+    "title": "Microlensing Predictions: Impact of Galactic Disc Dynamical Models",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2010.16146",
+    "img": "yang20a.png"
+  },
+  "Cordoni20a": {
+    "author": "G. Cordoni, G. S. Da Costa, D. Yong, et al.",
+    "title": "Exploring the Galaxy's halo and very metal-weak thick disk with SkyMapper and Gaia DR2",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2011.01189",
+    "img": "cordoni20a.png"
+  },
+  "Trick20a": {
+    "author": "Wilma H. Trick",
+    "title": "Identifying resonances of the Galactic bar in Gaia DR2: II. Clues from angle space",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2011.01233",
+    "img": "trick20a.png"
+  },
+  "Buder20a": {
+    "author": "Sven Buder, Sanjib Sharma, Janez Kos, et al.",
+    "title": "The GALAH+ Survey: Third Data Release",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2011.02505",
+    "img": "buder20a.png"
+  },
+  "Spina20a": {
+    "author": "Lorenzo Spina, Yuan-Sen Ting, Gayandhi M. De Silva, et al.",
+    "title": "The GALAH survey: tracing the Galactic disk with Open Clusters",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2011.02533",
+    "img": "spina20a.png"
+  },
+  "Raddi20a": {
+    "author": "Roberto Raddi, Andreas Irrgang, Ulrich Heber, David Schneider, & Simon Kreuzer",
+    "title": "Runaway blue main-sequence stars at high Galactic latitudes. Target selection with Gaia and spectroscopic identification",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2011.08862",
+    "img": "raddi20a.png"
+  },
+  "Li20a": {
+    "author": "Yin-Bi Li, A-Li Luo, You-Jun Lu, et al.",
+    "title": "591 high velocity stars in the Galactic halo selected from LAMOST DR7 and Gaia DR2",
+    "year": "2020",
+    "journal": "Astrophys. J. Supp.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2011.10206",
+    "img": "li20a.png"
+  },
+  "Yavetz20a": {
+    "author": "Tomer D. Yavetz, Kathryn V. Johnston, Sarah Pearson, Adrian M. Price-Whelan, & Martin D. Weinberg",
+    "title": "Separatrix Divergence of Stellar Streams in Galactic Potentials",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2011.11919",
+    "img": "yavetz20a.png"
+  },
+  "Mackereth20a": {
+    "author": "J. Ted Mackereth, Andrea Miglio, Yvonne Elsworth, et al.",
+    "title": "Prospects for Galactic and stellar astrophysics with asteroseismology of giant stars in the TESS Continuous Viewing Zones and beyond",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.00140",
+    "img": "mackereth20a.png"
+  },
+  "Hermans20a": {
+    "author": "Joeri Hermans, Nilanjan Banik, Christoph Weniger, Gianfranco Bertone, Gilles Louppe",
+    "title": "Towards constraining warm dark matter with stellar streams through neural simulation-based inference",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2011.14923",
+    "img": "hermans20a.png"
+  },
+  "PriceWhelan20a": {
+    "author": "Adrian M. Price-Whelan, David W. Hogg, Kathryn V. Johnston, et al.",
+    "title": "Orbital Torus Imaging: Using Element Abundances to Map Orbits and Mass in the Milky Way",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.00015",
+    "img": "pricewhelan20a.png"
+  },
+  "Chakrabarti20b": {
+    "author": "Sukanya Chakrabarti, Philip Chang, Michael T. Lam, Sarah J. Vigeland, & Alice C. Quillen",
+    "title": "A direct constraint on the Galactic acceleration and the Oort limit from pulsar timing",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2010.04018",
+    "img": "chakrabarti20b.png"
+  },
+  "Simon20a": {
+    "author": "Joshua D. Simon, Thomas M. Brown, Alex Drlica-Wagner, et al.",
+    "title": "Eridanus II: A Fossil from Reionization with an Off-Center Star Cluster",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.00043",
+    "img": "simon20a.png"
+  },
+  "Bovy20a": {
+    "author": "Jo Bovy",
+    "title": "A purely acceleration-based measurement of the fundamental Galactic parameters",
+    "year": "2020",
+    "journal": "Phys. Rev. Lett.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.02169",
+    "img": "bovy20a.png"
+  },
+  "Afruni20a": {
+    "author": "Andrea Afruni, Filippo Fraternali, & Gabriele Pezzulli",
+    "title": "Most of the cool CGM of star-forming galaxies is not produced by supernova feedback",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.00770",
+    "img": "afruni20a.png"
+  },
+  "Dietz20a": {
+    "author": "Sarah E. Dietz, Jinmi Yoon, Timothy C. Beers, & Vinicius Placco",
+    "title": "Two Populations of Carbon-Enhanced Metal-Poor Stars in the Disk System of the Milky Way",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.03463",
+    "img": "dietz20a.png"
+  },
+  "daSilva20a": {
+    "author": "André R. da Silva, Rodolfo Smiljanic, & Riano E. Giribaldi",
+    "title": "Chemo-kinematic analysis of metal-poor stars with unsupervised machine learning",
+    "year": "2020",
+    "journal": "Proc. ADASS XXX",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.03949",
+    "img": "dasilva20a.png"
+  },
+  "Kielty20a": {
+    "author": "Collin L. Kielty, Kim A. Venn, Federico Sestito, et al.",
+    "title": "The Pristine survey -- XII: Gemini-GRACES chemo-dynamical study of newly discovered extremely metal-poor stars in the Galaxy",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.03960",
+    "img": "kielty20a.png"
+  },
+  "Ye20a": {
+    "author": "Xianhao Ye, Jingkun Zhao, Jiaming Liu, Sarah A. Bird, Chao Liu, Xilong Liang, Jiajun Zhang, & Gang Zhao",
+    "title": "Diagnosing Open Cluster Stock 2: Member Candidates and Mass Distribution with Gaia DR2 and LAMOST",
+    "year": "2020",
+    "journal": "Astron. J.",
+    "volume": "161",
+    "pages": "8",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161....8Y/abstract",
+    "img": "ye20a.png"
+  },
+  "Kawata20a": {
+    "author": "Daisuke Kawata, Junichi Baba, Jason A. S. Hunt, Ralph Schoenrich, Ioana Ciuca, Jennifer Friske, George Seabroke, & Mark Cropper",
+    "title": "Galactic Bar Resonances Inferred from Kinematically Hot Stars in Gaia EDR3",
+    "year": "2020",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.05890",
+    "img": "kawata20a.png"
+  },
+  "Antoja20a": {
+    "author": "Gaia Collaboration, T. Antoja, P. McMillan, G. Kordopatis, et al.",
+    "title": "Gaia Early Data Release 3: The Galactic anticentre",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://www.cosmos.esa.int/documents/29201/5015079/GalacticAnticentre_UnderReview.pdf/2545c938-323c-6c8f-4f39-67e912bbb021?t=1606986102985",
+    "img": "antoja20a.png"
+  },
+  "Tarricq20a": {
+    "author": "Y. Tarricq, C. Soubiran, L.Casamiquela, et al.",
+    "title": "3D kinematics and age distribution of the Open Cluster population",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.04017",
+    "img": "tarricq20a.png"
+  },
+  "Sariya20a": {
+    "author": "Devesh P. Sariya, Ing-Guey Jiang, M. D. Sizova, et al.",
+    "title": "A comprehensive analysis of NGC 2158 in Gaia era: photometric parameters, apex and orbit",
+    "year": "2020",
+    "journal": "Astron. J.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2012.06342",
+    "img": "sariya20a.png"
+  },
   "_template": {
     "author": "",
     "title": "",
