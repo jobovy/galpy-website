@@ -4179,6 +4179,76 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2021PASJ...73..652G/abstract",
     "img": "gao21a.png"
   },
+  "Canas22a": {
+    "author": "Caleb I. Cañas, Suvrath Mahadevan, William D. Cochran, et al.",
+    "title": "A hot Mars-sized exoplanet transiting an M dwarf",
+    "year": "2022",
+    "journal": "Astron. J.",
+    "volume": "163",
+    "pages": "3",
+    "url": "https://arxiv.org/abs/2112.03958",
+    "img": "canas22a.png"
+  },
+  "Sahlholdt21a": {
+    "author": "Christian L. Sahlholdt, Sofia Feltzing, & Diane K. Feuillet",
+    "title": "Characterizing epochs of star formation across the Milky Way disc using age-metallicity distributions of GALAH stars",
+    "year": "Mon. Not. Roy.Astron. Soc.",
+    "journal": "in press",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2112.08218",
+    "img": "sahlholdt21a.png"
+  },
+  "Naik21a": {
+    "author": "Aneesh P. Naik, Jin An, Clare Burrage, & N. Wyn Evans",
+    "title": "Charting galactic accelerations II: how to 'learn' accelerations in the solar neighbourhood",
+    "year": "2021",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "submitted",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2112.07657",
+    "img": "naik21a.png"
+  },
+  "Gies21a": {
+    "author": "Douglas R. Gies, Katherine Shepard, Peter Wysocki, & Robert Klement",
+    "title": "The Transformative Journey of HD 93521",
+    "year": "2021",
+    "journal": "Astron. J.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2112.08235",
+    "img": "gies21a.png"
+  },
+  "GoughKelly22a": {
+    "author": "Steven Gough-Kelly, Victor P. Debattista, William I. Clarkson, Oscar A. Gonzalez, Stuart R. Anderson, Mario Gennaro, Annalisa Calamida, & Kailash C. Sahu",
+    "title": "Predicted Trends in Milky Way Bulge Proper Motion Rotation Curves: future Prospects for HST and LSST",
+    "year": "2022",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "509",
+    "pages": "4829",
+    "url": "https://arxiv.org/abs/2112.09185",
+    "img": "goughkelly22a.png"
+  },
+  "Lucchesi21a": {
+    "author": "R. Lucchesi, C. Lardo, P. Jablonka, et al.",
+    "title": "The Pristine survey -- XV. A CFHT ESPaDOnS view on the Milky Way halo and disc populations",
+    "year": "2021",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "in press",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2112.10792",
+    "img": "lucchesi21a.png"
+  },
+  "Sizova21a": {
+    "author": "M.D. Sizova, A.V. Tutukov, & S.V. Vereshchagin",
+    "title": "Stellar comet spear",
+    "year": "2021",
+    "journal": "Cont. Astron. Obs. Skalnaté Pleso",
+    "volume": "51",
+    "pages": "270",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021CoSka..51..270S/abstract",
+    "img": "sizova21a.png"
+  },
   "_template": {
     "author": "",
     "title": "",
