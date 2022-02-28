@@ -14,6 +14,8 @@
     <!-- slick carousel CSS -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    <!-- Code highlighting with highlight.js -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/vs.min.css">
     <!-- Custom styles -->
     <link href="css/galpy-website.css" rel="stylesheet">
 
@@ -139,28 +141,28 @@
   <div class="row featurette" data-aos="fade-in" data-aos-once="true">
     <div class="col-md-5">
       <h4>Plot the rotation curve of the Milky Way</h4>
-      <pre>from galpy.potential import (plotRotcurve,
+      <pre><code>from galpy.potential import (plotRotcurve,
     MWPotential2014 as mwp14)
 import matplotlib.pyplot as plt
 plotRotcurve(mwp14)
 plotRotcurve(mwp14[0],label='Bulge',overplot=True)
 plotRotcurve(mwp14[1],label='Disk',overplot=True)
 plotRotcurve(mwp14[2],label='Halo',overplot=True)
-plt.legend()</pre>
+plt.legend()</code></pre>
       <h4>or integrate the orbit of the Sun</h4>
-      <pre>from galpy.orbit import Orbit
+      <pre><code>from galpy.orbit import Orbit
 from galpy.potential import MWPotential2014
 import numpy
 ts= numpy.linspace(0.,5.,2001)*u.Gyr
 o= Orbit() # default = the sun
 o.integrate(ts,MWPotential2014)
-o.plot()</pre>
+o.plot()</code></pre>
       <h4>or calculate its orbital actions</h4>
-      <pre>from galpy.orbit import Orbit
+      <pre><code>from galpy.orbit import Orbit
 from galpy.potential import (
   MWPotential2014 as mwp14)
 o= Orbit()
-print(o.jr(pot=mwp14),o.Lz(),o.jz(pot=mwp14))</pre>
+print(o.jr(pot=mwp14),o.Lz(),o.jz(pot=mwp14))</code></pre>
       <h4>and much more...</h4>
     </div>
     <div class="col-md-7 order-md-2">
@@ -203,8 +205,11 @@ print(o.jr(pot=mwp14),o.Lz(),o.jz(pot=mwp14))</pre>
 
     <!-- activate the 'activate-on-scroll' library -->
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
     <script>
       $(document).ready(function() {
+      // Highlight Python examples
+      hljs.highlightAll();
       // Make sure the gif refreshes
       var gifSource = $("#logo-gif").attr("src"); //get the source in the var
       $("#logo-gif").attr("src", ""); //erase the source     
