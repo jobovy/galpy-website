@@ -130,6 +130,51 @@
 
 	<hr class="featurette-divider">
 
+  <div class="center row featurette" data-aos="fade-in" data-aos-once="true">
+	  <div class="col order-md-1">
+            <h2 class="featurette-heading" id="interactive" style="text-align: center;">Try <span class="courier-code">galpy</span>!</h2>
+            <p class="lead">Give <span class="courier-code">galpy</span> a try in the interactive <span class="courier-code">IPython</span>-like shell below!</p>
+    </div>
+  </div>
+  <div class="row featurette" data-aos="fade-in" data-aos-once="true">
+    <div class="col-md-5">
+      <h4>Plot the rotation curve of the Milky Way</h4>
+      <pre>from galpy.potential import (plotRotcurve,
+    MWPotential2014 as mwp14)
+import matplotlib.pyplot as plt
+plotRotcurve(mwp14)
+plotRotcurve(mwp14[0],label='Bulge',overplot=True)
+plotRotcurve(mwp14[1],label='Disk',overplot=True)
+plotRotcurve(mwp14[2],label='Halo',overplot=True)
+plt.legend()</pre>
+      <h4>or integrate the orbit of the Sun</h4>
+      <pre>from galpy.orbit import Orbit
+from galpy.potential import MWPotential2014
+import numpy
+ts= numpy.linspace(0.,5.,2001)*u.Gyr
+o= Orbit() # default = the sun
+o.integrate(ts,MWPotential2014)
+o.plot()</pre>
+      <h4>or calculate its orbital actions</h4>
+      <pre>from galpy.orbit import Orbit
+from galpy.potential import (
+  MWPotential2014 as mwp14)
+o= Orbit()
+print(o.jr(pot=mwp14),o.Lz(),o.jz(pot=mwp14))</pre>
+      <h4>and much more...</h4>
+    </div>
+    <div class="col-md-7 order-md-2">
+      <iframe src="https://www.galpy.org/repl?code=import%20galpy%0A%23Type%20some%20code%20and%20press%20Shift%2BEnter%20to%20run" width="100%" height="525px" style="display:block;margin: 0 auto;"></iframe>
+      <br/>
+      <p style="font-size: small;">(This interactive shell runs using the <span class="courier-code">pyodide</span>
+         Python kernel, a version of Python that runs in your browser. Unfortunately, not all
+          <span class="courier-code">galpy</span> functionality is supported in this kernel at the moment
+          and code runs much slower than it would in a regular Python session.)</p>
+     </div>
+  </div>
+
+	<hr class="featurette-divider">
+
 	<div class="center row featurette" data-aos="fade-in" data-aos-once="true">
 	  <div class="col order-md-1">
             <h2 class="featurette-heading" id="acknowledge" style="text-align: center;">Support and acknowledge <span class="courier-code">galpy</span></h2>
@@ -147,7 +192,7 @@
 
       <hr class="featurette-divider" style="margin-bottom: 0.5rem;">
       <!-- Copyright -->
-      <div class="footer-copyright text-center lead" style="font-size: 0.85rem;margin-bottom: 0.5rem;">© 2020 <a href="http://astro.utoronto.ca/~bovy" target="_blank"> Jo Bovy</a>
+      <div class="footer-copyright text-center lead" style="font-size: 0.85rem;margin-bottom: 0.5rem;">© 2022 <a href="http://astro.utoronto.ca/~bovy" target="_blank"> Jo Bovy</a>
       </div>
       <!-- Copyright -->
     </footer>
