@@ -4249,6 +4249,276 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2021CoSka..51..270S/abstract",
     "img": "sizova21a.png"
   },
+  "ElBadry22a": {
+    "author": "Kareem El-Badry, Charlie Conroy, Eliot Quataert, Hans-Walter Rix, Jonathan Labadie-Bartz, et al.",
+    "title": "Birth of a Be star: an APOGEE search for Be stars forming through binary mass transfer",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2201.05614",
+    "img": "elbadry22a.png"
+  },
+  "Contardo22a": {
+    "author": "Gabriella Contardo, David W. Hogg, Jason A. S. Hunt, Joshua E. G. Peek, & Yen-Chi Chen",
+    "title": "The emptiness inside: Finding gaps, valleys, and lacunae with geometric data analysis",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2201.10674",
+    "img": "contardo22a.png"
+  },
+  "Caas22a": {
+    "author": "Caleb I. Cañas, Shubham Kanodia, Chad F. Bender, Suvrath Mahadevan, Guðmundur Stefánsson, et al.",
+    "title": "Two gas giants transiting M dwarfs confirmed with HPF and NEID",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2201.09963",
+    "img": "caas22a.png"
+  },
+  "Qian22a": {
+    "author": "Yansong Qian, Yumna Arshad, & Jo Bovy",
+    "title": "The structure of accreted stellar streams",
+    "year": "2022",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "511",
+    "pages": "2339",
+    "url": "https://arxiv.org/abs/2201.11045",
+    "img": "qian22a.png"
+  },
+  "Spina22a": {
+    "author": "Lorenzo Spina, Laura Magrini, & Katia Cunha",
+    "title": "Mapping the Galactic Metallicity Gradient with Open Clusters: The State-of-the-Art and Future Challenges",
+    "year": "2022",
+    "journal": "Universe",
+    "volume": "8",
+    "pages": "87",
+    "url": "https://arxiv.org/abs/2202.00463",
+    "img": "spina22a.png"
+  },
+  "ViscasillasVzquez22a": {
+    "author": "C. Viscasillas Vázquez, L. Magrini, G. Casali, G. Tautvaišienė, L. Spina, et al.",
+    "title": "The Gaia-ESO Survey: Age-chemical-clock relations spatially resolved in the Galactic disc",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2202.04863",
+    "img": "viscasillasvzquez22a.png"
+  },
+  "DSouza22a": {
+    "author": "Richard D'Souza & Eric F. Bell",
+    "title": "Uncertainties associated with the backward integration of dwarf satellites using simple parametric potentials",
+    "year": "2022",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "512",
+    "pages": "739",
+    "url": "https://arxiv.org/abs/2202.05707",
+    "img": "dsouza22a.png"
+  },
+  "Malhan22a": {
+    "author": "Khyati Malhan, Rodrigo A. Ibata, Sanjib Sharma, Benoit Famaey, Michele Bellazzini, et al.",
+    "title": "The Global Dynamical Atlas of the Milky Way Mergers: Constraints from Gaia EDR3-based Orbits of Globular Clusters, Stellar Streams, and Satellite Galaxies",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "926",
+    "pages": "107",
+    "url": "https://arxiv.org/abs/2202.07660",
+    "img": "malhan22a.png"
+  },
+  "Wysocki22a": {
+    "author": "Peter Wysocki, Douglas Gies, Katherine Shepard, Kathryn Lester, & Jerome Orosz",
+    "title": "Mass Transfer as an Explanation for the Lifetime Travel Time Discrepancy in IT Librae",
+    "year": "2022",
+    "journal": "Astron. J.",
+    "volume": "163",
+    "pages": "177",
+    "url": "https://arxiv.org/abs/2202.08337",
+    "img": "wysocki22a.png"
+  },
+  "Zucker22a": {
+    "author": "Catherine Zucker, Alyssa A. Goodman, João Alves, Shmuel Bialy, Michael Foley, et al.",
+    "title": "Star formation near the Sun is driven by expansion of the Local Bubble",
+    "year": "2022",
+    "journal": "Nature",
+    "volume": "601",
+    "pages": "334",
+    "url": "https://arxiv.org/abs/2201.05124",
+    "img": "zucker22a.png"
+  },
+  "Lian22a": {
+    "author": "Jianhui Lian, Gail Zasowski, Sten Hasselquist, Jon A. Holtzman, Nicholas Boardman, et al.",
+    "title": "Quantifying radial migration in the Milky Way: inefficient over short time-scales but essential to the very outer disc beyond  15 kpc",
+    "year": "2022",
+    "journal": "Mon. Not. Roy.Astron. Soc.",
+    "volume": "511",
+    "pages": "5639",
+    "url": "https://arxiv.org/abs/2202.08846",
+    "img": "lian22a.png"
+  },
+  "Tautvaiien22a": {
+    "author": "G. Tautvaišienė, Š. Mikolaitis, A. Drazdauskas, E. Stonkutė, R. Minkevičiūtė, et al.",
+    "title": "Chemical Composition of Bright Stars in the Northern Hemisphere: Star-Planet Connection",
+    "year": "2022",
+    "journal": "Astrophys. J. Supp.",
+    "volume": "259",
+    "pages": "45",
+    "url": "https://arxiv.org/abs/2202.10102",
+    "img": "tautvaiien22a.png"
+  },
+  "Yuan22a": {
+    "author": "Zhen Yuan, Nicolas F. Martin, Rodrigo A. Ibata, Elisabetta Caffau, Piercarlo Bonifacio, et al.",
+    "title": "The Pristine survey -- XVII. The C-19 stream is dynamically hot and more extended than previously thought",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2203.02512",
+    "img": "yuan22a.png"
+  },
+  "Belokurov22a": {
+    "author": "Vasily Belokurov & Andrey Kravtsov",
+    "title": "From dawn till disk: Milky Way's turbulent youth revealed by the APOGEE+Gaia data",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2203.04980",
+    "img": "belokurov22a.png"
+  },
+  "Ko22a": {
+    "author": "Seliz Koç, Talar Yontan, Selçuk Bilir, Remziye Canbay, Tansel Ak, et al.",
+    "title": "A Photometric and Astrometric Study of the Open Clusters NGC 1664 and NGC 6939",
+    "year": "2022",
+    "journal": "Astron. J.",
+    "volume": "163",
+    "pages": "191",
+    "url": "https://arxiv.org/abs/2202.11126",
+    "img": "ko22a.png"
+  },
+  "RebassaMansergas22a": {
+    "author": "Alberto Rebassa-Mansergas, Siyi Xu, Roberto Raddi, Anna F. Pala, Enrique Solano, et al.",
+    "title": "Gaia 0007-1605: An Old Triple System with an Inner Brown Dwarf-White Dwarf Binary and an Outer White Dwarf Companion",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "927",
+    "pages": "L31",
+    "url": "https://arxiv.org/abs/2203.05901",
+    "img": "rebassamansergas22a.png"
+  },
+  "Kanodia22a": {
+    "author": "Shubham Kanodia, Jessica Libby-Roberts, Caleb I. Canas, Joe P. Ninan, Suvrath Mahadevan, et al.",
+    "title": "TOI-3757 b: A low density gas giant orbiting a solar-metallicity M dwarf",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2203.07178",
+    "img": "kanodia22a.png"
+  },
+  "Reggiani22a": {
+    "author": "Henrique Reggiani, Alexander P. Ji, Kevin C. Schlaufman, Anna Frebel, Lina Necib, et al.",
+    "title": "The Chemical Composition of Extreme-Velocity Stars",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2203.16364",
+    "img": "reggiani22a.png"
+  },
+  "Wang22a": {
+    "author": "F. Wang, H. -W. Zhang, X. -X. Xue, Y. Huang, G. -C. Liu, et al.",
+    "title": "Probing the Galactic Halo with RR Lyrae Stars. II. The Substructures of the Milky Way",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2203.17032",
+    "img": "wang22a.png"
+  },
+  "Bhat22a": {
+    "author": "Aakash Bhat, Andreas Irrgang, & Ulrich Heber",
+    "title": "The origin of early-type runaway stars from open clusters",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.01594",
+    "img": "bhat22a.png"
+  },
+  "Horta22a": {
+    "author": "Danny Horta, Ricardo P. Schiavon, J. Ted Mackereth, David H. Weinberg, Sten Hasselquist, et al.",
+    "title": "The chemical characterisation of halo substructure in the Milky Way based on APOGEE",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.04233",
+    "img": "horta22a.png"
+  },
+  "Carrera22a": {
+    "author": "R. Carrera, L. Casamiquela, A. Bragaglia, E. Carretta, J. Carbajo-Hijarrubia, et al.",
+    "title": "One Star to Tag Them All (OSTTA): I. Radial velocities and chemical abundances for 20 poorly studied open clusters",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.03765",
+    "img": "carrera22a.png"
+  },
+  "Cook22a": {
+    "author": "Brian T. Cook, Deborah F. Woods, Jessica D. Ruprecht, Jacob Varey, Radha Mastandrea, et al.",
+    "title": "Tracing Milky Way substructure with an RR Lyrae hierarchical clustering forest",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.05868",
+    "img": "cook22a.png"
+  },
+  "Zaritsky22a": {
+    "author": "Dennis Zaritsky",
+    "title": "Revisiting the relation between the number of globular clusters and galaxy mass for low mass galaxies",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.06529",
+    "img": "zaritsky22a.png"
+  },
+  "Pang22a": {
+    "author": "Xiaoying Pang, Shih-Yun Tang, Yuqian Li, Zeqiu Yu, Long Wang, et al.",
+    "title": "3D Morphology of Open Clusters in the Solar Neighborhood with Gaia EDR3 II: Hierarchical Star Formation Revealed by Spatial and Kinematic Substructures",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.06000",
+    "img": "pang22a.png"
+  },
+  "Boodram22a": {
+    "author": "Oliver Boodram & Craig O. Heinke",
+    "title": "Millisecond pulsar kicks cause difficulties in explaining the Galactic Centre gamma-ray excess",
+    "year": "Mon. Not. Roy. Astron. Soc.",
+    "journal": "2022",
+    "volume": "512",
+    "pages": "4239",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4239B/abstract",
+    "img": "boodram22a.png"
+  },
+  "Capistrano22a": {
+    "author": "Abraão J. S. Capistrano, Mônica C. Kalb, & Carlos H. Coimbra-Araújo",
+    "title": "Effective potentials and orbits in Weyl slender disk",
+    "year": "2022",
+    "journal": "The European Physical Journal C",
+    "volume": "82",
+    "pages": "256",
+    "url": "https://link.springer.com/article/10.1140/epjc/s10052-022-10175-6",
+    "img": "capistrano22a.png"
+  },
   "_template": {
     "author": "",
     "title": "",
