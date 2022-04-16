@@ -20,7 +20,9 @@ jobs:
       - name: verify papers JSON
         working-directory: py
         shell: bash -l {0}
-        run: python verify_papers_json.py
+        run: |
+          pip install tqdm
+          python verify_papers_json.py
       # Push to Amazon S3
       - name: Upload website
         uses: jakejarvis/s3-sync-action@v0.5.1

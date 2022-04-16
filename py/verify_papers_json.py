@@ -4,6 +4,7 @@ import os, os.path
 import json
 import urllib.request
 import warnings
+import tqdm
 
 def verify_one_entry(entry,name):
     """Verify a single entry
@@ -47,6 +48,6 @@ if __name__ == '__main__':
         data= json.load(jsonfile,object_pairs_hook=dupe_checking_hook)
     print("Papers file contains {} publications"\
               .format(len(data)-1))
-    for key in data:
+    for key in tqdm.tqdm(data):
         verify_one_entry(data[key],key)
     
