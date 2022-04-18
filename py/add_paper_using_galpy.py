@@ -15,16 +15,34 @@ import ads
 
 _PAPERS_FILE_DIR= os.path.join('..','src','data')
 _ALPHABET= 'abcdefghijklmnopqrstuvwxyz'
-_JOURNAL_ABBREV= {'Monthly Notices of the Royal Astronomical Society': 'Mon. Not. Roy.Astron. Soc.',
+_JOURNAL_ABBREV= {'Monthly Notices of the Royal Astronomical Society': 'Mon. Not. Roy. Astron. Soc.',
                   'The Astrophysical Journal': 'Astrophys. J.',
                   'The Astrophysical Journal Supplement Series': 'Astrophys. J. Supp.',
                   'The Astronomical Journal': 'Astron. J.',
                   'Astronomy and Astrophysics': 'Astron. & Astrophys.',
+                  'Research in Astronomy and Astrophysics': 'Res. Astron. Astrophys.',
+                  'Physical Review D': 'Phys. Rev. D',
+                  'Journal of Astrophysics and Astronomy': 'J. Astrophys. Astron.',
                   "arXiv e-prints": ""}
 
+def build_internal_id(ads_paper,papers_data):
+    # Build identifier
+    internal_id= ads_paper.author[0].split(',')[0]+ads_paper.year[-2:]
+    internal_id= re.sub('[^A-Za-z0-9]+', '',internal_id) # remove special char
+    for letter in _ALPHABET:
+        if not internal_id+letter in papers_data.keys():
+            internal_id+= letter
+            break
+    return internal_id
+
 def parse_author(author):
-    last, first= author.split(',')
-    return '{} {}'.format(first.strip(),last.strip())
+    try:
+        last, first= author.split(',')
+    except ValueError:
+        # Probably no first name
+        return author
+    else:
+        return '{} {}'.format(first.strip(),last.strip())
 
 def parse_authors(authors):
     if len(authors) == 1:
@@ -48,6 +66,34 @@ def parse_authors(authors):
 
 def parse_journal(pub):
     return _JOURNAL_ABBREV.get(pub,pub)
+
+def build_and_edit_new_entry(ads_paper,internal_id,arxiv_id):
+    new_entry= {'author': parse_authors(ads_paper.author),
+                'title': ads_paper.title[0],
+                'year': ads_paper.year,
+                'journal': parse_journal(ads_paper.pub),
+                'volume': ads_paper.volume if not ads_paper.volume is None else "",
+                'pages': ads_paper.page[0] if not ads_paper.page[0].startswith('arXiv') else ""}
+    pretty_print_new_entry(arxiv_id,internal_id,new_entry)
+    write_output= input('Looks good? [Y/n] ')
+    write_output= write_output == '' or write_output.lower() == 'y'
+    if not write_output:
+        edit= input('Do you want to edit the new entry? [y/N] ')
+        edit= edit.lower() == 'y'
+        if edit:
+            while True:
+                entry_to_edit= input('Which field do you want to edit? ')
+                entry_edit= input('What do you want to field to say? ')
+                new_entry[entry_to_edit]= entry_edit
+                print('Okay, new entry is ')
+                pretty_print_new_entry(arxiv_id,internal_id,new_entry)
+                looks_good= input('Looks good? [Y/n] ')
+                looks_good= looks_good == '' or looks_good.lower() == 'y'
+                if looks_good: break
+        else:
+            print("Okay, aborting then...")
+            sys.exit(-1)
+    return new_entry
 
 def pretty_print_new_entry(arxiv_id,internal_id,entry,
                            print_func=print):
@@ -79,7 +125,7 @@ def add_paper_using_galpy(arxiv_id):
         cont= cont.lower() == 'y'
         if not cont: 
             print("Okay, aborting then...")
-            return None
+            sys.exit(-1)
     # Find paper on ADS
     if True:
         ads_paper= list(ads.SearchQuery(arxiv=arxiv_id,
@@ -96,38 +142,8 @@ def add_paper_using_galpy(arxiv_id):
                 self.volume= '511'
                 self.page= ['2339']
         ads_paper= ads_paper_example()
-    # Build identifier
-    internal_id= ads_paper.author[0].split(',')[0]+ads_paper.year[-2:]
-    internal_id= re.sub('[^A-Za-z0-9]+', '',internal_id) # remove special char
-    for letter in _ALPHABET:
-        if not internal_id+letter in papers_data.keys():
-            internal_id+= letter
-            break
-    new_entry= {'author': parse_authors(ads_paper.author),
-                'title': ads_paper.title[0],
-                'year': ads_paper.year,
-                'journal': parse_journal(ads_paper.pub),
-                'volume': ads_paper.volume if not ads_paper.volume is None else "",
-                'pages': ads_paper.page[0] if not ads_paper.page[0].startswith('arXiv') else ""}
-    pretty_print_new_entry(arxiv_id,internal_id,new_entry)
-    write_output= input('Looks good? [Y/n] ')
-    write_output= write_output == '' or write_output.lower() == 'y'
-    if not write_output:
-        edit= input('Do you want to edit the new entry? [y/N] ')
-        edit= edit.lower() == 'y'
-        if edit:
-            while True:
-                entry_to_edit= input('Which field do you want to edit? ')
-                entry_edit= input('What do you want to field to say? ')
-                new_entry[entry_to_edit]= entry_edit
-                print('Okay, new entry is ')
-                pretty_print_new_entry(arxiv_id,internal_id,new_entry)
-                looks_good= input('Looks good? [Y/n] ')
-                looks_good= looks_good == '' or looks_good.lower() == 'y'
-                if looks_good: break
-        else:
-            print("Okay, aborting then...")
-            return None
+    internal_id= build_internal_id(ads_paper,papers_data)
+    new_entry= build_and_edit_new_entry(ads_paper,internal_id,arxiv_id)
     print("Adding entry {}".format(arxiv_id))
     # Move the screenshot in the right place
     done= input("""Now please take a screen shot of an example figure 
@@ -138,12 +154,12 @@ def add_paper_using_galpy(arxiv_id):
   lead me to abort the operation! """)
     if not done == '':
         print("Okay, aborting then...")
-        return None
+        sys.exit(-1)
     # Find the Screenshot file and move it
     possible_screenshots= glob.glob(os.path.join(_PAPERS_FILE_DIR,'paper-figs','Screen Shot*'))
     if len(possible_screenshots) > 1:
         print("Found multiple possible screen shots... aborting ...")
-        return None
+        sys.exit(-1)
     shutil.move(possible_screenshots[0],
                 os.path.join(_PAPERS_FILE_DIR,'paper-figs','{}.png'.format(internal_id.lower())))
     print("Moved file to {}".format(os.path.join('paper-figs','{}.png'.format(internal_id.lower()))))
