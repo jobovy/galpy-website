@@ -6,7 +6,7 @@ import urllib.request
 import warnings
 import tqdm
 
-def verify_one_entry(entry,name):
+def verify_one_entry(entry,name,export_arxiv=False):
     """Verify a single entry
     entry: full entry dictionary
     name: name of the entry"""
@@ -23,7 +23,8 @@ def verify_one_entry(entry,name):
     if name == '_template': return None
     # Test whether the URL exists
     try:
-        urllib.request.urlopen(entry['url'])
+        urllib.request.urlopen(entry['url'].replace('arxiv','export.arxiv') if export_arxiv
+                               else entry['url'])
     except:
         raise AssertionError("URL {} does not seem to exist ...".format(entry['url']))
     # Test whether the image is present if the img attribute is given
