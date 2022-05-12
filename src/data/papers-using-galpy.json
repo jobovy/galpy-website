@@ -4301,11 +4301,11 @@
   },
   "ViscasillasVzquez22a": {
     "author": "C. Viscasillas Vázquez, L. Magrini, G. Casali, G. Tautvaišienė, L. Spina, et al.",
-    "title": "The Gaia-ESO Survey: Age-chemical-clock relations spatially resolved in the Galactic disc",
+    "title": "The Gaia-ESO survey: Age-chemical-clock relations spatially resolved in the Galactic disc",
     "year": "2022",
-    "journal": "",
-    "volume": "",
-    "pages": "",
+    "journal": "Astron. & Astrophys.",
+    "volume": "660",
+    "pages": "A135",
     "url": "https://arxiv.org/abs/2202.04863",
     "img": "viscasillasvzquez22a.png"
   },
@@ -4506,7 +4506,7 @@
     "journal": "2022",
     "volume": "512",
     "pages": "4239",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4239B/abstract",
+    "url": "https://arxiv.org/abs/2205.03479",
     "img": "boodram22a.png"
   },
   "Capistrano22a": {
@@ -4528,6 +4528,156 @@
     "pages": "",
     "url": "https://arxiv.org/abs/2204.06628",
     "img": "olivarescarvajal22a.png"
+  },
+  "Brandner22a": {
+    "author": "Wolfgang Brandner, Per Calissendorff, Neige Frankel, & Faustine Cantalloube",
+    "title": "High-contrast, high-angular resolution view of the GJ 367 exoplanet system",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "513",
+    "pages": "661",
+    "url": "https://arxiv.org/abs/2204.02998",
+    "img": "brandner22a.png"
+  },
+  "akmak22a": {
+    "author": "Hikmet Çakmak & Yüksel Karataş",
+    "title": "A dynamical evolution study of the open clusters: Berkeley 10, Berkeley 81, Berkeley 89 and Ruprecht 135",
+    "year": "2022",
+    "journal": "New Astronomy",
+    "volume": "96",
+    "pages": "101833",
+    "url": "https://arxiv.org/abs/2204.07745",
+    "img": "akmak22a.png"
+  },
+  "Spitoni22a": {
+    "author": "E. Spitoni, V. Aguirre Børsen-Koch, K. Verma, & A. Stokholm",
+    "title": "Disc dichotomy signature in the vertical distribution of [Mg/Fe] and the delayed gas infall scenario",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.07597",
+    "img": "spitoni22a.png"
+  },
+  "Malhan22b": {
+    "author": "Khyati Malhan",
+    "title": "A new member of the Milky Way's family tree: Characterizing the Pontus merger of our Galaxy",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.09058",
+    "img": "malhan22b.png"
+  },
+  "Magrini22a": {
+    "author": "L. Magrini, C. Danielski, D. Bossini, M. Rainer, D. Turrini, et al.",
+    "title": "Ariel stellar characterisation: I -- homogeneous stellar parameters of 187 FGK planet host stars Description and validation of the method",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.08825",
+    "img": "magrini22a.png"
+  },
+  "Nie22a": {
+    "author": "Jundan Nie, Hao Tian, Jing Li, Chao Liu, Martin C. Smith, et al.",
+    "title": "Searching Extra-tidal Features around the Globular Cluster Whiting 1",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "930",
+    "pages": "23",
+    "url": "https://arxiv.org/abs/2204.11064",
+    "img": "nie22a.png"
+  },
+  "Chen22a": {
+    "author": "Boquan Chen, Michael R. Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Chiaki Kobayashi, et al.",
+    "title": "Chemical Evolution with Radial Mixing Redux: Extending beyond the Solar Neighborhood",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.11413",
+    "img": "chen22a.png"
+  },
+  "Khanna22a": {
+    "author": "Shourya Khanna, Sanjib Sharma, Joss Bland-Hawthorn, & Michael Hayden",
+    "title": "Measuring the Streaming motion in the Milky Way disc with Gaia EDR3 +",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2204.13672",
+    "img": "khanna22a.png"
+  },
+  "Medina22a": {
+    "author": "Amber A. Medina, Jennifer G. Winters, Jonathan M. Irwin, & David Charbonneau",
+    "title": "Galactic Kinematics and Observed Flare Rates of a Volume-Complete Sample of Mid-to-Late M-dwarfs: Constraints on the History of the Stellar Radiation Environment of Planets Orbiting Low-mass Stars",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2205.02331",
+    "img": "medina22a.png"
+  },
+  "Green22a": {
+    "author": "Gregory M. Green, Yuan-Sen Ting, & Harshil Kamdar",
+    "title": "Deep Potential: Recovering the gravitational potential from a snapshot of phase space",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2205.02244",
+    "img": "green22a.png"
+  },
+  "Karam22a": {
+    "author": "Jeremy Karam & Alison Sills",
+    "title": "Modelling Star Cluster Formation: Mergers",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2205.03265",
+    "img": "karam22a.png"
+  },
+  "Sawala22a": {
+    "author": "Till Sawala, Marius Cautun, Carlos S. Frenk, John Helly, Jens Jasche, et al.",
+    "title": "The Milky Way's plane of satellites: consistent with LCDM",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2205.02860",
+    "img": "sawala22a.png"
+  },
+  "Li22a": {
+    "author": "Guang-Xing Li & Bing-Qiu Chen",
+    "title": "Discovery of a coherent, wave-like velocity pattern for the Radcliffe Wave",
+    "year": "2022",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2205.03218",
+    "img": "li22a.png"
+  },
+  "MatasPinto22a": {
+    "author": "Aroa del Mar Matas Pinto, Elisabetta Caffau, Patrick François, et al.",
+    "title": "Detailed investigation of two high-speed evolved Galactic stars",
+    "year": "2022",
+    "journal": "Astron. Nach.",
+    "volume": "343",
+    "pages": "e10032",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AN....34310032M/abstract",
+    "img": "mataspinto22a.png"
+  },
+  "Burdge22a": {
+    "author": "Kevin B. Burdge, Thomas R. Marsh, Jim Fuller, et al.",
+    "title": "A 62-minute orbital period black widow binary in a wide hierarchical triple",
+    "year": "2022",
+    "journal": "Nature",
+    "volume": "605",
+    "pages": "41",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022Natur.605...41B/abstract",
+    "img": "burdge22a.png"
   },
   "_template": {
     "author": "",
