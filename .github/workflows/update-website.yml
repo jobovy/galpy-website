@@ -1,7 +1,7 @@
 name: Update website
 
 # Update on every push
-on: [push]
+on: [push,pull_request]
 
 jobs:
   build:
@@ -25,6 +25,7 @@ jobs:
           python verify_papers_json.py
       # Push to Amazon S3
       - name: Upload website
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         uses: jakejarvis/s3-sync-action@v0.5.1
         with:
           args: --acl public-read --follow-symlinks --delete --exclude "wheelhouse/*" --exclude "repl*"
