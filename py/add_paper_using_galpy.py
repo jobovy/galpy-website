@@ -156,7 +156,7 @@ def add_paper_using_galpy(arxiv_id):
         print("Okay, aborting then...")
         sys.exit(-1)
     # Find the Screenshot file and move it
-    possible_screenshots= glob.glob(os.path.join(_PAPERS_FILE_DIR,'paper-figs','Screen Shot*'))
+    possible_screenshots= glob.glob(os.path.join(_PAPERS_FILE_DIR,'paper-figs','Screenshot*'))
     if len(possible_screenshots) > 1:
         print("Found multiple possible screen shots... aborting ...")
         sys.exit(-1)
