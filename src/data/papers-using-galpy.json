@@ -5129,6 +5129,336 @@
     "url": "https://arxiv.org/abs/2209.06833",
     "img": "elbadry22b.png"
   },
+  "Hunt22a": {
+    "author": "Jason A. S. Hunt, Adrian M. Price-Whelan, Kathryn V. Johnston, & Elise Darragh-Ford",
+    "title": "Multiple phase spirals suggest multiple origins in Gaia DR3",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "516",
+    "pages": "L7",
+    "url": "https://arxiv.org/abs/2206.06125",
+    "img": "hunt22a.png"
+  },
+  "Bhattacharya22a": {
+    "author": "Souradeep Bhattacharya, Khushboo K. Rao, Manan Agarwal, Shanmugha Balan, & Kaushar Vaidya",
+    "title": "A Gaia EDR3 search for tidal tails in disintegrating open clusters",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "517",
+    "pages": "3525",
+    "url": "https://arxiv.org/abs/2209.08259",
+    "img": "bhattacharya22a.png"
+  },
+  "Borisov22a": {
+    "author": "S. Borisov, N. Prantzos, & C. Charbonnel",
+    "title": "Lithium, masses, and kinematics of young Galactic dwarf and giant stars with extreme [α/Fe] ratios",
+    "year": "2022",
+    "journal": "Astron. & Astrophys.",
+    "volume": "668",
+    "pages": "A181",
+    "url": "https://arxiv.org/abs/2209.11915",
+    "img": "borisov22a.png"
+  },
+  "Kanodia23a": {
+    "author": "Shubham Kanodia, Suvrath Mahadevan, Jessica Libby-Roberts, Gudmundur Stefansson, Caleb I. Cañas, et al.",
+    "title": "TOI-5205b: A Short-period Jovian Planet Transiting a Mid-M Dwarf",
+    "year": "2023",
+    "journal": "Astron. J.",
+    "volume": "165",
+    "pages": "120",
+    "url": "https://arxiv.org/abs/2209.11160",
+    "img": "kanodia23a.png"
+  },
+  "MiretRoig22a": {
+    "author": "N. Miret-Roig, P. A. B. Galli, J. Olivares, H. Bouy, J. Alves, et al.",
+    "title": "The star formation history of Upper Scorpius and Ophiuchus. A 7D picture: positions, kinematics, and dynamical traceback ages",
+    "year": "2022",
+    "journal": "Astron. & Astrophys.",
+    "volume": "667",
+    "pages": "A163",
+    "url": "https://arxiv.org/abs/2209.12938",
+    "img": "miretroig22a.png"
+  },
+  "Kerr22a": {
+    "author": "Ronan Kerr, Adam L. Kraus, Simon J. Murphy, Daniel M. Krolikowski, Stella S. R. Offner, et al.",
+    "title": "SPYGLASS. II. The Multigenerational and Multiorigin Star Formation History of Cepheus Far North",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "941",
+    "pages": "49",
+    "url": "https://arxiv.org/abs/2209.12959",
+    "img": "kerr22a.png"
+  },
+  "Burdge22b": {
+    "author": "Kevin B. Burdge, Kareem El-Badry, Thomas R. Marsh, Saul Rappaport, Warren R. Brown, et al.",
+    "title": "A dense 0.1-solar-mass star in a 51-minute-orbital-period eclipsing binary",
+    "year": "2022",
+    "journal": "Nature",
+    "volume": "610",
+    "pages": "467",
+    "url": "https://arxiv.org/abs/2210.01809",
+    "img": "burdge22b.png"
+  },
+  "Griffith23a": {
+    "author": "Emily J. Griffith, Jennifer A. Johnson, David H. Weinberg, Ilya Ilyin, James W. Johnson, et al.",
+    "title": "Untangling the Sources of Abundance Dispersion in Low-metallicity Stars",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "944",
+    "pages": "47",
+    "url": "https://arxiv.org/abs/2210.01821",
+    "img": "griffith23a.png"
+  },
+  "Kounkel22b": {
+    "author": "Marina Kounkel, Keivan G. Stassun, Kevin Covey, & Lee Hartmann",
+    "title": "A gravitational and dynamical framework of star formation: the Orion nebula",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "517",
+    "pages": "161",
+    "url": "https://arxiv.org/abs/2111.01159",
+    "img": "kounkel22b.png"
+  },
+  "Sweeney22a": {
+    "author": "David Sweeney, Peter Tuthill, Sanjib Sharma, & Ryosuke Hirai",
+    "title": "The Galactic underworld: the spatial distribution of compact remnants",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "516",
+    "pages": "4971",
+    "url": "https://arxiv.org/abs/2210.04241",
+    "img": "sweeney22a.png"
+  },
+  "Chakrabarti23a": {
+    "author": "Sukanya Chakrabarti, Joshua D. Simon, Peter A. Craig, Henrique Reggiani, Timothy D. Brandt, et al.",
+    "title": "A Noninteracting Galactic Black Hole Candidate in a Binary System with a Main-sequence Star",
+    "year": "2023",
+    "journal": "Astron. J.",
+    "volume": "166",
+    "pages": "6",
+    "url": "https://arxiv.org/abs/2210.05003",
+    "img": "chakrabarti23a.png"
+  },
+  "Kremer23a": {
+    "author": "Kyle Kremer, Dongzi Li, Wenbin Lu, Anthony L. Piro, & Bing Zhang",
+    "title": "Prospects for Detecting Fast Radio Bursts in the Globular Clusters of Nearby Galaxies",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "944",
+    "pages": "6",
+    "url": "https://arxiv.org/abs/2210.04907",
+    "img": "kremer23a.png"
+  },
+  "Forsberg23a": {
+    "author": "R. Forsberg, R. M. Rich, N. Nieuwmunster, H. Jönsson, M. Schultheis, et al.",
+    "title": "First r-process enhanced star confirmed as a member of the Galactic bulge",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "669",
+    "pages": "A17",
+    "url": "https://arxiv.org/abs/2210.05688",
+    "img": "forsberg23a.png"
+  },
+  "Dantas23a": {
+    "author": "M. L. L. Dantas, R. Smiljanic, R. Boesso, H. J. Rocha-Pinto, L. Magrini, et al.",
+    "title": "The Gaia-ESO Survey: Old super-metal-rich visitors from the inner Galaxy",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "669",
+    "pages": "A96",
+    "url": "https://arxiv.org/abs/2210.08510",
+    "img": "dantas23a.png"
+  },
+  "Beniamini23a": {
+    "author": "P. Beniamini, Z. Wadiasingh, J. Hare, K. M. Rajwade, G. Younes, et al.",
+    "title": "Evidence for an abundant old population of Galactic ultra-long period magnetars and implications for fast radio bursts",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "520",
+    "pages": "1872",
+    "url": "https://arxiv.org/abs/2210.09323",
+    "img": "beniamini23a.png"
+  },
+  "Pathak23a": {
+    "author": "D. Pathak & D. Chatterjee",
+    "title": "Improving the spin-down limits of the continuous gravitational waves emitted from rotating triaxial pulsars",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "679",
+    "pages": "A17",
+    "url": "https://arxiv.org/abs/2210.10355",
+    "img": "pathak23a.png"
+  },
+  "Craig23a": {
+    "author": "Peter Craig, Sukanya Chakrabarti, Robyn E. Sanderson, & Farnik Nikakhtar",
+    "title": "Building an Acceleration Ladder with Tidal Streams and Pulsar Timing",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "945",
+    "pages": "L32",
+    "url": "https://arxiv.org/abs/2211.00613",
+    "img": "craig23a.png"
+  },
+  "Kerr22b": {
+    "author": "Ronan Kerr, Adam L. Kraus, Simon J. Murphy, Daniel M. Krolikowski, Timothy R. Bedding, et al.",
+    "title": "SPYGLASS. III. The Fornax-Horologium Association and Its Traceback History within the Austral Complex",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "941",
+    "pages": "143",
+    "url": "https://arxiv.org/abs/2211.00123",
+    "img": "kerr22b.png"
+  },
+  "Cescutti22a": {
+    "author": "G. Cescutti, P. Bonifacio, E. Caffau, L. Monaco, M. Franchini, et al.",
+    "title": "MINCE. I. Presentation of the project and of the first year sample",
+    "year": "2022",
+    "journal": "Astron. & Astrophys.",
+    "volume": "668",
+    "pages": "A168",
+    "url": "https://arxiv.org/abs/2211.06086",
+    "img": "cescutti22a.png"
+  },
+  "Yontan23a": {
+    "author": "Talar Yontan",
+    "title": "An Investigation of Open Clusters Berkeley 68 and Stock 20 Using CCD UBV and Gaia DR3 Data",
+    "year": "2023",
+    "journal": "Astron. J.",
+    "volume": "165",
+    "pages": "79",
+    "url": "https://arxiv.org/abs/2211.09825",
+    "img": "yontan23a.png"
+  },
+  "Boyle23a": {
+    "author": "Andrew W. Boyle & Luke G. Bouma",
+    "title": "Stellar Rotation and Structure of the α Persei Complex: When Does Gyrochronology Start to Work?",
+    "year": "2023",
+    "journal": "Astron. J.",
+    "volume": "166",
+    "pages": "14",
+    "url": "https://arxiv.org/abs/2211.09822",
+    "img": "boyle23a.png"
+  },
+  "Donlon23a": {
+    "author": "Thomas Donlon & Heidi Jo Newberg",
+    "title": "A Swing of the Pendulum: The Chemodynamics of the Local Stellar Halo Indicate Contributions from Several Radial Merger Events",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "944",
+    "pages": "169",
+    "url": "https://arxiv.org/abs/2211.12576",
+    "img": "donlon23a.png"
+  },
+  "Starkman23a": {
+    "author": "Nathaniel Starkman, Jo Bovy, Jeremy J. Webb, Daniela Calvetti, & Erkki Somersalo",
+    "title": "On the fast track: Rapid construction of stellar stream paths",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "522",
+    "pages": "5022",
+    "url": "https://arxiv.org/abs/2212.00949",
+    "img": "starkman23a.png"
+  },
+  "Zaritsky23a": {
+    "author": "Dennis Zaritsky & Peter Behroozi",
+    "title": "Photometric mass estimation and the stellar mass-halo mass relation for low mass galaxies",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "519",
+    "pages": "871",
+    "url": "https://arxiv.org/abs/2212.02948",
+    "img": "zaritsky23a.png"
+  },
+  "Ghosh23a": {
+    "author": "Soumavo Ghosh, Wilma H. Trick, & Gregory M. Green",
+    "title": "Quantifying the influence of bars on action-based dynamical modelling of disc galaxies",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "523",
+    "pages": "991",
+    "url": "https://arxiv.org/abs/2212.06184",
+    "img": "ghosh23a.png"
+  },
+  "Li23a": {
+    "author": "Xiang Li, Hai-Feng Wang, Yang-Ping Luo, Martín López-Corredoira, Yuan-Sen Ting, et al.",
+    "title": "Evidence for Population-dependent Vertical Motions and the Long-lived Nonsteady Lopsided Milky Way Warp",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "943",
+    "pages": "88",
+    "url": "https://arxiv.org/abs/2212.06051",
+    "img": "li23a.png"
+  },
+  "Samuel23a": {
+    "author": "Jenna Samuel, Bhavya Pardasani, Andrew Wetzel, Isaiah Santistevan, Michael Boylan-Kolchin, et al.",
+    "title": "A jolt to the system: ram pressure on low-mass galaxies in simulations of the Local Group",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "525",
+    "pages": "3849",
+    "url": "https://arxiv.org/abs/2212.07518",
+    "img": "samuel23a.png"
+  },
+  "Jia23a": {
+    "author": "Yunpeng Jia, Yuqin Chen, Cuihua Du, & Gang Zhao",
+    "title": "Investigating the vertical distribution of the disk as a function of radial action",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "669",
+    "pages": "A107",
+    "url": "https://arxiv.org/abs/2212.08519",
+    "img": "jia23a.png"
+  },
+  "Joshi23a": {
+    "author": "Yogesh C. Joshi & Sagar Malhotra",
+    "title": "Revisiting Galactic Disk and Spiral Arms Using Open Clusters",
+    "year": "2023",
+    "journal": "Astron. J.",
+    "volume": "166",
+    "pages": "170",
+    "url": "https://arxiv.org/abs/2212.09384",
+    "img": "joshi23a.png"
+  },
+  "Wang23a": {
+    "author": "Long Wang & D. N. C. Lin",
+    "title": "Tidal Disruption of Stellar Clusters and the Spatial Distribution of Their Remnants Near the Galactic Center",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "944",
+    "pages": "140",
+    "url": "https://arxiv.org/abs/2212.09215",
+    "img": "wang23a.png"
+  },
+  "Frankel23a": {
+    "author": "Neige Frankel, Jo Bovy, Scott Tremaine, & David W. Hogg",
+    "title": "Vertical motion in the Galactic disc: unwinding the snail",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "521",
+    "pages": "5917",
+    "url": "https://arxiv.org/abs/2212.11991",
+    "img": "frankel23a.png"
+  },
+  "Tremaine23a": {
+    "author": "Scott Tremaine, Neige Frankel, & Jo Bovy",
+    "title": "The origin and fate of the Gaia phase-space snail",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "521",
+    "pages": "114",
+    "url": "https://arxiv.org/abs/2212.11990",
+    "img": "tremaine23a.png"
+  },
+  "Chu23a": {
+    "author": "Aline Chu, Pierre Boldrini, & Joe Silk",
+    "title": "Off-centre supermassive black holes in bright central galaxies",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "522",
+    "pages": "948",
+    "url": "https://arxiv.org/abs/2212.13277",
+    "img": "chu23a.png"
+  },
   "_template": {
     "author": "",
     "title": "",
