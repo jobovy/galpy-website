@@ -876,7 +876,7 @@
         "journal": "Mon. Not. Roy. Astron. Soc.",
         "volume": "476",
         "pages": "5388",
-        "url": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.5388X",
+        "url": "http://ui.adsabs.harvard.edu/abs/2018MNRAS.476.5388X",
         "img": "xing18a.png"
     },
     "Buder18a": {
@@ -1106,7 +1106,7 @@
         "journal": "Publ. Astron. Soc. Pacific",
         "volume": "130",
         "pages": "074102",
-        "url": "https://ui.adsabs.harvard.edu/abs/2018PASP..130g4102P",
+        "url": "http://ui.adsabs.harvard.edu/abs/2018PASP..130g4102P",
         "img": "peng18a.png"
     },
     "Simion18a": {
@@ -1286,7 +1286,7 @@
         "journal": "Astrophys. J. Supp.",
         "volume": "238",
         "pages": "16",
-        "url": "https://ui.adsabs.harvard.edu/abs/2018ApJS..238...16L",
+        "url": "http://ui.adsabs.harvard.edu/abs/2018ApJS..238...16L",
         "img": "li18b.png"
     },
     "Adibekyan18a": {
@@ -1726,7 +1726,7 @@
         "journal": "Mon. Not. Roy. Astron. Soc.",
         "volume": "487",
         "pages": "3797",
-        "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B",
+        "url": "http://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B",
         "img": "bonifacio19a.png"
     },
     "Mardini19a": {
@@ -2056,7 +2056,7 @@
         "journal": "Pub. Astron.Soc. Jap.",
         "volume": "71",
         "pages": "92",
-        "url": "https://ui.adsabs.harvard.edu/abs/2019PASJ...71...92C",
+        "url": "http://ui.adsabs.harvard.edu/abs/2019PASJ...71...92C",
         "img": "chibueze19a.png"
     },
     "Venn19a": {
@@ -2146,7 +2146,7 @@
         "journal": "Astron. J.",
         "volume": "158",
         "pages": "249",
-        "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..249C",
+        "url": "http://ui.adsabs.harvard.edu/abs/2019AJ....158..249C",
         "img": "chen19a.png"
     },
     "Wan19a": {
@@ -2386,7 +2386,7 @@
         "journal": "Mon. Not. Roy. Astron. Soc.",
         "volume": "493",
         "pages": "4677",
-        "url": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4677C",
+        "url": "http://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4677C",
         "img": "caffau20a.png"
     },
     "Hanke20a": {
@@ -2686,7 +2686,7 @@
         "journal": "Astron. & Astrophys.",
         "volume": "638",
         "pages": "A122",
-        "url": "https://ui.adsabs.harvard.edu/abs/2020A%26A...638A.122C/abstract",
+        "url": "http://ui.adsabs.harvard.edu/abs/2020A%26A...638A.122C/abstract",
         "img": "caffau20b.png"
     },
     "Boldrini20a": {
@@ -2846,7 +2846,7 @@
         "journal": "Astron. Rep.",
         "volume": "64",
         "pages": "711",
-        "url": "https://ui.adsabs.harvard.edu/abs/2020ARep...64..711S/abstract",
+        "url": "http://ui.adsabs.harvard.edu/abs/2020ARep...64..711S/abstract",
         "img": "sizova20a.png"
     },
     "Lucey20a": {
@@ -3116,7 +3116,7 @@
         "journal": "Astron. J.",
         "volume": "161",
         "pages": "8",
-        "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161....8Y/abstract",
+        "url": "http://ui.adsabs.harvard.edu/abs/2021AJ....161....8Y/abstract",
         "img": "ye20a.png"
     },
     "Kawata20a": {
@@ -4176,7 +4176,7 @@
         "journal": "Pub. Astron.Soc. Jap.",
         "volume": "73",
         "pages": "652",
-        "url": "https://ui.adsabs.harvard.edu/abs/2021PASJ...73..652G/abstract",
+        "url": "http://ui.adsabs.harvard.edu/abs/2021PASJ...73..652G/abstract",
         "img": "gao21a.png"
     },
     "Canas22a": {
@@ -4246,7 +4246,7 @@
         "journal": "Cont. Astron. Obs. Skalnaté Pleso",
         "volume": "51",
         "pages": "270",
-        "url": "https://ui.adsabs.harvard.edu/abs/2021CoSka..51..270S/abstract",
+        "url": "http://ui.adsabs.harvard.edu/abs/2021CoSka..51..270S/abstract",
         "img": "sizova21a.png"
     },
     "ElBadry22a": {
@@ -4666,7 +4666,7 @@
         "journal": "Astron. Nach.",
         "volume": "343",
         "pages": "e10032",
-        "url": "https://ui.adsabs.harvard.edu/abs/2022AN....34310032M/abstract",
+        "url": "http://ui.adsabs.harvard.edu/abs/2022AN....34310032M/abstract",
         "img": "mataspinto22a.png"
     },
     "Burdge22a": {
@@ -4676,7 +4676,7 @@
         "journal": "Nature",
         "volume": "605",
         "pages": "41",
-        "url": "https://ui.adsabs.harvard.edu/abs/2022Natur.605...41B/abstract",
+        "url": "http://ui.adsabs.harvard.edu/abs/2022Natur.605...41B/abstract",
         "img": "burdge22a.png"
     },
     "Pace22a": {
@@ -6429,6 +6429,146 @@
         "url": "https://arxiv.org/abs/2310.14773",
         "img": "gaspari23a.png"
     },
+  "DeRocco24a": {
+    "author": "William DeRocco & Jeff A. Dror",
+    "title": "Using Pulsar Parameter Drifts to Detect Subnanohertz Gravitational Waves",
+    "year": "2024",
+    "journal": "Physical Review Letters",
+    "volume": "132",
+    "pages": "101403",
+    "url": "https://arxiv.org/abs/2212.09751",
+    "img": "derocco24a.png"
+  },
+  "Jethwa16b": {
+    "author": "P. Jethwa, D. Erkal, & V. Belokurov",
+    "title": "A Magellanic origin of the DES dwarfs",
+    "year": "2016",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "461",
+    "pages": "2212",
+    "url": "https://arxiv.org/abs/1603.04420",
+    "img": "jethwa16b.png"
+  },
+  "Hosek15a": {
+    "author": "Hosek, Matthew W., Jr., Jessica R. Lu, Jay Anderson, Andrea M. Ghez, Mark R. Morris, et al.",
+    "title": "The Arches Cluster: Extended Structure and Tidal Radius",
+    "year": "2015",
+    "journal": "Astrophys. J.",
+    "volume": "813",
+    "pages": "27",
+    "url": "https://arxiv.org/abs/1509.04716",
+    "img": "hosek15a.png"
+  },
+  "Bovy17a": {
+    "author": "Jo Bovy",
+    "title": "Galactic rotation in Gaia DR1",
+    "year": "2017",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "468",
+    "pages": "L63",
+    "url": "https://arxiv.org/abs/1610.07610",
+    "img": "bovy17a.png"
+  },
+  "PrezVillegas17a": {
+    "author": "Angeles Pérez-Villegas, Matthieu Portail, Christopher Wegg, & Ortwin Gerhard",
+    "title": "Revisiting the Tale of Hercules: How Stars Orbiting the Lagrange Points Visit the Sun",
+    "year": "2017",
+    "journal": "Astrophys. J.",
+    "volume": "840",
+    "pages": "L2",
+    "url": "https://arxiv.org/abs/1702.06541",
+    "img": "prezvillegas17a.png"
+  },
+  "Skinner17a": {
+    "author": "Julie N. Skinner, Dylan P. Morgan, Andrew A. West, Sébastien Lépine, & John R. Thorstensen",
+    "title": "Activity and Kinematics of White Dwarf-M Dwarf Binaries from the SUPERBLINK Proper Motion Survey",
+    "year": "2017",
+    "journal": "Astron. J.",
+    "volume": "154",
+    "pages": "118",
+    "url": "https://arxiv.org/abs/1707.08576",
+    "img": "skinner17a.png"
+  },
+  "Kafle17a": {
+    "author": "P. R. Kafle, S. Sharma, A. S. G. Robotham, G. F. Lewis, & S. P. Driver",
+    "title": "Architecture of the Andromeda galaxy: a quantitative analysis of clustering in the inner stellar halo",
+    "year": "2017",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "464",
+    "pages": "4858",
+    "url": "https://arxiv.org/abs/1610.05920",
+    "img": "kafle17a.png"
+  },
+  "Buder18b": {
+    "author": "Sven Buder, Martin Asplund, Ly Duong, Janez Kos, Karin Lind, et al.",
+    "title": "The GALAH Survey: second data release",
+    "year": "2018",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "478",
+    "pages": "4513",
+    "url": "https://arxiv.org/abs/1804.06041",
+    "img": "buder18b.png"
+  },
+  "Kim18a": {
+    "author": "Chang-Goo Kim & Eve C. Ostriker",
+    "title": "Numerical Simulations of Multiphase Winds and Fountains from Star-forming Galactic Disks. I. Solar Neighborhood TIGRESS Model",
+    "year": "2018",
+    "journal": "Astrophys. J.",
+    "volume": "853",
+    "pages": "173",
+    "url": "https://arxiv.org/abs/1801.03952",
+    "img": "kim18a.png"
+  },
+  "Kawata18a": {
+    "author": "Daisuke Kawata, Junichi Baba, Ioana Ciucǎ, Mark Cropper, Robert J. J. Grand, et al.",
+    "title": "Radial distribution of stellar motions in Gaia DR2",
+    "year": "2018",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "479",
+    "pages": "L108",
+    "url": "https://arxiv.org/abs/1804.10175",
+    "img": "kawata18a.png"
+  },
+  "Michtchenko18a": {
+    "author": "Tatiana A. Michtchenko, Jacques R. D. Lépine, Angeles Pérez-Villegas, Ronaldo S. S. Vieira, & Douglas A. Barros",
+    "title": "On the Stellar Velocity Distribution in the Solar Neighborhood in Light of Gaia DR2",
+    "year": "2018",
+    "journal": "Astrophys. J.",
+    "volume": "863",
+    "pages": "L37",
+    "url": "https://arxiv.org/abs/1808.01501",
+    "img": "michtchenko18a.png"
+  },
+  "Baba18a": {
+    "author": "Junichi Baba, Daisuke Kawata, Noriyuki Matsunaga, Robert J. J. Grand, & Jason A. S. Hunt",
+    "title": "Gaia DR1 Evidence of Disrupting the Perseus Arm",
+    "year": "2018",
+    "journal": "Astrophys. J.",
+    "volume": "853",
+    "pages": "L23",
+    "url": "https://arxiv.org/abs/1712.04714",
+    "img": "baba18a.png"
+  },
+  "Ciuc18a": {
+    "author": "Ioana Ciucǎ, Daisuke Kawata, Jane Lin, Luca Casagrande, George Seabroke, et al.",
+    "title": "The vertical metallicity gradients of mono-age stellar populations in the Milky Way with the RAVE and Gaia data",
+    "year": "2018",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "475",
+    "pages": "1203",
+    "url": "https://arxiv.org/abs/1706.05005",
+    "img": "ciuc18a.png"
+  },
+  "Liu18b": {
+    "author": "Chao Liu, Yan Xu, Haifeng Wang, & Junchen Wan",
+    "title": "Rediscovering the Galactic outer disk with LAMOST data",
+    "year": "2018",
+    "journal": "Rediscovering Our Galaxy",
+    "volume": "334",
+    "pages": "109",
+    "url": "https://arxiv.org/abs/1712.03977",
+    "img": "liu18b.png"
+  },
     "_template": {
         "author": "",
         "title": "",
