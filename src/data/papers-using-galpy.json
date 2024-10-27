@@ -6569,6 +6569,126 @@
     "url": "https://arxiv.org/abs/1712.03977",
     "img": "liu18b.png"
   },
+  "Anders19a": {
+    "author": "F. Anders, A. Khalatyan, C. Chiappini, A. B. Queiroz, B. X. Santiago, et al.",
+    "title": "Photo-astrometric distances, extinctions, and astrophysical parameters for Gaia DR2 stars brighter than G = 18",
+    "year": "2019",
+    "journal": "Astron. & Astrophys.",
+    "volume": "628",
+    "pages": "A94",
+    "url": "https://arxiv.org/abs/1904.11302",
+    "img": "anders19a.png"
+  },
+  "Bennett19a": {
+    "author": "Morgan Bennett & Jo Bovy",
+    "title": "Vertical waves in the solar neighbourhood in Gaia DR2",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "482",
+    "pages": "1417",
+    "url": "https://arxiv.org/abs/1809.03507",
+    "img": "bennett19a.png"
+  },
+  "Torrealba19a": {
+    "author": "G. Torrealba, V. Belokurov, S. E. Koposov, T. S. Li, M. G. Walker, et al.",
+    "title": "The hidden giant: discovery of an enormous Galactic dwarf satellite in Gaia DR2",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "488",
+    "pages": "2743",
+    "url": "https://arxiv.org/abs/1811.04082",
+    "img": "torrealba19a.png"
+  },
+  "Clarke19a": {
+    "author": "Jonathan P. Clarke, Christopher Wegg, Ortwin Gerhard, Leigh C. Smith, Phil W. Lucas, et al.",
+    "title": "The Milky Way bar/bulge in proper motions: a 3D view from VIRAC and Gaia",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "489",
+    "pages": "3519",
+    "url": "https://arxiv.org/abs/1903.02003",
+    "img": "clarke19a.png"
+  },
+  "Bird19a": {
+    "author": "Sarah A. Bird, Xiang-Xiang Xue, Chao Liu, Juntai Shen, Chris Flynn, et al.",
+    "title": "Anisotropy of the Milky Way’s Stellar Halo Using K Giants from LAMOST and Gaia",
+    "year": "2019",
+    "journal": "Astron. J.",
+    "volume": "157",
+    "pages": "104",
+    "url": "https://arxiv.org/abs/1805.04503",
+    "img": "bird19a.png"
+  },
+  "Debattista19a": {
+    "author": "Victor P. Debattista, Oscar A. Gonzalez, Robyn E. Sanderson, Kareem El-Badry, Shea Garrison-Kimmel, et al.",
+    "title": "Formation, vertex deviation, and age of the Milky Way's bulge: input from a cosmological simulation with a late-forming bar",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "485",
+    "pages": "5073",
+    "url": "https://arxiv.org/abs/1805.12199",
+    "img": "debattista19a.png"
+  },
+  "Cunningham19a": {
+    "author": "Emily C. Cunningham, Alis J. Deason, Robyn E. Sanderson, Sangmo Tony Sohn, Jay Anderson, et al.",
+    "title": "HALO7D II: The Halo Velocity Ellipsoid and Velocity Anisotropy with Distant Main-sequence Stars",
+    "year": "2019",
+    "journal": "Astrophys. J.",
+    "volume": "879",
+    "pages": "120",
+    "url": "https://arxiv.org/abs/1810.12201",
+    "img": "cunningham19a.png"
+  },
+  "Kawata19a": {
+    "author": "Daisuke Kawata, Jo Bovy, Noriyuki Matsunaga, & Junichi Baba",
+    "title": "Galactic rotation from Cepheids with Gaia DR2 and effects of non-axisymmetry",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "482",
+    "pages": "40",
+    "url": "https://arxiv.org/abs/1803.05927",
+    "img": "kawata19a.png"
+  },
+  "Tian19a": {
+    "author": "Hao Tian, Chao Liu, Yan Xu, & Xiangxiang Xue",
+    "title": "Rotating Halo Traced by the K-giant Stars from LAMOST and Gaia",
+    "year": "2019",
+    "journal": "Astrophys. J.",
+    "volume": "871",
+    "pages": "184",
+    "url": "https://arxiv.org/abs/1805.08326",
+    "img": "tian19a.png"
+  },
+  "Jindal19a": {
+    "author": "Abhinav Jindal, Jeremy J. Webb, & Jo Bovy",
+    "title": "The orbital anisotropy profiles of nearby globular clusters from Gaia Data Release 2",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "487",
+    "pages": "3693",
+    "url": "https://arxiv.org/abs/1903.11070",
+    "img": "jindal19a.png"
+  },
+  "Lisanti19b": {
+    "author": "Mariangela Lisanti, Matthew Moschella, Nadav Joseph Outmezguine, & Oren Slone",
+    "title": "Testing dark matter and modifications to gravity using local Milky Way observables",
+    "year": "2019",
+    "journal": "Phys. Rev. D",
+    "volume": "100",
+    "pages": "083009",
+    "url": "https://arxiv.org/abs/1812.08169",
+    "img": "lisanti19b.png"
+  },
+  "Piatti19a": {
+    "author": "Andrés E. Piatti, Jeremy J. Webb, & Raymond G. Carlberg",
+    "title": "Characteristic radii of the Milky Way globular clusters",
+    "year": "2019",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "489",
+    "pages": "4367",
+    "url": "https://arxiv.org/abs/1909.01718",
+    "img": "piatti19a.png"
+  },
     "_template": {
         "author": "",
         "title": "",
