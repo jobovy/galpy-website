@@ -4,11 +4,16 @@
 #
 #                                       Run as python add_papers_using_galpy_from_cites.py [min_year] [max_year]
 #
+#                                       When min_year is set, but max_year is not, max_year is set to min_year.
+#                                       When neither min_year nor max_year are set, min_year is set to 2010 and max_year to 2100.
+#
 import sys
-import os, os.path
+import os
+import os.path
 import urllib.parse
 import re
 import json
+import subprocess
 import numpy
 import ads
 
@@ -100,7 +105,10 @@ def check_and_add_potential_paper(paper):
     add_paper= add_paper.lower() == 'y'
     # If we want to add the paper, call add_paper_using_galpy.py with the arxiv ID
     if add_paper:
-        os.system(f"python add_paper_using_galpy.py {paper.arxiv_id}")
+        try:
+            subprocess.check_call(['python', 'add_paper_using_galpy.py', paper.arxiv_id])
+        except subprocess.CalledProcessError:
+            raise RuntimeError(f"Adding paper {paper.bibcode} with arxiv id {paper.arxiv_id} failed")
     else:
         add_paper_to_papers_citing_but_not_using_galpy = input("Add paper to papers-citing-but-not-using-galpy.json? [Y/n] ")
         add_paper_to_papers_citing_but_not_using_galpy= add_paper_to_papers_citing_but_not_using_galpy.lower() != 'n'
@@ -134,7 +142,7 @@ def check_paper_no_arxivid(paper):
 
 if __name__ == '__main__':
     min_year= int(sys.argv[1] if len(sys.argv) > 1 else 2010)
-    max_year= int(sys.argv[2] if len(sys.argv) > 2 else 2100)
+    max_year= int(sys.argv[2] if len(sys.argv) > 2 else (min_year if len(sys.argv) > 1 else 2100))
     potential_papers = find_potential_papers(min_year,max_year)
     print(f"\033[1mFound {len(potential_papers)} potential papers\033[0m")
     # Keep a list of papers with no arxiv ID so we can mention them for manual processing
