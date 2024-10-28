@@ -4179,6 +4179,16 @@
         "url": "http://ui.adsabs.harvard.edu/abs/2021PASJ...73..652G/abstract",
         "img": "gao21a.png"
     },
+    "Gao22a": {
+        "author": "Xinhua Gao & Dan Fang",
+        "title": "Updated fundamental parameters of the old open cluster NGC 188 based on Gaia-EDR3",
+        "year": "2022",
+        "journal": "Astrophysics and Space Science",
+        "volume": "367",
+        "pages": "87",
+        "url": "http://ui.adsabs.harvard.edu/abs/2022Ap%26SS.367...87G",
+        "img": "gao22a.png"
+    },
     "Canas22a": {
         "author": "Caleb I. Cañas, Suvrath Mahadevan, William D. Cochran, et al.",
         "title": "A hot Mars-sized exoplanet transiting an M dwarf",
@@ -4516,7 +4526,7 @@
         "journal": "The European Physical Journal C",
         "volume": "82",
         "pages": "256",
-        "url": "https://link.springer.com/article/10.1140/epjc/s10052-022-10175-6",
+        "url": "http://ui.adsabs.harvard.edu/abs/2022EPJC...82..256C",
         "img": "capistrano22a.png"
     },
     "OlivaresCarvajal22a": {
@@ -6890,7 +6900,7 @@
     "img": "tutukov21b.png"
   },
   "zhang21e": {
-    "author": "Xu Zhang, Sven Buder, Ya-Qian Wu, &Gang Zhao",
+    "author": "Xu Zhang, Sven Buder, Ya-Qian Wu, & Gang Zhao",
     "title": "Estimation of ages and masses via carbon and nitrogen abundances for 556 007 giants from LAMOST",
     "year": "2021",
     "journal": "Research in Astronomy and Astrophysics",
@@ -6898,6 +6908,216 @@
     "pages": "216",
     "url": "http://ui.adsabs.harvard.edu/abs/2021RAA....21..216Z",
     "img": "zhang21e.png"
+  },
+  "Xiang22a": {
+    "author": "Maosheng Xiang & Hans-Walter Rix",
+    "title": "A time-resolved picture of our Milky Way's early formation history",
+    "year": "2022",
+    "journal": "Nature",
+    "volume": "603",
+    "pages": "599",
+    "url": "https://arxiv.org/abs/2203.12110",
+    "img": "xiang22a.png"
+  },
+  "Weinberg22a": {
+    "author": "David H. Weinberg, Jon A. Holtzman, Jennifer A. Johnson, Christian Hayes, Sten Hasselquist, et al.",
+    "title": "Chemical Cartography with APOGEE: Mapping Disk Populations with a 2-process Model and Residual Abundances",
+    "year": "2022",
+    "journal": "Astrophys. J. Supp.",
+    "volume": "260",
+    "pages": "32",
+    "url": "https://arxiv.org/abs/2108.08860",
+    "img": "weinberg22a.png"
+  },
+  "Biazzo22a": {
+    "author": "K. Biazzo, V. D'Orazi, S. Desidera, D. Turrini, S. Benatti, et al.",
+    "title": "The GAPS Programme at TNG. XXXV. Fundamental properties of transiting exoplanet host stars",
+    "year": "2022",
+    "journal": "Astron. & Astrophys.",
+    "volume": "664",
+    "pages": "A161",
+    "url": "https://arxiv.org/abs/2205.15796",
+    "img": "biazzo22a.png"
+  },
+  "Marchetti22a": {
+    "author": "Tommaso Marchetti, Fraser A. Evans, & Elena Maria Rossi",
+    "title": "Gaia DR3 in 6D: the search for fast hypervelocity stars and constraints on the galactic centre environment",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "515",
+    "pages": "767",
+    "url": "https://arxiv.org/abs/2206.06962",
+    "img": "marchetti22a.png"
+  },
+  "Gan22a": {
+    "author": "Tianjun Gan, Abderahmane Soubkiou, Sharon X. Wang, Zouhair Benkhaldoun, Shude Mao, et al.",
+    "title": "TESS discovery of a sub-Neptune orbiting a mid-M dwarf TOI-2136",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "514",
+    "pages": "4120",
+    "url": "https://arxiv.org/abs/2202.10024",
+    "img": "gan22a.png"
+  },
+  "Gran22a": {
+    "author": "F. Gran, M. Zoccali, I. Saviane, E. Valenti, A. Rojas-Arriagada, et al.",
+    "title": "Hidden in the haystack: low-luminosity globular clusters towards the Milky Way bulge",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "509",
+    "pages": "4962",
+    "url": "https://arxiv.org/abs/2108.11922",
+    "img": "gran22a.png"
+  },
+  "Vitral22a": {
+    "author": "Eduardo Vitral & Pierre Boldrini",
+    "title": "Properties of globular clusters formed in dark matter mini-halos",
+    "year": "2022",
+    "journal": "Astron. & Astrophys.",
+    "volume": "667",
+    "pages": "A112",
+    "url": "https://arxiv.org/abs/2112.01265",
+    "img": "vitral22a.png"
+  },
+  "Yuan22b": {
+    "author": "Zhen Yuan, Khyati Malhan, Federico Sestito, Rodrigo A. Ibata, Nicolas F. Martin, et al.",
+    "title": "The Complexity of the Cetus Stream Unveiled from the Fusion of STREAMFINDER and StarGO",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "930",
+    "pages": "103",
+    "url": "https://arxiv.org/abs/2112.05775",
+    "img": "yuan22b.png"
+  },
+  "Wang22c": {
+    "author": "Fan Wang, Haijun Tian, Dan Qiu, Qi Xu, Min Fang, et al.",
+    "title": "The stellar 'Snake' - I. Whole structure and properties",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "513",
+    "pages": "503",
+    "url": "https://arxiv.org/abs/2109.05999",
+    "img": "wang22c.png"
+  },
+  "Oria22a": {
+    "author": "Pierre-Antoine Oria, Wassim Tenachi, Rodrigo Ibata, Benoit Famaey, Zhen Yuan, et al.",
+    "title": "Antaeus: A Retrograde Group of Tidal Debris in the Milky Way's Disk Plane",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "936",
+    "pages": "L3",
+    "url": "https://arxiv.org/abs/2206.10404",
+    "img": "oria22a.png"
+  },
+  "Ghosh22a": {
+    "author": "Soumavo Ghosh, Victor P. Debattista, & Tigran Khachaturyants",
+    "title": "Age dissection of the vertical breathing motions in Gaia DR2: evidence for spiral driving",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "511",
+    "pages": "784",
+    "url": "https://arxiv.org/abs/2009.02343",
+    "img": "ghosh22a.png"
+  },
+  "Yang22b": {
+    "author": "Yong Yang, Jing-Kun Zhao, Xiang-Xiang Xue, Xian-Hao Ye, & Gang Zhao",
+    "title": "A New Cold Stream near the Southern Galactic Pole",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "935",
+    "pages": "L38",
+    "url": "https://arxiv.org/abs/2208.05176",
+    "img": "yang22b.png"
+  },
+  "Grnnow22a": {
+    "author": "Asger Grønnow, Thor Tepper-García, Joss Bland-Hawthorn, & Filippo Fraternali",
+    "title": "The role of the halo magnetic field on accretion through high-velocity clouds",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "509",
+    "pages": "5756",
+    "url": "https://arxiv.org/abs/2111.12733",
+    "img": "grnnow22a.png"
+  },
+  "Snaith22a": {
+    "author": "Owain Snaith, Misha Haywood, Paola Di Matteo, Matthew Lehnert, David Katz, et al.",
+    "title": "Rapid early gas accretion for the inner Galactic disc. A case for a short accretion timescale",
+    "year": "2022",
+    "journal": "Astron. & Astrophys.",
+    "volume": "659",
+    "pages": "A64",
+    "url": "https://arxiv.org/abs/2111.13634",
+    "img": "snaith22a.png"
+  },
+  "Martynenko22a": {
+    "author": "Nickolay Martynenko",
+    "title": "Constraining density and metallicity of the Milky Way's hot gas halo from O VII spectra and ram-pressure stripping",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "511",
+    "pages": "843",
+    "url": "https://arxiv.org/abs/2105.02557",
+    "img": "martynenko22a.png"
+  },
+  "Chakrabarty22a": {
+    "author": "Sankha Subhra Chakrabarty, Luisa Ostorero, Arianna Gallo, Stefano Ebagezio, & Antonaldo Diaferio",
+    "title": "Probing modified Newtonian dynamics with hypervelocity stars",
+    "year": "2022",
+    "journal": "Astron. & Astrophys.",
+    "volume": "657",
+    "pages": "A115",
+    "url": "https://arxiv.org/abs/2104.10174",
+    "img": "chakrabarty22a.png"
+  },
+  "Webb22a": {
+    "author": "Jeremy J. Webb & Jo Bovy",
+    "title": "Variation in the stellar mass function along stellar streams",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "510",
+    "pages": "774",
+    "url": "https://arxiv.org/abs/2108.02217",
+    "img": "webb22a.png"
+  },
+  "Necib22a": {
+    "author": "Lina Necib & Tongyan Lin",
+    "title": "Substructure at High Speed. I. Inferring the Escape Velocity in the Presence of Kinematic Substructure",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "926",
+    "pages": "188",
+    "url": "https://arxiv.org/abs/2102.01704",
+    "img": "necib22a.png"
+  },
+  "Zhang22a": {
+    "author": "Z. Zhang, W. B. Shi, Y. Q. Chen, G. Zhao, K. Carrell, & H. P. Zhang",
+    "title": "The substructures in the anticenter region of the Milky Way",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "933",
+    "pages": "151",
+    "url": "http://ui.adsabs.harvard.edu/abs/2022ApJ...933..151Z",
+    "img": "zhang22a.png"
+  },
+  "Vereshchagin22a": {
+    "author": "S. V. Vereshchagin, V. V. Emel'yanenko, & M. D. Sizova",
+    "title": "Approach of the Hyades star cluster to the Solar system",
+    "year": "2022",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "513",
+    "pages": "2958",
+    "url": "http://ui.adsabs.harvard.edu/abs/2022MNRAS.513.2958V",
+    "img": "vereshchagin22a.png"
+  },
+  "Long22a": {
+    "author": "Jane SiNan Long,  Albert K. H. Kong, Kinwah Wu, Jumpei Takata, Qin Han, David C. Y. Hui, & Kwan Lok Li",
+    "title": "XMM-Newton and NuSTAR observations of the compact millisecond pulsar binary PSR J1653-0158",
+    "year": "2022",
+    "journal": "Astrophys. J.",
+    "volume": "934",
+    "pages": "17",
+    "url": "http://ui.adsabs.harvard.edu/abs/2022ApJ...934...17L",
+    "img": "long22a.png"
   },
     "_template": {
         "author": "",
