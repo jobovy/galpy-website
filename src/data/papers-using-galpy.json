@@ -550,13 +550,13 @@
         "img": "marchetti17a.png"
     },
     "Granados17a": {
-        "author": "Andr\u00e9s Granados, Lady-J. Henao-O., Santiago Vanegas, & Leonardo Casta\u00f1eda",
-        "title": "GalRotpy: an educational tool to understand and parametrize the rotation curve and gravitational potential of disk-like galaxies",
-        "year": "2017; ",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "http://arxiv.org/abs/1705.01665",
+        "author": "Andrés Granados, Daniel Torres, Leonardo Castañeda, Lady Henao, & Santiago Vanegas",
+        "title": "GalRotpy: a tool to parametrize the gravitational potential of disc-like galaxies",
+        "year": "2021; ",
+        "journal": "New Astronomy",
+        "volume": "82",
+        "pages": "101456",
+        "url": "http://ui.adsabs.harvard.edu/abs/2021NewA...8201456G",
         "img": "granados17a.png"
     },
     "Grisoni17a": {
@@ -6788,6 +6788,116 @@
     "pages": "482",
     "url": "http://ui.adsabs.harvard.edu/abs/2020Ap.....63..482P",
     "img": "potravnov20a.png"
+  },
+  "Sharma21a": {
+    "author": "Sanjib Sharma, Michael R. Hayden, & Joss Bland-Hawthorn",
+    "title": "Chemical enrichment and radial migration in the Galactic disc - the origin of the [αFe] double sequence",
+    "year": "2021",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "507",
+    "pages": "5882",
+    "url": "https://arxiv.org/abs/2005.03646",
+    "img": "sharma21a.png"
+  },
+  "Chiti21a": {
+    "author": "Anirudh Chiti, Anna Frebel, Joshua D. Simon, Denis Erkal, Laura J. Chang, et al.",
+    "title": "An extended halo around an ancient dwarf galaxy",
+    "year": "2021",
+    "journal": "Nature Astronomy",
+    "volume": "5",
+    "pages": "392",
+    "url": "https://arxiv.org/abs/2012.02309",
+    "img": "chiti21a.png"
+  },
+  "Pelisoli21a": {
+    "author": "Ingrid Pelisoli, P. Neunteufel, S. Geier, T. Kupfer, U. Heber, et al.",
+    "title": "A hot subdwarf-white dwarf super-Chandrasekhar candidate supernova Ia progenitor",
+    "year": "2021",
+    "journal": "Nature Astronomy",
+    "volume": "5",
+    "pages": "1052",
+    "url": "https://arxiv.org/abs/2107.09074",
+    "img": "pelisoli21a.png"
+  },
+  "Banik21b": {
+    "author": "Nilanjan Banik, Jo Bovy, Gianfranco Bertone, Denis Erkal, & T. J. L. de Boer",
+    "title": "Novel constraints on the particle nature of dark matter from stellar streams",
+    "year": "2021",
+    "journal": "Journal of Cosmology and Astroparticle Physics",
+    "volume": "2021",
+    "pages": "043",
+    "url": "https://arxiv.org/abs/1911.02663",
+    "img": "banik21b.png"
+  },
+  "Katz21a": {
+    "author": "D. Katz, A. Gómez, M. Haywood, O. Snaith, & P. Di Matteo",
+    "title": "Radial structure and formation of the Milky Way disc",
+    "year": "2021",
+    "journal": "Astron. & Astrophys.",
+    "volume": "655",
+    "pages": "A111",
+    "url": "https://arxiv.org/abs/2102.02082",
+    "img": "katz21a.png"
+  },
+  "Reino21a": {
+    "author": "Stella Reino, Elena M. Rossi, Robyn E. Sanderson, Elena Sellentin, Amina Helmi, et al.",
+    "title": "Galactic potential constraints from clustering in action space of combined stellar stream data",
+    "year": "2021",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "502",
+    "pages": "4170",
+    "url": "https://arxiv.org/abs/2007.00356",
+    "img": "reino21a.png"
+  },
+  "ReFiorentin21a": {
+    "author": "Paola Re Fiorentin, Alessandro Spagna, Mario G. Lattanzi, & Michele Cignoni",
+    "title": "Icarus: A Flat and Fast Prograde Stellar Stream in the Milky Way Disk",
+    "year": "2021",
+    "journal": "Astrophys. J.",
+    "volume": "907",
+    "pages": "L16",
+    "url": "https://arxiv.org/abs/2012.10957",
+    "img": "refiorentin21a.png"
+  },
+  "Simpson21a": {
+    "author": "Jeffrey D. Simpson, Sarah L. Martell, Sven Buder, Joss Bland-Hawthorn, Andrew R. Casey, et al.",
+    "title": "The GALAH survey: accreted stars also inhabit the Spite plateau",
+    "year": "2021",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "507",
+    "pages": "43",
+    "url": "https://arxiv.org/abs/2011.02659",
+    "img": "simpson21a.png"
+  },
+  "tutukov21a": {
+    "author": "A. V. Tutukov, S. V. Vereshchagin, & M. D. Sizova",
+    "title": "Destruction of galaxies as a cause of the appearance of stellar streams",
+    "year": "2021",
+    "journal": "Astronomy Reports",
+    "volume": "65",
+    "pages": "1085",
+    "url": "http://ui.adsabs.harvard.edu/abs/2021ARep...65.1085T",
+    "img": "tutukov21a.png"
+  },
+  "tutukov21b": {
+    "author": "A. V. Tutukov, M. D. Sizova, & S. V. Vereshchagin",
+    "title": "Time evolution of a cometary spear of the Sun",
+    "year": "2021",
+    "journal": "Astronomy Reports",
+    "volume": "65",
+    "pages": "305",
+    "url": "http://ui.adsabs.harvard.edu/abs/2021ARep...65..305T",
+    "img": "tutukov21b.png"
+  },
+  "zhang21e": {
+    "author": "Xu Zhang, Sven Buder, Ya-Qian Wu, &Gang Zhao",
+    "title": "Estimation of ages and masses via carbon and nitrogen abundances for 556 007 giants from LAMOST",
+    "year": "2021",
+    "journal": "Research in Astronomy and Astrophysics",
+    "volume": "21",
+    "pages": "216",
+    "url": "http://ui.adsabs.harvard.edu/abs/2021RAA....21..216Z",
+    "img": "zhang21e.png"
   },
     "_template": {
         "author": "",
