@@ -7119,6 +7119,376 @@
     "url": "http://ui.adsabs.harvard.edu/abs/2022ApJ...934...17L",
     "img": "long22a.png"
   },
+  "GaiaCollaboration23a": {
+    "author": "Gaia Collaboration, O. L. Creevey, L. M. Sarro, A. Lobel, E. Pancino, et al.",
+    "title": "Gaia Data Release 3. A golden sample of astrophysical parameters",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "674",
+    "pages": "A39",
+    "url": "https://arxiv.org/abs/2206.05870",
+    "img": "gaiacollaboration23a.png"
+  },
+  "Li23c": {
+    "author": "Jiadong Li, Chao Liu, Zhi-Yu Zhang, Hao Tian, Xiaoting Fu, et al.",
+    "title": "Stellar initial mass function varies with metallicity and time",
+    "year": "2023",
+    "journal": "Nature",
+    "volume": "613",
+    "pages": "460",
+    "url": "https://arxiv.org/abs/2301.07029",
+    "img": "li23c.png"
+  },
+  "Stefnsson23a": {
+    "author": "Guðmundur Stefánsson, Suvrath Mahadevan, Yamila Miguel, Paul Robertson, Megan Delamer, et al.",
+    "title": "A Neptune-mass exoplanet in close orbit around a very low-mass star challenges formation models",
+    "year": "2023",
+    "journal": "Science",
+    "volume": "382",
+    "pages": "1031",
+    "url": "https://arxiv.org/abs/2303.13321",
+    "img": "stefnsson23a.png"
+  },
+  "Magrini23a": {
+    "author": "L. Magrini, C. Viscasillas Vázquez, L. Spina, S. Randich, D. Romano, et al.",
+    "title": "The Gaia-ESO survey: Mapping the shape and evolution of the radial abundance gradients with open clusters",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "669",
+    "pages": "A119",
+    "url": "https://arxiv.org/abs/2210.15525",
+    "img": "magrini23a.png"
+  },
+  "Ratzenbck23a": {
+    "author": "Sebastian Ratzenböck, Josefa E. Großschedl, Torsten Möller, João Alves, Immanuel Bomze, et al.",
+    "title": "Significance mode analysis (SigMA) for hierarchical structures. An application to the Sco-Cen OB association",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "677",
+    "pages": "A59",
+    "url": "https://arxiv.org/abs/2211.14225",
+    "img": "ratzenbck23a.png"
+  },
+  "ViscasillasVzquez23a": {
+    "author": "C. Viscasillas Vázquez, L. Magrini, L. Spina, G. Tautvaišienė, M. Van der Swaelmen, et al.",
+    "title": "The role of radial migration in open cluster and field star populations with Gaia DR3",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "679",
+    "pages": "A122",
+    "url": "https://arxiv.org/abs/2309.17153",
+    "img": "viscasillasvzquez23a.png"
+  },
+  "Schmidt23a": {
+    "author": "Eduardo O. Schmidt, Damián Mast, Gaia Gaspar, & Walter Weidmann",
+    "title": "Rotation curves and dynamical masses of MaNGA barred galaxies",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "523",
+    "pages": "1885",
+    "url": "https://arxiv.org/abs/2306.03199",
+    "img": "schmidt23a.png"
+  },
+  "Medina23a": {
+    "author": "Gustavo E. Medina, Camilla J. Hansen, Ricardo R. Muñoz, Eva K. Grebel, A. Katherina Vivas, et al.",
+    "title": "RR Lyrae stars as probes of the outer Galactic halo: chemical and kinematic analysis of a pilot sample",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "519",
+    "pages": "5689",
+    "url": "https://arxiv.org/abs/2309.03271",
+    "img": "medina23a.png"
+  },
+  "Jofr23a": {
+    "author": "P. Jofré, A. Jorissen, C. Aguilera-Gómez, S. Van Eck, J. Tayar, et al.",
+    "title": "Cannibals in the thick disk. II. Radial-velocity monitoring of the young α-rich stars",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "671",
+    "pages": "A21",
+    "url": "https://arxiv.org/abs/2207.11084",
+    "img": "jofr23a.png"
+  },
+  "Wang23e": {
+    "author": "Shuyu Wang, Lina Necib, Alexander P. Ji, Xiaowei Ou, Mariangela Lisanti, et al.",
+    "title": "High-resolution Chemical Abundances of the Nyx Stream",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "955",
+    "pages": "129",
+    "url": "https://arxiv.org/abs/2210.15013",
+    "img": "wang23e.png"
+  },
+  "Sun23b": {
+    "author": "Tiancheng Sun, Zhishuai Ge, Xunzhou Chen, Shaolan Bi, Tanda Li, et al.",
+    "title": "Age of FGK Dwarfs Observed with LAMOST and GALAH: Considering the Oxygen Enhancement",
+    "year": "2023",
+    "journal": "Astrophys. J. Supp.",
+    "volume": "268",
+    "pages": "29",
+    "url": "https://arxiv.org/abs/2307.04086",
+    "img": "sun23b.png"
+  },
+  "Li23d": {
+    "author": "Chunyan Li, Jing Zhong, Songmei Qin, & Li Chen",
+    "title": "The new detection of blue straggler stars in 50 open clusters using Gaia DR3",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "672",
+    "pages": "A81",
+    "url": "https://arxiv.org/abs/2304.02907",
+    "img": "li23d.png"
+  },
+  "Hu23a": {
+    "author": "Qingshun Hu, Yu Zhang, Ali Esamdin, Hong Wang, & Mingfeng Qin",
+    "title": "A detection of the layered structure of nearby open clusters",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "672",
+    "pages": "A12",
+    "url": "https://arxiv.org/abs/2302.02750",
+    "img": "hu23a.png"
+  },
+  "Medan23a": {
+    "author": "Ilija Medan & Sébastien Lépine",
+    "title": "Chemodynamical ages of small-scale kinematic structures of the galactic disc in the solar neighbourhood from  250 000 K and M dwarfs",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "521",
+    "pages": "208",
+    "url": "https://arxiv.org/abs/2209.11331",
+    "img": "medan23a.png"
+  },
+  "Ratcliffe23a": {
+    "author": "Bridget L. Ratcliffe & Melissa K. Ness",
+    "title": "The Chemical Enrichment of the Milky Way Disk Evaluated Using Conditional Abundances",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "943",
+    "pages": "92",
+    "url": "https://arxiv.org/abs/2206.02772",
+    "img": "ratcliffe23a.png"
+  },
+  "Zhang23c": {
+    "author": "Hanyuan Zhang & Jason L. Sanders",
+    "title": "A kinematic calibration of the O-rich Mira variable period-age relation from Gaia",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "521",
+    "pages": "1462",
+    "url": "https://arxiv.org/abs/2302.10024",
+    "img": "zhang23c.png"
+  },
+  "Korchagin23a": {
+    "author": "Vladimir Korchagin, Artem Lutsenko, Roman Tkachenko, Giovanni Carraro, & Katherine Vieira",
+    "title": "Resonant Effects of a Bar on the Galactic Disk Kinematics Perpendicular to Its Plane",
+    "year": "2023",
+    "journal": "Galaxies",
+    "volume": "11",
+    "pages": "97",
+    "url": "https://arxiv.org/abs/2310.10327",
+    "img": "korchagin23a.png"
+  },
+  "Youakim23a": {
+    "author": "Kris Youakim, Karin Lind, & Iryna Kushniruk",
+    "title": "Tidal debris from Omega Centauri discovered with unsupervised machine learning",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "524",
+    "pages": "2630",
+    "url": "https://arxiv.org/abs/2307.03035",
+    "img": "youakim23a.png"
+  },
+  "Melton23a": {
+    "author": "Elizabeth J. Melton, Eric D. Feigelson, Marco Montalto, Gabriel A. Caceres, Andrew W. Rosenswie, et al.",
+    "title": "DIAmante TESS AutoRegressive Planet Search (DTARPS): III. Understanding the DTARPS Candidate Transiting Planet Catalogs",
+    "year": "2023",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2302.06744",
+    "img": "melton23a.png"
+  },
+  "Woudenberg23a": {
+    "author": "Hanneke C. Woudenberg, Orlin Koop, Eduardo Balbinot, & Amina Helmi",
+    "title": "Characterization and dynamics of the peculiar stream Jhelum. A tentative role for the Sagittarius dwarf galaxy",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "669",
+    "pages": "A102",
+    "url": "https://arxiv.org/abs/2202.02132",
+    "img": "woudenberg23a.png"
+  },
+  "Tokiwa23a": {
+    "author": "Akira Tokiwa, Masahiro Takada, Tian Qiu, Naoki Yasuda, Yutaka Komiyama, et al.",
+    "title": "Study of structural parameters and systemic proper motion of Sextans dwarf spheroidal galaxy with Subaru Hyper Suprime-Cam data",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "526",
+    "pages": "1310",
+    "url": "https://arxiv.org/abs/2302.06071",
+    "img": "tokiwa23a.png"
+  },
+  "DeRocco23a": {
+    "author": "William DeRocco & Jeff A. Dror",
+    "title": "Searching for stochastic gravitational waves below a nanohertz",
+    "year": "2023",
+    "journal": "Phys. Rev. D",
+    "volume": "108",
+    "pages": "103011",
+    "url": "https://arxiv.org/abs/2304.13042",
+    "img": "derocco23a.png"
+  },
+  "Gao23a": {
+    "author": "Xinhua Gao",
+    "title": "Spatial structure and dynamical state of the old open cluster Collinder 261 based on a clustering method",
+    "year": "2023",
+    "journal": "Pub. Astron.Soc. Jap.",
+    "volume": "75",
+    "pages": "82",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023PASJ...75...82G",
+    "img": "gao23a.png"
+  },
+  "Liao23a": {
+    "author": "Jiwei Liao, Cuihua Du, Hefan Li, Jun Ma, & Jianrong Shi",
+    "title": "Hypervelocity Stars Track Back to the Galactic Center in Gaia DR3",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "944",
+    "pages": "L39",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023ApJ...944L..39L",
+    "img": "liao23a.png"
+  },
+  "Liu23b": {
+    "author": "Zhicun Liu, Wenyuan Cui, Gang Zhao, Chao Liu, Changqing Luo, et al.",
+    "title": "Origins of B-type stars at high Galactic latitudes based on abundances and kinematics",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "519",
+    "pages": "995",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023MNRAS.519..995L",
+    "img": "liu23b.png"
+  },
+  "Caffau23a": {
+    "author": "E. Caffau, L. Lombardo, L. Mashonkina, T. Sitnova, P. Bonifacio, et al.",
+    "title": "The Pristine survey - XIX. Cu and Zn abundances in metal-poor giants",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "518",
+    "pages": "3796",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023MNRAS.518.3796C",
+    "img": "caffau23a.png"
+  },
+  "Lombardo23a": {
+    "author": "Linda Lombardo, Piercarlo Bonifacio, Elisabetta Caffau, Patrick François, Pascale Jablonka, et al.",
+    "title": "The Pristine survey - XXI. Exploring the metal-poor boundary with ESPaDoNS",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "522",
+    "pages": "4815",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4815L",
+    "img": "lombardo23a.png"
+  },
+  "QuispeHuaynasi23a": {
+    "author": "F. Quispe-Huaynasi, F. Roig, S. Daflon, C. B. Pereira, V. M. Placco, et al.",
+    "title": "J-PLUS: characterization of high-velocity stars in the second data release",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "522",
+    "pages": "3898",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3898Q",
+    "img": "quispehuaynasi23a.png"
+  },
+  "Yan23a": {
+    "author": "H. H. Yan, W. B. Shi, Y. Q. Chen, J. K. Zhao, & G. Zhao",
+    "title": "Evidence of a common origin for the Virgo overdensity and Hercules-Aquila Cloud from abundances and orbital parameters",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "674",
+    "pages": "A78",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023A%26A...674A..78Y",
+    "img": "yan23a.png"
+  },
+  "Vereshchagin23a": {
+    "author": "Sergei Vereshchagin, Natalya Chupina, Kristina Lyzenko, Anatoly Kalinkin, Nikolay Kondratev, et al.",
+    "title": "A Scattered Star Group in the Orion A Region of the Milky Way",
+    "year": "2023",
+    "journal": "Galaxies",
+    "volume": "11",
+    "pages": "99",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023Galax..11...99V",
+    "img": "vereshchagin23a.png"
+  },
+  "Jang23a": {
+    "author": "Hye-Eun Jang, Young Sun Lee, Wako Aoki, Tadafumi Matsuno, Wonseok Kang, et al.",
+    "title": "GRACES Observations of Mg-Enhanced Metal-Poor Stars in the Milky Way",
+    "year": "2023",
+    "journal": "Journal of Korean Astronomical Society",
+    "volume": "56",
+    "pages": "11",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023JKAS...56...11J",
+    "img": "jang23a.png"
+  },
+  "Tademir23a": {
+    "author": "Seval Taşdemir, Talar Yontan, & Selçuk Bilir",
+    "title": "NGC 1193 ve NGC 1798 Açık Kümelerinin CCD UBV ve Gaia Analizleri",
+    "year": "2023",
+    "journal": "Turkish Journal of Astronomy and Astrophysics",
+    "volume": "4",
+    "pages": "245",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023TJAA....4S.245S",
+    "img": "tademir23a.png"
+  },
+  "Ko23a": {
+    "author": "Seliz Koç, Selçuk Bilir, & Talar Yontan",
+    "title": "NGC 1664 ve NGC 6939 Açık Kümelerinin Fotometrik ve Astrometrik İncelenmesi",
+    "year": "2023",
+    "journal": "Turkish Journal of Astronomy and Astrophysics",
+    "volume": "4",
+    "pages": "203",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023TJAA....4S.203S",
+    "img": "ko23a.png"
+  },
+  "Yontan23d": {
+    "author": "Talar Yontan",
+    "title": "Berkeley 68 ve Stock 20 Açık Kümelerinin Yer ve Uzay Tabanlı Teleskop Verileriyle İncelenmesi",
+    "year": "2023",
+    "journal": "Turkish Journal of Astronomy and Astrophysics",
+    "volume": "4",
+    "pages": "255",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023TJAA....4S.255T",
+    "img": "yontan23d.png"
+  },
+  "COKUNOLU23a": {
+    "author": "Başar COŞKUNOĞLU",
+    "title": "Çok Boyutlu Uzayda Galaktik Disk Popülasyonlarına Makine Öğrenmesi Yaklaşımı",
+    "year": "2023",
+    "journal": "Turkish Journal of Astronomy and Astrophysics",
+    "volume": "4",
+    "pages": "173",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023TJAA....4S.173B",
+    "img": "cokunolu23a.png"
+  },
+  "Plevne23a": {
+    "author": "Olcay Plevne",
+    "title": "Bir Samanyolu Tarifi",
+    "year": "2023",
+    "journal": "Turkish Journal of Astronomy and Astrophysics",
+    "volume": "4",
+    "pages": "225",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023TJAA....4S.225O",
+    "img": "plevne23a.png"
+  },
+  "akmak23a": {
+    "author": "Hikmet Çakmak",
+    "title": "Samanyolu Galaksisinin I. ve III. Çeyreğindeki Açık Kümelerin Dinamik Evrimi",
+    "year": "2023",
+    "journal": "Turkish Journal of Astronomy and Astrophysics",
+    "volume": "4",
+    "pages": "178",
+    "url": "http://ui.adsabs.harvard.edu/abs/2023TJAA....4S.178H",
+    "img": "akmak23a.png"
+  },
     "_template": {
         "author": "",
         "title": "",
