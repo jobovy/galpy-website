@@ -2634,8 +2634,8 @@
         "title": "A Mini-Neptune and a Venus-Zone Planet in the Radius Valley Orbiting the Nearby M2-dwarf TOI-1266: Validation with the Habitable-zone Planet Finder",
         "year": "2020",
         "journal": "Astrophys. J.",
-        "volume": "submitted",
-        "pages": "",
+        "volume": "160",
+        "pages": "259",
         "url": "https://arxiv.org/abs/2006.11180",
         "img": "stefansson20a.png"
     },
@@ -6688,6 +6688,106 @@
     "pages": "4367",
     "url": "https://arxiv.org/abs/1909.01718",
     "img": "piatti19a.png"
+  },
+  "Ahumada20a": {
+    "author": "Romina Ahumada, Carlos Allende Prieto, Andrés Almeida, Friedrich Anders, Scott F. Anderson, et al.",
+    "title": "The 16th Data Release of the Sloan Digital Sky Surveys: First Release from the APOGEE-2 Southern Survey and Full Release of eBOSS Spectra",
+    "year": "2020",
+    "journal": "Astrophys. J. Supp.",
+    "volume": "249",
+    "pages": "3",
+    "url": "https://arxiv.org/abs/1912.02905",
+    "img": "ahumada20a.png"
+  },
+  "Cautun20a": {
+    "author": "Marius Cautun, Alejandro Benítez-Llambay, Alis J. Deason, Carlos S. Frenk, Azadeh Fattahi, et al.",
+    "title": "The milky way total mass profile as inferred from Gaia DR2",
+    "year": "2020",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "494",
+    "pages": "4291",
+    "url": "https://arxiv.org/abs/1911.04557",
+    "img": "cautun20a.png"
+  },
+  "MiretRoig20a": {
+    "author": "N. Miret-Roig, P. A. B. Galli, W. Brandner, H. Bouy, D. Barrado, et al.",
+    "title": "Dynamical traceback age of the β Pictoris moving group",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "642",
+    "pages": "A179",
+    "url": "https://arxiv.org/abs/2007.10997",
+    "img": "miretroig20a.png"
+  },
+  "Casali20a": {
+    "author": "G. Casali, L. Spina, L. Magrini, A. I. Karakas, C. Kobayashi, et al.",
+    "title": "The Gaia-ESO survey: the non-universality of the age-chemical-clocks-metallicity relations in the Galactic disc",
+    "year": "2020",
+    "journal": "Astron. & Astrophys.",
+    "volume": "639",
+    "pages": "A127",
+    "url": "https://arxiv.org/abs/2006.05763",
+    "img": "casali20a.png"
+  },
+  "Cheng20a": {
+    "author": "Xinlun Cheng, Borja Anguiano, Steven R. Majewski, Christian Hayes, Phil Arras, et al.",
+    "title": "Exploring the Galactic Warp through Asymmetries in the Kinematics of the Galactic Disk",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "905",
+    "pages": "49",
+    "url": "https://arxiv.org/abs/2010.10398",
+    "img": "cheng20a.png"
+  },
+  "Wang20b": {
+    "author": "H. -F. Wang, M. López-Corredoira, Y. Huang, J. Chang, H. -W. Zhang, et al.",
+    "title": "Mapping the Galactic Disk with the LAMOST and Gaia Red Clump Sample. VI. Evidence for the Long-lived Nonsteady Warp of Nongravitational Scenarios",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "897",
+    "pages": "119",
+    "url": "https://arxiv.org/abs/2004.06600",
+    "img": "wang20b.png"
+  },
+  "Necib20a": {
+    "author": "Lina Necib, Bryan Ostdiek, Mariangela Lisanti, Timothy Cohen, Marat Freytsis, et al.",
+    "title": "Chasing Accreted Structures within Gaia DR2 Using Deep Learning",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "903",
+    "pages": "25",
+    "url": "https://arxiv.org/abs/1907.07681",
+    "img": "necib20a.png"
+  },
+  "Rasmussen20a": {
+    "author": "Kaitlin C. Rasmussen, Joseph Zepeda, Timothy C. Beers, Vinicius M. Placco, Éric Depagne, et al.",
+    "title": "Metal-poor Stars Observed with the Southern African Large Telescope",
+    "year": "2020",
+    "journal": "Astrophys. J.",
+    "volume": "905",
+    "pages": "20",
+    "url": "https://arxiv.org/abs/2010.04214",
+    "img": "rasmussen20a.png"
+  },
+  "tutukov20a": {
+    "author": "A. V. Tutukov, M. D. Sizova, & S. V. Vereshchagin",
+    "title": "Formation of stellar streams due to the decay of star clusters, OB associations, and galaxy satellites",
+    "year": "2020",
+    "journal": "Astronomy Reports",
+    "volume": "64",
+    "pages": "827",
+    "url": "http://ui.adsabs.harvard.edu/abs/2020ARep...64..827T",
+    "img": "tutukov20a.png"
+  },
+  "potravnov20a": {
+    "author": "I. S. Potravnov & M. V. Eselevich",
+    "title": "Spectroscopy and kinematics of the high-latitude UX Ori type star V1117 Her",
+    "year": "2020",
+    "journal": "Astrophysics",
+    "volume": "63",
+    "pages": "482",
+    "url": "http://ui.adsabs.harvard.edu/abs/2020Ap.....63..482P",
+    "img": "potravnov20a.png"
   },
     "_template": {
         "author": "",
