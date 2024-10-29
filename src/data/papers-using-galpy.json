@@ -8869,6 +8869,36 @@
     "url": "http://ui.adsabs.harvard.edu/abs/2024A%26A...690L..17L",
     "img": "luongo24a.png"
   },
+  "Huber24a": {
+    "author": "Daniel Huber, Ditte Slumstrup, Marc Hon, Yaguang Li, Victor Aguirre Børsen-Koch, et al.",
+    "title": "Stellar Models are Reliable at Low Metallicity: An Asteroseismic Age for the Ancient Very Metal-poor Star KIC 8144907",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "975",
+    "pages": "19",
+    "url": "https://arxiv.org/abs/2407.17566",
+    "img": "huber24a.png"
+  },
+  "Xie24a": {
+    "author": "Yi-Heng Xie, Guang-Xing Li, & Bing-Qiu Chen",
+    "title": "Morphology of Molecular Clouds at Kiloparsec Scale in the Milky Way: Shear-induced Alignment and Vertical Confinement",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "975",
+    "pages": "39",
+    "url": "https://arxiv.org/abs/2408.14095",
+    "img": "xie24a.png"
+  },
+  "Bisht24a": {
+    "author": "Mukesh Singh Bisht, Projjwal Banerjee, Biman B. Nath, & Yuri Shchekinov",
+    "title": "Can Supernovae from Runaway Stars Mimic the Signs of Absorbing 'Supervirial' Gas?",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "975",
+    "pages": "26",
+    "url": "https://arxiv.org/abs/2408.14351",
+    "img": "bisht24a.png"
+  },
     "_template": {
         "author": "",
         "title": "",
