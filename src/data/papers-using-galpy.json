@@ -5519,16 +5519,16 @@
         "url": "https://arxiv.org/abs/2301.05227",
         "img": "souza23a.png"
     },
-    "Yaqian23a": {
-        "author": "Wu Yaqian, Xiang Maosheng, Zhao Gang, Chen Yuqin, Bi Shaolan, et al.",
-        "title": "Timing the formation of the Galactic thin disc with asteroseismic stellar ages",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2301.07990",
-        "img": "yaqian23a.png"
-    },
+  "Yaqian23a": {
+    "author": "Yaqian Wu, Maosheng Xiang, Gang Zhao, Yuqin Chen, Shaolan Bi, et al.",
+    "title": "Timing the formation of the galactic thin disc with asteroseismic stellar ages",
+    "year": "2023",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "520",
+    "pages": "1913",
+    "url": "https://arxiv.org/abs/2301.07990",
+    "img": "yaqian23a.png"
+  },
     "Zhang23a": {
         "author": "Haopeng Zhang, Yuqin Chen, Gang Zhao, Shaolan Bi, Xianfei Zhang, et al.",
         "title": "The role of radial migration on tracing lithium evolution in the Galactic disc",
@@ -5849,16 +5849,16 @@
         "url": "https://arxiv.org/abs/2305.05024",
         "img": "alencastropuls23a.png"
     },
-    "WenboWu23a": {
-        "author": "WenboWu, GangZhao, JiangChang, Xiang-XiangXue, YuqinChen, et al.",
-        "title": "Detection of multiple phase space overdensities of GSE stars by orbit integration",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2305.06759",
-        "img": "wenbowu23a.png"
-    },
+  "WenboWu23a": {
+    "author": "Wenbo Wu, Gang Zhao, Jiang Chang, Xiang-Xiang Xue, Yuqin Chen, et al.",
+    "title": "Detection of Multiple Phase Space Overdensities of GSE Stars by Orbit Integration",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "950",
+    "pages": "151",
+    "url": "https://arxiv.org/abs/2305.06759",
+    "img": "wenbowu23a.png"
+  },
     "Casali23a": {
         "author": "G. Casali, V. Grisoni, A. Miglio, C. Chiappini, M. Matteuzzi, et al.",
         "title": "Time evolution of Ce as traced by APOGEE using giant stars observed with the Kepler, TESS and K2 missions",
@@ -5899,16 +5899,16 @@
         "url": "https://arxiv.org/abs/2305.12326",
         "img": "almeidafernandes23a.png"
     },
-    "Hamilton23a": {
-        "author": "Chris Hamilton & Roman R. Rafikov",
-        "title": "Relativistic phase space diffusion of compact object binaries in stellar clusters and hierarchical triples",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2306.03703",
-        "img": "hamilton23a.png"
-    },
+  "Hamilton23a": {
+    "author": "Chris Hamilton & Roman R. Rafikov",
+    "title": "Relativistic Phase Space Diffusion of Compact Object Binaries in Stellar Clusters and Hierarchical Triples",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "961",
+    "pages": "237",
+    "url": "https://arxiv.org/abs/2306.03703",
+    "img": "hamilton23a.png"
+  },
     "Lane23a": {
         "author": "James M. M. Lane, Jo Bovy, & J. Ted Mackereth",
         "title": "The stellar mass of the Gaia-Sausage/Enceladus accretion remnant",
@@ -5929,16 +5929,16 @@
         "url": "https://arxiv.org/abs/2306.04690",
         "img": "cerny23a.png"
     },
-    "Carniani23a": {
-        "author": "Stefano Carniani, Giacomo Venturi, Eleonora Parlanti, Anna de Graaff, Roberto Maiolino, et al.",
-        "title": "JADES: The incidence rate and properties of galactic outflows in low-mass galaxies across 3 &lt; z &lt; 9",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2306.11801",
-        "img": "carniani23a.png"
-    },
+  "Carniani23a": {
+    "author": "Stefano Carniani, Giacomo Venturi, Eleonora Parlanti, Anna de Graaff, Roberto Maiolino, et al.",
+    "title": "JADES: The incidence rate and properties of galactic outflows in low-mass galaxies across 3 &lt; z &lt; 9",
+    "year": "2024",
+    "journal": "Astron. & Astrophys.",
+    "volume": "685",
+    "pages": "A99",
+    "url": "https://arxiv.org/abs/2306.11801",
+    "img": "carniani23a.png"
+  },
     "Stokholm23a": {
         "author": "Amalie Stokholm, Víctor Aguirre Børsen-Koch, Dennis Stello, Marc Hon, & Claudia Reyes",
         "title": "A unified exploration of the chronology of the Galaxy",
@@ -5969,26 +5969,26 @@
         "url": "https://arxiv.org/abs/2307.06430",
         "img": "zhao23a.png"
     },
-    "Delamer23a": {
-        "author": "Megan Delamer, Shubham Kanodia, Caleb I. Cañas, Simon Müller, Ravit Helled, et al.",
-        "title": "TOI-4201: An Early M-dwarf Hosting a Massive Transiting Jupiter Stretching Theories of Core-Accretion",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2307.06880",
-        "img": "delamer23a.png"
-    },
-    "Rowan23a": {
-        "author": "D. M. Rowan, T. Jayasinghe, M. A. Tucker, C. Y. Lam, Todd A. Thompson, et al.",
-        "title": "A hidden population of massive white dwarfs: two spotted K+WD binaries",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2307.11146",
-        "img": "rowan23a.png"
-    },
+  "Delamer23a": {
+    "author": "Megan Delamer, Shubham Kanodia, Caleb I. Cañas, Simon Müller, Ravit Helled, et al.",
+    "title": "TOI-4201: An Early M Dwarf Hosting a Massive Transiting Jupiter Stretching Theories of Core Accretion",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "962",
+    "pages": "L22",
+    "url": "https://arxiv.org/abs/2307.06880",
+    "img": "delamer23a.png"
+  },
+  "Rowan23a": {
+    "author": "Dominick M. Rowan, Tharindu Jayasinghe, Michael A. Tucker, Casey Y. Lam, Todd A. Thompson, et al.",
+    "title": "A hidden population of massive white dwarfs: two spotted K + WD binaries",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "529",
+    "pages": "587",
+    "url": "https://arxiv.org/abs/2307.11146",
+    "img": "rowan23a.png"
+  },
     "Swastik23a": {
         "author": "C. Swastik, Ravinder K. Banyal, Mayank Narang, Athira Unni, Bihan Banerjee, et al.",
         "title": "Age Distribution of Exoplanet Host Stars: Chemical and Kinematic Age Proxies from GAIA DR3",
@@ -6029,16 +6029,16 @@
         "url": "https://arxiv.org/abs/2308.04050",
         "img": "panthi23a.png"
     },
-    "Sestito23b": {
-        "author": "Federico Sestito, Christian R. Hayes, Kim A. Venn, Jaclyn Jensen, Alan W. McConnachie, et al.",
-        "title": "GHOST Commissioning Science Results II: a very metal-poor star witnessing the early Galactic assembly",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2308.07366",
-        "img": "sestito23b.png"
-    },
+  "Sestito23b": {
+    "author": "Federico Sestito, Christian R. Hayes, Kim A. Venn, Jaclyn Jensen, Alan W. McConnachie, et al.",
+    "title": "GHOST commissioning science results - II: a very metal-poor star witnessing the early galactic assembly",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "528",
+    "pages": "4838",
+    "url": "https://arxiv.org/abs/2308.07366",
+    "img": "sestito23b.png"
+  },
     "Xu23a": {
         "author": "Y. Xu, C. Liu, Z. Li, H. Tian, Sarah A. Bird, et al.",
         "title": "Exploring Asymmetric Substructures of the Outer Disk Based on the Conjugate Angle of the Radial Action",
@@ -6049,16 +6049,16 @@
         "url": "https://arxiv.org/abs/2308.08092",
         "img": "xu23a.png"
     },
-    "Heiger23a": {
-        "author": "M. E. Heiger, T. S. Li, A. B. Pace, J. D. Simon, A. P. Ji, et al.",
-        "title": "Reading Between the (Spectral) Lines: Magellan/IMACS spectroscopy of the Ultra-faint Dwarf Galaxies Eridanus IV and Centaurus I",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2308.08602",
-        "img": "heiger23a.png"
-    },
+  "Heiger23a": {
+    "author": "M. E. Heiger, T. S. Li, A. B. Pace, J. D. Simon, A. P. Ji, et al.",
+    "title": "Reading between the (Spectral) Lines: Magellan/IMACS Spectroscopy of the Ultrafaint Dwarf Galaxies Eridanus IV and Centaurus I",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "961",
+    "pages": "234",
+    "url": "https://arxiv.org/abs/2308.08602",
+    "img": "heiger23a.png"
+  },
     "Tee23a": {
         "author": "Wei Leong Tee, Xiaohui Fan, Feige Wang, Jinyi Yang, Sangeeta Malhotra, et al.",
         "title": "Predicting the Yields of z &gt; 6.5 Quasar Surveys in the Era of Roman and Rubin",
@@ -6099,16 +6099,16 @@
         "url": "https://arxiv.org/abs/2309.02498",
         "img": "venturi23a.png"
     },
-    "BowensRubin23a": {
-        "author": "Rachel Bowens-Rubin, Joseph M. Akana Murphy, Philip M. Hinz, Mary Anne Limbach, Andreas Seifahrt, et al.",
-        "title": "A Wolf 359 in sheep's clothing: Hunting for substellar companions in the fifth-closest system using combined high-contrast imaging and radial velocity analysis",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2309.03402",
-        "img": "bowensrubin23a.png"
-    },
+  "BowensRubin23a": {
+    "author": "Rachel Bowens-Rubin, Joseph M. Akana Murphy, Philip M. Hinz, Mary Anne Limbach, Andreas Seifahrt, et al.",
+    "title": "A Wolf 359 in Sheep's Clothing: Hunting for Substellar Companions in the Fifth-closest System Using Combined High-contrast Imaging and Radial Velocity Analysis",
+    "year": "2023",
+    "journal": "Astron. J.",
+    "volume": "166",
+    "pages": "260",
+    "url": "https://arxiv.org/abs/2309.03402",
+    "img": "bowensrubin23a.png"
+  },
     "Pacucci23a": {
         "author": "Fabio Pacucci, Yueying Ni, & Abraham Loeb",
         "title": "Extreme Tidal Stripping May Explain the Overmassive Black Hole in Leo I: A Proof of Concept",
@@ -6119,16 +6119,16 @@
         "url": "https://arxiv.org/abs/2309.02487",
         "img": "pacucci23a.png"
     },
-    "Wang23c": {
-        "author": "Long Wang, Mark Gieles, Holger Baumgardt, Chengyuan Li, Xiaoying Pang, et al.",
-        "title": "The influence of black holes on the binary population of the globular cluster Palomar 5",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2309.03415",
-        "img": "wang23c.png"
-    },
+  "Wang23c": {
+    "author": "Long Wang, Mark Gieles, Holger Baumgardt, Chengyuan Li, Xiaoying Pang, et al.",
+    "title": "The influence of black holes on the binary population of the globular cluster Palomar 5",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "527",
+    "pages": "7495",
+    "url": "https://arxiv.org/abs/2309.03415",
+    "img": "wang23c.png"
+  },
     "Zhang23b": {
         "author": "Shan Zhang, Gaochao Liu, Yang Huang, Zongfei Lv, Sarah Ann Bird, et al.",
         "title": "Probing the Galactic halo with RR Lyrae stars - IV. On the Oosterhoff dichotomy of RR Lyrae stars",
@@ -6139,66 +6139,66 @@
         "url": "https://arxiv.org/abs/2309.02828",
         "img": "zhang23b.png"
     },
-    "Tisserand23a": {
-        "author": "P. Tisserand, C. L. Crawford, J. Soon, G. C. Clayton, A. J. Ruiter, et al.",
-        "title": "HdC and EHe stars through the prism of Gaia DR3: 3D distribution and Gaia's chromatic PSF effects",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2309.10148",
-        "img": "tisserand23a.png"
-    },
-    "Schulreich23a": {
-        "author": "Michael Mathias Schulreich, Jenny Feige, & Dieter Breitschwerdt",
-        "title": "Numerical studies on the link between radioisotopic signatures on Earth and the formation of the Local Bubble. II. Advanced modeling of interstellar 26Al, 53Mn, 60Fe, and 244Pu influxes as traces of past supernovae in the solar neighborhood",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2309.13983",
-        "img": "schulreich23a.png"
-    },
-    "Dovgal23a": {
-        "author": "Anya Dovgal, Kim A. Venn, Federico Sestito, Christian R. Hayes, Alan W. McConnachie, et al.",
-        "title": "Probing the early Milky Way with GHOST spectra of an extremely metal-poor star in the Galactic disk",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.03075",
-        "img": "dovgal23a.png"
-    },
-    "Li23b": {
-        "author": "Xin Li, Peng Yang, Hai-Feng Wang, Qing Li, Yang-Ping Luo, et al.",
-        "title": "Asymmetric Drift Map of the Milky Way disk Populations between 8$-$16 kpc with LAMOST and Gaia datasets",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.01311",
-        "img": "li23b.png"
-    },
-    "Rampalli23a": {
-        "author": "Rayna Rampalli, Amy Smock, Elisabeth R. Newton, Kathryne J. Daniel, & Jason L. Curtis",
-        "title": "Wrinkles in Time -- I: Rapid Rotators Found in High Eccentricity Orbits",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.02305",
-        "img": "rampalli23a.png"
-    },
-    "Korol23a": {
-        "author": "Valeriya Korol, Andrei P. Igoshev, Silvia Toonen, Nikolaos Karnesis, Christopher J. Moore, et al.",
-        "title": "Neutron Star - White Dwarf Binaries: Probing Formation Pathways and Natal Kicks with LISA",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.06559",
-        "img": "korol23a.png"
-    },
+  "Tisserand23a": {
+    "author": "P. Tisserand, C. L. Crawford, J. Soon, G. C. Clayton, A. J. Ruiter, et al.",
+    "title": "HdC and EHe stars through the prism of Gaia DR3. 3D distribution and Gaia's chromatic PSF effects",
+    "year": "2024",
+    "journal": "Astron. & Astrophys.",
+    "volume": "684",
+    "pages": "A131",
+    "url": "https://arxiv.org/abs/2309.10148",
+    "img": "tisserand23a.png"
+  },
+  "Schulreich23a": {
+    "author": "M. M. Schulreich, J. Feige, & D. Breitschwerdt",
+    "title": "Numerical studies on the link between radioisotopic signatures on Earth and the formation of the Local Bubble. II. Advanced modelling of interstellar <SUP>26</SUP>Al, <SUP>53</SUP>Mn, <SUP>60</SUP>Fe, and <SUP>244</SUP>Pu influxes as traces of past supernova activity in the solar neighbourhood",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "680",
+    "pages": "A39",
+    "url": "https://arxiv.org/abs/2309.13983",
+    "img": "schulreich23a.png"
+  },
+  "Dovgal23a": {
+    "author": "Anya Dovgal, Kim A. Venn, Federico Sestito, Christian R. Hayes, Alan W. McConnachie, et al.",
+    "title": "Probing the early Milky Way with GHOST spectra of an extremely metal-poor star in the Galactic disc",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "527",
+    "pages": "7810",
+    "url": "https://arxiv.org/abs/2310.03075",
+    "img": "dovgal23a.png"
+  },
+  "Li23b": {
+    "author": "Xin Li, Peng Yang, Hai-Feng Wang, Qing Li, Yang-Ping Luo, et al.",
+    "title": "Asymmetric Drift Map of the Milky Way Disk Populations between 8 -16 kpc with LAMOST and Gaia datasets",
+    "year": "2024",
+    "journal": "The Open Journal of Astrophysics",
+    "volume": "7",
+    "pages": "37",
+    "url": "https://arxiv.org/abs/2310.01311",
+    "img": "li23b.png"
+  },
+  "Rampalli23a": {
+    "author": "Rayna Rampalli, Amy Smock, Elisabeth R. Newton, Kathryne J. Daniel, & Jason L. Curtis",
+    "title": "Wrinkles in Time. I. Rapid Rotators Found in High-eccentricity Orbits",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "958",
+    "pages": "76",
+    "url": "https://arxiv.org/abs/2310.02305",
+    "img": "rampalli23a.png"
+  },
+  "Korol23a": {
+    "author": "Valeriya Korol, Andrei P. Igoshev, Silvia Toonen, Nikolaos Karnesis, Christopher J. Moore, et al.",
+    "title": "Neutron star - white dwarf binaries: probing formation pathways and natal kicks with LISA",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "530",
+    "pages": "844",
+    "url": "https://arxiv.org/abs/2310.06559",
+    "img": "korol23a.png"
+  },
     "Xu23b": {
         "author": "Yi Xu, Masami Ouchi, Kimihiko Nakajima, Yuichi Harikane, Yuki Isobe, et al.",
         "title": "Stellar and AGN Feedback Probed with Outflows in JWST Galaxies at z=3-9: Implications of Frequent Nearly-Spherical Galactic Fountains",
@@ -6209,206 +6209,206 @@
         "url": "https://arxiv.org/abs/2310.06614",
         "img": "xu23b.png"
     },
-    "Grondin23a": {
-        "author": "Steffani M. Grondin, Jeremy J. Webb, James M. M. Lane, Joshua S. Speagle, & Nathan W. C. Leigh",
-        "title": "A catalogue of Galactic GEMS: Globular cluster Extra-tidal Mock Stars",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.09331",
-        "img": "grondin23a.png"
-    },
-    "Gran23a": {
-        "author": "F. Gran, G. Kordopatis, M. Zoccali, V. Hill, I. Saviane, et al.",
-        "title": "The treasure behind the haystack: MUSE analysis of five recently discovered globular clusters",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.09868",
-        "img": "gran23a.png"
-    },
-    "Guo23a": {
-        "author": "Rui Guo, Zhao-Yu Li, Juntai Shen, Shude Mao, & Chao Liu",
-        "title": "Measuring the Milky Way Vertical Potential with the Phase Snail in a Model Independent Way",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.10225",
-        "img": "guo23a.png"
-    },
-    "Jones23a": {
-        "author": "Sinclaire E. Jones, Gudmundur Stefansson, Kento Masuda, Jessica E. Libby-Roberts, Cristilyn N. Gardner, et al.",
-        "title": "TOI-2015b: A Warm Neptune with Transit Timing Variations Orbiting an Active mid M Dwarf",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.11775",
-        "img": "jones23a.png"
-    },
-    "Yontan23c": {
-        "author": "T. Yontan & R. Canbay",
-        "title": "Comprehensive Analysis of the Open Cluster Collinder 74",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.13582",
-        "img": "yontan23c.png"
-    },
-    "Taibi23a": {
-        "author": "S. Taibi, M. S. Pawlowski, S. Khoperskov, M. Steinmetz, & N. I. Libeskind",
-        "title": "A portrait of the Vast Polar Structure as a young phenomenon: hints from its member satellites",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.13521",
-        "img": "taibi23a.png"
-    },
-    "Manea23a": {
-        "author": "Catherine Manea, Keith Hawkins, Melissa K. Ness, Sven Buder, Sarah L. Martell, et al.",
-        "title": "Chemical Doppelgangers in GALAH DR3: the Distinguishing Power of Neutron-Capture Elements Among Milky Way Disk Stars",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.15257",
-        "img": "manea23a.png"
-    },
-    "Posch23a": {
-        "author": "L. Posch, N. Miret-Roig, J. Alves, S. Ratzenböck, J. Großschedl, et al.",
-        "title": "The Corona Australis star formation complex is accelerating away from the Galactic plane",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.14373",
-        "img": "posch23a.png"
-    },
-    "Rasskazov23a": {
-        "author": "Alexander Rasskazov & Roman R. Rafikov",
-        "title": "Orbital evolution of LIGO/Virgo binaries in stellar clusters driven by cluster tides, stellar encounters and general relativity",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.15374",
-        "img": "rasskazov23a.png"
-    },
-    "Placco23a": {
-        "author": "Vinicius M. Placco, Felipe Almeida-Fernandes, Erika M. Holmbeck, Ian U. Roederer, Mohammad K. Mardini, et al.",
-        "title": "SPLUS J142445.34-254247.1: An R-Process Enhanced, Actinide-Boost, Extremely Metal-Poor star observed with GHOST",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.17024",
-        "img": "placco23a.png"
-    },
-    "Jurado23a": {
-        "author": "Carlos Jurado, Smadar Naoz, Casey Y. Lam, & Bao-Minh Hoang",
-        "title": "Natal Kicks from the Galactic Center and Implications on their Environment and the Roman Space Telescope",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.17707",
-        "img": "jurado23a.png"
-    },
-    "Ripepi23a": {
-        "author": "V. Ripepi, G. Catanzaro, E. Trentin, O. Straniero, A. Mucciarelli, et al.",
-        "title": "First spectroscopic investigation of Anomalous Cepheid variables",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.20503",
-        "img": "ripepi23a.png"
-    },
-    "Han23a": {
-        "author": "Te Han, Paul Robertson, Shubham Kanodia, Caleb Cañas, Andrea S. J. Lin, et al.",
-        "title": "TOI-5344 b: A Saturn-like planet orbiting a super-Solar metallicity M0 dwarf",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.20634",
-        "img": "han23a.png"
-    },
-    "Gokmen23a": {
-        "author": "S. Gokmen, Z. Eker, T. Yontan, S. Bilir, T. Ak, et al.",
-        "title": "CCD UBV and Gaia DR3 Analyses of Open Clusters King 6 and NGC 1605",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2311.00054",
-        "img": "gokmen23a.png"
-    },
-    "Andrade23a": {
-        "author": "Kevin E. Andrade, Manoj Kaplinghat, & Mauro Valli",
-        "title": "Halo Densities and Pericenter Distances of the Bright Milky Way Satellites as a Test of Dark Matter Physics",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2311.01528",
-        "img": "andrade23a.png"
-    },
-    "Liu23a": {
-        "author": "Shuai Liu, Long Wang, Yi-Ming Hu, Ataru Tanikawa, & Alessandro A. Trani",
-        "title": "Merging Hierarchical Triple Black Hole Systems with Intermediate-mass Black Holes in Population III Star Clusters",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2311.05393",
-        "img": "liu23a.png"
-    },
-    "Hammer23a": {
-        "author": "Francois Hammer, Jianling Wang, Gary A. Mamon, Marcel S. Pawlowski, Yanbin Yang, et al.",
-        "title": "The accretion history of the Milky Way. II. Internal kinematics of globular clusters and of dwarf galaxies",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2311.05677",
-        "img": "hammer23a.png"
-    },
-    "Pelkonen23a": {
-        "author": "V. -M. Pelkonen, N. Miret-Roig, & P. Padoan",
-        "title": "Evaporation Ages: a New Dating Method for Young Star Clusters",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2311.08363",
-        "img": "pelkonen23a.png"
-    },
-    "Tanikawa23a": {
-        "author": "Ataru Tanikawa, Savannah Cary, Minori Shikauchi, Long Wang, & Michiko S. Fujii",
-        "title": "Compact Binary Formation in Open Star Clusters I: High Formation Efficiency of Gaia BHs and Their Multiplicities",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2303.05743",
-        "img": "tanikawa23a.png"
-    },
-    "Carrillo23a": {
-        "author": "Andreia Carrillo, Alis J. Deason, Azadeh Fattahi, Thomas M. Callingham, & Robert J. J. Grand",
-        "title": "Can we really pick and choose? Benchmarking various selections of Gaia Enceladus/Sausage stars in observations with simulations",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2306.00770",
-        "img": "carrillo23a.png"
-    },
+  "Grondin23a": {
+    "author": "Steffani M. Grondin, Jeremy J. Webb, James M. M. Lane, Joshua S. Speagle, & Nathan W. C. Leigh",
+    "title": "A catalogue of Galactic GEMS: Globular cluster Extra-tidal Mock Stars",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "528",
+    "pages": "5189",
+    "url": "https://arxiv.org/abs/2310.09331",
+    "img": "grondin23a.png"
+  },
+  "Gran23a": {
+    "author": "F. Gran, G. Kordopatis, M. Zoccali, V. Hill, I. Saviane, et al.",
+    "title": "The treasure behind the haystack: MUSE analysis of five recently discovered globular clusters",
+    "year": "2024",
+    "journal": "Astron. & Astrophys.",
+    "volume": "683",
+    "pages": "A167",
+    "url": "https://arxiv.org/abs/2310.09868",
+    "img": "gran23a.png"
+  },
+  "Guo23a": {
+    "author": "Rui Guo, Zhao-Yu Li, Juntai Shen, Shude Mao, & Chao Liu",
+    "title": "Measuring the Milky Way Vertical Potential with the Phase Snail in a Model-independent Way",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "960",
+    "pages": "133",
+    "url": "https://arxiv.org/abs/2310.10225",
+    "img": "guo23a.png"
+  },
+  "Jones23a": {
+    "author": "Sinclaire E. Jones, Guđmundur Stefánsson, Kento Masuda, Jessica E. Libby-Roberts, Cristilyn N. Gardner, et al.",
+    "title": "TOI-2015 b: A Warm Neptune with Transit Timing Variations Orbiting an Active Mid-type M Dwarf",
+    "year": "2024",
+    "journal": "Astron. J.",
+    "volume": "168",
+    "pages": "93",
+    "url": "https://arxiv.org/abs/2310.11775",
+    "img": "jones23a.png"
+  },
+  "Yontan23c": {
+    "author": "Talar Yontan & Remziye Canbay",
+    "title": "Comprehensive Analysis of the Open Cluster Collinder 74",
+    "year": "2023",
+    "journal": "Physics and Astronomy Reports",
+    "volume": "1",
+    "pages": "65",
+    "url": "https://arxiv.org/abs/2310.13582",
+    "img": "yontan23c.png"
+  },
+  "Taibi23a": {
+    "author": "S. Taibi, M. S. Pawlowski, S. Khoperskov, M. Steinmetz, & N. I. Libeskind",
+    "title": "A portrait of the vast polar structure as a young phenomenon: Hints from its member satellites",
+    "year": "2024",
+    "journal": "Astron. & Astrophys.",
+    "volume": "681",
+    "pages": "A73",
+    "url": "https://arxiv.org/abs/2310.13521",
+    "img": "taibi23a.png"
+  },
+  "Manea23a": {
+    "author": "Catherine Manea, Keith Hawkins, Melissa K. Ness, Sven Buder, Sarah L. Martell, et al.",
+    "title": "Chemical Doppelgangers in GALAH DR3: The Distinguishing Power of Neutron-capture Elements among Milky Way Disk Stars",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "972",
+    "pages": "69",
+    "url": "https://arxiv.org/abs/2310.15257",
+    "img": "manea23a.png"
+  },
+  "Posch23a": {
+    "author": "Laura Posch, Núria Miret-Roig, João Alves, Sebastian Ratzenböck, Josefa Großschedl, et al.",
+    "title": "The Corona Australis star formation complex is accelerating away from the Galactic plane",
+    "year": "2023",
+    "journal": "Astron. & Astrophys.",
+    "volume": "679",
+    "pages": "L10",
+    "url": "https://arxiv.org/abs/2310.14373",
+    "img": "posch23a.png"
+  },
+  "Rasskazov23a": {
+    "author": "Alexander Rasskazov & Roman R. Rafikov",
+    "title": "Orbital evolution of LIGO/Virgo binaries in stellar clusters driven by cluster tides, stellar encounters, and general relativity",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "532",
+    "pages": "805",
+    "url": "https://arxiv.org/abs/2310.15374",
+    "img": "rasskazov23a.png"
+  },
+  "Placco23a": {
+    "author": "Vinicius M. Placco, Felipe Almeida-Fernandes, Erika M. Holmbeck, Ian U. Roederer, Mohammad K. Mardini, et al.",
+    "title": "SPLUS J142445.34-254247.1: An r-process-enhanced, Actinide-boost, Extremely Metal-poor Star Observed with GHOST",
+    "year": "2023",
+    "journal": "Astrophys. J.",
+    "volume": "959",
+    "pages": "60",
+    "url": "https://arxiv.org/abs/2310.17024",
+    "img": "placco23a.png"
+  },
+  "Jurado23a": {
+    "author": "Carlos Jurado, Smadar Naoz, Casey Y. Lam, & Bao-Minh Hoang",
+    "title": "Natal Kicks from the Galactic Center and Implications on Their Environment and for the Nancy Grace Roman Space Telescope",
+    "year": "2024",
+    "journal": "Astrophys. J.",
+    "volume": "971",
+    "pages": "95",
+    "url": "https://arxiv.org/abs/2310.17707",
+    "img": "jurado23a.png"
+  },
+  "Ripepi23a": {
+    "author": "V. Ripepi, G. Catanzaro, E. Trentin, O. Straniero, A. Mucciarelli, et al.",
+    "title": "First spectroscopic investigation of anomalous Cepheid variables",
+    "year": "2024",
+    "journal": "Astron. & Astrophys.",
+    "volume": "682",
+    "pages": "A1",
+    "url": "https://arxiv.org/abs/2310.20503",
+    "img": "ripepi23a.png"
+  },
+  "Han23a": {
+    "author": "Te Han, Paul Robertson, Shubham Kanodia, Caleb Cañas, Andrea S. J. Lin, et al.",
+    "title": "TOI-5344 b: A Saturn-like Planet Orbiting a Super-solar Metallicity M0 Dwarf",
+    "year": "2024",
+    "journal": "Astron. J.",
+    "volume": "167",
+    "pages": "4",
+    "url": "https://arxiv.org/abs/2310.20634",
+    "img": "han23a.png"
+  },
+  "Gokmen23a": {
+    "author": "Sevinc Gokmen, Zeki Eker, Talar Yontan, Selçuk Bilir, Tansel Ak, et al.",
+    "title": "CCD UBV and Gaia DR3 Analyses of the Open Clusters King 6 and NGC 1605",
+    "year": "2023",
+    "journal": "Astron. J.",
+    "volume": "166",
+    "pages": "263",
+    "url": "https://arxiv.org/abs/2311.00054",
+    "img": "gokmen23a.png"
+  },
+  "Andrade23a": {
+    "author": "Kevin E. Andrade, Manoj Kaplinghat, & Mauro Valli",
+    "title": "Halo densities and pericenter distances of the bright Milky Way satellites as a test of dark matter physics",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "532",
+    "pages": "4157",
+    "url": "https://arxiv.org/abs/2311.01528",
+    "img": "andrade23a.png"
+  },
+  "Liu23a": {
+    "author": "Shuai Liu, Long Wang, Yi-Ming Hu, Ataru Tanikawa, & Alessandro A. Trani",
+    "title": "Merging hierarchical triple black hole systems with intermediate-mass black holes in population III star clusters",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "533",
+    "pages": "2262",
+    "url": "https://arxiv.org/abs/2311.05393",
+    "img": "liu23a.png"
+  },
+  "Hammer23a": {
+    "author": "Francois Hammer, Jianling Wang, Gary A. Mamon, Marcel S. Pawlowski, Yanbin Yang, et al.",
+    "title": "The accretion history of the Milky Way - II. Internal kinematics of globular clusters and of dwarf galaxies",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "527",
+    "pages": "2718",
+    "url": "https://arxiv.org/abs/2311.05677",
+    "img": "hammer23a.png"
+  },
+  "Pelkonen23a": {
+    "author": "V. -M. Pelkonen, N. Miret-Roig, & P. Padoan",
+    "title": "Evaporation ages: A new dating method for young star clusters",
+    "year": "2024",
+    "journal": "Astron. & Astrophys.",
+    "volume": "683",
+    "pages": "A165",
+    "url": "https://arxiv.org/abs/2311.08363",
+    "img": "pelkonen23a.png"
+  },
+  "Tanikawa23a": {
+    "author": "Ataru Tanikawa, Savannah Cary, Minori Shikauchi, Long Wang, & Michiko S. Fujii",
+    "title": "Compact binary formation in open star clusters - I. High formation efficiency of Gaia BHs and their multiplicities",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "527",
+    "pages": "4031",
+    "url": "https://arxiv.org/abs/2303.05743",
+    "img": "tanikawa23a.png"
+  },
+  "Carrillo23a": {
+    "author": "Andreia Carrillo, Alis J. Deason, Azadeh Fattahi, Thomas M. Callingham, & Robert J. J. Grand",
+    "title": "Can we really pick and choose? Benchmarking various selections of Gaia Enceladus/Sausage stars in observations with simulations",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "527",
+    "pages": "2165",
+    "url": "https://arxiv.org/abs/2306.00770",
+    "img": "carrillo23a.png"
+  },
     "Wang23d": {
         "author": "Kaile Wang, Andreia Carrillo, Melissa K. Ness, & Tobias Buck",
         "title": "The individual abundance distributions of disc stars across birth radii in GALAH",
@@ -6419,16 +6419,16 @@
         "url": "https://arxiv.org/abs/2307.04724",
         "img": "wang23a.png"
     },
-    "Schiavon23a": {
-        "author": "Ricardo P. Schiavon, Siân G. Phillips, Natalie Myers, Danny Horta, Dante Minniti, et al.",
-        "title": "The APOGEE Value Added Catalogue of Galactic globular cluster stars",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.07764",
-        "img": "schiavon23a.png"
-    },
+  "Schiavon23a": {
+    "author": "Ricardo P. Schiavon, Siân G. Phillips, Natalie Myers, Danny Horta, Dante Minniti, et al.",
+    "title": "The APOGEE value-added catalogue of Galactic globular cluster stars",
+    "year": "2024",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "528",
+    "pages": "1393",
+    "url": "https://arxiv.org/abs/2310.07764",
+    "img": "schiavon23a.png"
+  },
     "Gaspari23a": {
         "author": "Nicola Gaspari, Andrew J. Levan, Ashley A. Chrimes, & Gijs Nelemans",
         "title": "The Galactic neutron star population II -- Systemic velocities and merger locations of binary neutron stars",

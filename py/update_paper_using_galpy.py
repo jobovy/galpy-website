@@ -58,17 +58,17 @@ def update_paper_using_galpy(paper_id=None,debug=False):
             print("Paper does not seem to have been published yet, skipping ...")
         return None
     # Create new entry
-    new_entry= build_and_edit_new_entry(ads_paper,paper_id,arxiv_id)
+    new_entry= build_and_edit_new_entry(ads_paper,paper_id,arxiv_id,False) #False: id_is_bibcode
     print("Updating entry {}".format(arxiv_id))
     num_lines= sum(1 for line in open(os.path.join(_PAPERS_FILE_DIR,'papers-using-galpy.json')))
     with open(os.path.join(_PAPERS_FILE_DIR,'papers-using-galpy.json'),'r') as jsonFile:
         contents= jsonFile.readlines()
     # Find and delete current entry
-    line_no= [line == '  "{}": {{\n'.format(paper_id) for line in contents].index(True)
+    line_no= [line == '    "{}": {{\n'.format(paper_id) for line in contents].index(True)
     for ii in range(10):
         contents.pop(line_no)
-    # Insert new entry
-    pretty_print_new_entry(arxiv_id,paper_id,new_entry,
+    # Insert new entry (False: id_is_bibcode)
+    pretty_print_new_entry(arxiv_id,paper_id,new_entry,False,
                             print_func=lambda x: contents.insert(line_no+10-num_lines,x+'\n'))
     with open(os.path.join(_PAPERS_FILE_DIR,'papers-using-galpy.json'),'w') as jsonFile:
         jsonFile.writelines(contents)
