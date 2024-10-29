@@ -4,8 +4,11 @@
 #
 #                           Run as python add_paper_using_galpy.py [arxiv_id]
 #
+#                           Note that arxiv_id can also be an ADS bibcode
+#
 import sys
 import os, os.path
+import urllib.parse
 import shutil
 import glob
 import re
@@ -30,7 +33,7 @@ def build_internal_id(ads_paper,papers_data):
     internal_id= ads_paper.author[0].split(',')[0]+ads_paper.year[-2:]
     internal_id= re.sub('[^A-Za-z0-9]+', '',internal_id) # remove special char
     for letter in _ALPHABET:
-        if not internal_id+letter in papers_data.keys():
+        if internal_id+letter not in papers_data.keys():
             internal_id+= letter
             break
     return internal_id
@@ -67,14 +70,14 @@ def parse_authors(authors):
 def parse_journal(pub):
     return _JOURNAL_ABBREV.get(pub,pub)
 
-def build_and_edit_new_entry(ads_paper,internal_id,arxiv_id):
+def build_and_edit_new_entry(ads_paper,internal_id,arxiv_id,id_is_bibcode):
     new_entry= {'author': parse_authors(ads_paper.author),
                 'title': ads_paper.title[0],
                 'year': ads_paper.year,
                 'journal': parse_journal(ads_paper.pub),
-                'volume': ads_paper.volume if not ads_paper.volume is None else "",
+                'volume': ads_paper.volume if ads_paper.volume is not None else "",
                 'pages': ads_paper.page[0] if not ads_paper.page[0].startswith('arXiv') else ""}
-    pretty_print_new_entry(arxiv_id,internal_id,new_entry)
+    pretty_print_new_entry(arxiv_id,internal_id,new_entry,id_is_bibcode)
     write_output= input('Looks good? [Y/n] ')
     write_output= write_output == '' or write_output.lower() == 'y'
     if not write_output:
@@ -86,7 +89,7 @@ def build_and_edit_new_entry(ads_paper,internal_id,arxiv_id):
                 entry_edit= input('What do you want to field to say? ')
                 new_entry[entry_to_edit]= entry_edit
                 print('Okay, new entry is ')
-                pretty_print_new_entry(arxiv_id,internal_id,new_entry)
+                pretty_print_new_entry(arxiv_id,internal_id,new_entry,id_is_bibcode)
                 looks_good= input('Looks good? [Y/n] ')
                 looks_good= looks_good == '' or looks_good.lower() == 'y'
                 if looks_good: break
@@ -95,7 +98,7 @@ def build_and_edit_new_entry(ads_paper,internal_id,arxiv_id):
             sys.exit(-1)
     return new_entry
 
-def pretty_print_new_entry(arxiv_id,internal_id,entry,
+def pretty_print_new_entry(arxiv_id,internal_id,entry,id_is_bibcode,
                            print_func=print):
     print_func('  "{}": {{'.format(internal_id))
     print_func('    "author": "{}",'.format(entry['author']))
@@ -104,30 +107,35 @@ def pretty_print_new_entry(arxiv_id,internal_id,entry,
     print_func('    "journal": "{}",'.format(entry['journal']))
     print_func('    "volume": "{}",'.format(entry['volume']))
     print_func('    "pages": "{}",'.format(entry['pages']))
-    print_func('    "url": "https://arxiv.org/abs/{}",'.format(arxiv_id))
+    print_func('    "url": "{}",'.format(f"http://ui.adsabs.harvard.edu/abs/{urllib.parse.quote_plus(arxiv_id)}" 
+                                         if id_is_bibcode else f"https://arxiv.org/abs/{arxiv_id}"))
     print_func('    "img": "{}.png"'.format(internal_id.lower()))
     print_func('  },')
     return None
 
 def add_paper_using_galpy(arxiv_id):
-    # Read current file
+    # Check whether we've been given an arxiv id or a bibcode
+    id_is_bibcode = len(arxiv_id) == 19
+    # Read current file and check for duplicates using possible URLs
     with open(os.path.join(_PAPERS_FILE_DIR,'papers-using-galpy.json'),'r') as jsonFile:
         papers_data= json.load(jsonFile)
-    duplicate= numpy.any([papers_data[p]['url'] == 'https://arxiv.org/abs/{}'.format(arxiv_id)
-                          for p in papers_data.keys()])
+    duplicate= numpy.any([papers_data[p]['url'] == f'https://arxiv.org/abs/{arxiv_id}'
+                            for p in papers_data.keys()])
+    duplicate+= numpy.any([papers_data[p]['url'] == f'http://arxiv.org/abs/{arxiv_id}'
+                            for p in papers_data.keys()])
+    duplicate+= numpy.any([papers_data[p]['url'] == f'http://adsabs.harvard.edu/abs/{urllib.parse.quote_plus(arxiv_id)}'
+                            for p in papers_data.keys()])
+    duplicate+= numpy.any([papers_data[p]['url'] == f'http://ui.adsabs.harvard.edu/abs/{urllib.parse.quote_plus(arxiv_id)}'
+                            for p in papers_data.keys()])
     if duplicate:
-        print("This appears to be a duplicate of an existing entry:")
-        dup_indx= [papers_data[p]['url'] == 'https://arxiv.org/abs/{}'.format(arxiv_id)
-                   for p in papers_data.keys()].index(True)
-        print(json.dumps(papers_data[list(papers_data.keys())[dup_indx]],
-                         indent=4,separators=(',', ': ')).replace('\\n','\n'))
-        cont= input("Continue? [y/N] ")
-        cont= cont.lower() == 'y'
-        if not cont: 
-            print("Okay, aborting then...")
-            sys.exit(-1)
+        print("This appears to be a duplicate of an existing entry, aborting...")
+        sys.exit(-1)
     # Find paper on ADS
-    if True:
+    if id_is_bibcode:
+        ads_paper= list(ads.SearchQuery(bibcode=arxiv_id,
+                                        fl=['author','title','year',
+                                            'pub','volume','page']))[0]
+    elif True:
         ads_paper= list(ads.SearchQuery(arxiv=arxiv_id,
                                         fl=['author','title','year',
                                             'pub','volume','page']))[0]
@@ -143,7 +151,7 @@ def add_paper_using_galpy(arxiv_id):
                 self.page= ['2339']
         ads_paper= ads_paper_example()
     internal_id= build_internal_id(ads_paper,papers_data)
-    new_entry= build_and_edit_new_entry(ads_paper,internal_id,arxiv_id)
+    new_entry= build_and_edit_new_entry(ads_paper,internal_id,arxiv_id,id_is_bibcode)
     print("Adding entry {}".format(arxiv_id))
     # Move the screenshot in the right place
     done= input("""Now please take a screen shot of an example figure 
@@ -166,7 +174,7 @@ def add_paper_using_galpy(arxiv_id):
     num_lines= sum(1 for line in open(os.path.join(_PAPERS_FILE_DIR,'papers-using-galpy.json')))
     with open(os.path.join(_PAPERS_FILE_DIR,'papers-using-galpy.json'),'r+') as jsonFile:
         contents= jsonFile.readlines()
-        pretty_print_new_entry(arxiv_id,internal_id,new_entry,
+        pretty_print_new_entry(arxiv_id,internal_id,new_entry,id_is_bibcode,
                                print_func=lambda x: contents.insert(-11,x+'\n'))
         jsonFile.seek(0)
         jsonFile.writelines(contents)
@@ -175,7 +183,7 @@ def add_paper_using_galpy(arxiv_id):
     
 if __name__ == '__main__':
     if len(sys.argv) == 1:
-        arxiv_id= input("Please provide an arxiv identifier: ")
+        arxiv_id= input("Please provide an arxiv identifier or an ADS bibcode: ")
     else:
         arxiv_id= sys.argv[1]
     add_paper_using_galpy(arxiv_id)

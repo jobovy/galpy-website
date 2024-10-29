@@ -97,16 +97,22 @@ def find_potential_papers(min_year,max_year):
         potential_papers.append(paper)
     return potential_papers
 
-def check_and_add_potential_paper(paper):
-    print(f"Processing {paper.bibcode} with arxiv id {paper.arxiv_id}")
+def check_and_add_potential_paper(paper,no_arxiv_id=False):
+    if no_arxiv_id:
+        print(f"Processing {paper.bibcode} without arxiv id")
+    else:
+        print(f"Processing {paper.bibcode} with arxiv id {paper.arxiv_id}")
     # Open the paper in the browser
-    os.system(f"open https://arxiv.org/pdf/{paper.arxiv_id}")
+    if no_arxiv_id:
+        os.system(f"open https://ui.adsabs.harvard.edu/abs/{urllib.parse.quote_plus(paper.bibcode)}")
+    else:
+        os.system(f"open https://arxiv.org/pdf/{paper.arxiv_id}")
     add_paper = input("Add paper? [y/N] ")
     add_paper= add_paper.lower() == 'y'
-    # If we want to add the paper, call add_paper_using_galpy.py with the arxiv ID
+    # If we want to add the paper, call add_paper_using_galpy.py with the arxiv ID / bibcode
     if add_paper:
         try:
-            subprocess.check_call(['python', 'add_paper_using_galpy.py', paper.arxiv_id])
+            subprocess.check_call(['python', 'add_paper_using_galpy.py', paper.bibcode if no_arxiv_id else paper.arxiv_id ])
         except subprocess.CalledProcessError:
             raise RuntimeError(f"Adding paper {paper.bibcode} with arxiv id {paper.arxiv_id} failed")
     else:
@@ -147,12 +153,13 @@ if __name__ == '__main__':
     print(f"\033[1mFound {len(potential_papers)} potential papers\033[0m")
     # Keep a list of papers with no arxiv ID so we can mention them for manual processing
     papers_without_arxiv_id = []
-    for paper in potential_papers:
+    for ii, paper in enumerate(potential_papers):
         if paper.arxiv_id is None:
             papers_without_arxiv_id.append(paper)
             continue
         check_and_add_potential_paper(paper)
+        print(f"\033[1m{len(potential_papers)-ii-1} papers left to process\033[0m")
     if len(papers_without_arxiv_id) > 0:
         print(f"\033[1mFound {len(papers_without_arxiv_id)} potential papers without arxiv ID\033[0m")
         for paper in papers_without_arxiv_id:
-            check_paper_no_arxivid(paper)
+            check_and_add_potential_paper(paper,no_arxiv_id=True)
