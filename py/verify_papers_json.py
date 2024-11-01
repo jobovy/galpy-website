@@ -1,6 +1,8 @@
 # verify_papers_json.py: verify that JSON structure of 
 # the file holding the papers using galpy
-import os, os.path
+import sys
+import os
+import os.path
 import json
 import urllib.request
 import warnings
@@ -49,6 +51,8 @@ if __name__ == '__main__':
         data= json.load(jsonfile,object_pairs_hook=dupe_checking_hook)
     print("Papers file contains {} publications"\
               .format(len(data)-1))
+    if len(sys.argv) > 1 and sys.argv[1] == 'count':
+        sys.exit(0)
     for key in tqdm.tqdm(data):
         verify_one_entry(data[key],key)
     
