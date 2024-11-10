@@ -8899,6 +8899,106 @@
     "url": "https://arxiv.org/abs/2408.14351",
     "img": "bisht24a.png"
   },
+  "Nibauer24a": {
+    "author": "Jacob Nibauer, Ana Bonaca, David N. Spergel, Adrian M. Price-Whelan, Jenny E. Greene, et al.",
+    "title": "StreamSculptor: Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2410.21174",
+    "img": "nibauer24a.png"
+  },
+  "Lim24a": {
+    "author": "Dongwook Lim, Sang-Hyun Chun, Young-Wook Lee, Chul Chung, Andreas J. Koch-Hansen, et al.",
+    "title": "Two stellar populations with different metallicities in the low-mass globular cluster Gran 5",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2410.21578",
+    "img": "lim24a.png"
+  },
+  "Gaspari24a": {
+    "author": "N. Gaspari, H. F. Stevance, A. J. Levan, A. A. Chrimes, & J. D. Lyman",
+    "title": "Binary neutron star merger offsets from their host galaxies. GW 170817 as a case study",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2410.19480",
+    "img": "gaspari24a.png"
+  },
+  "Zhang24d": {
+    "author": "YingHua Zhang, Jundan Nie, Hao Tian, & Chao Liu",
+    "title": "Assessing the Association between the Globular Cluster NGC 4147 and the Sagittarius Dwarf Galaxy",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2410.19365",
+    "img": "zhang24d.png"
+  },
+  "Pagnini24a": {
+    "author": "Giulia Pagnini, Paola Di Matteo, Misha Haywood, Alessandra Mastrobuono-Battisti, Florent Renaud, et al.",
+    "title": "Abundance ties: Nephele and the globular cluster population accreted with omega Cen. Based on APOGEE DR17 and Gaia EDR3",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2410.22479",
+    "img": "pagnini24a.png"
+  },
+  "Burgasser24b": {
+    "author": "Adam J. Burgasser, Adam C. Schneider, Aaron M. Meisner, Dan Caselden, Chih-Chun Hsu, et al.",
+    "title": "New Cold Subdwarf Discoveries from Backyard Worlds and a Metallicity Classification System for T Subdwarfs",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2411.01378",
+    "img": "burgasser24b.png"
+  },
+  "Plotnikova24a": {
+    "author": "Anastasiia Plotnikova, Lorenzo Spina, Bridget Ratcliffe, Giada Casali, & Giovanni Carraro",
+    "title": "The chemical evolution of the Milky Way thin disk using solar twins",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2411.03067",
+    "img": "plotnikova24a.png"
+  },
+  "Zhang24e": {
+    "author": "R. Zhang, Guo-Jian Wang, Yuxi, Lu, Sufen Guo, et al.",
+    "title": "When LAMOST meets Gaia DR3 Exploring the metallicity of open clusters",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2411.02743",
+    "img": "zhang24e.png"
+  },
+  "Lu24b": {
+    "author": "Yuxi Lu, Cecilia Mateu, & K. Z. Stanek",
+    "title": "The Dog that Didn't Bark: Non-Variable Field Stars in the RR Lyrae Instability Strip",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2411.02514",
+    "img": "lu24b.png"
+  },
+  "Qin24a": {
+    "author": "Songmei Qin, Jing Zhong, Tong Tang, Yueyue Jiang, Long Wang, et al.",
+    "title": "Unveiling the Binary Nature of NGC 2323",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2411.03787",
+    "img": "qin24a.png"
+  },
     "_template": {
         "author": "",
         "title": "",
