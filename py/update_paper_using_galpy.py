@@ -64,7 +64,11 @@ def update_paper_using_galpy(paper_id=None,debug=False):
     with open(os.path.join(_PAPERS_FILE_DIR,'papers-using-galpy.json'),'r') as jsonFile:
         contents= jsonFile.readlines()
     # Find and delete current entry
-    line_no= [line == '    "{}": {{\n'.format(paper_id) for line in contents].index(True)
+    print('    "{}": {{\n'.format(paper_id))
+    try: # We use a different number of spaces for the template, either 2 or 4 (4 was the old one, 2 the current one)
+        line_no= [line == '    "{}": {{\n'.format(paper_id) for line in contents].index(True)
+    except ValueError:
+        line_no= [line == '  "{}": {{\n'.format(paper_id) for line in contents].index(True)
     for ii in range(10):
         contents.pop(line_no)
     # Insert new entry (False: id_is_bibcode)
