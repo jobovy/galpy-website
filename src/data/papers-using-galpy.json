@@ -9209,6 +9209,456 @@
     "url": "http://ui.adsabs.harvard.edu/abs/2025MNRAS.536..174S",
     "img": "sheikh25a.png"
   },
+  "Scott25a": {
+    "author": "Madison G. Scott, Amaury H. M. J. Triaud, Khalid Barkaoui, Daniel Sebastian, Adam J. Burgasser, et al.",
+    "title": "TOI-6478 b: a cold under-dense Neptune transiting a fully convective M dwarf from the thick disc",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.06848",
+    "img": "scott25a.png"
+  },
+  "Swiggum25a": {
+    "author": "Cameren Swiggum, João Alves, & Elena D'Onghia",
+    "title": "From moving groups to star formation in the Solar Neighborhood",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.02825",
+    "img": "swiggum25a.png"
+  },
+  "Maconi25a": {
+    "author": "E. Maconi, J. Alves, C. Swiggum, S. Ratzenböck, J. Großschedl, et al.",
+    "title": "The Solar System's passage through the Radcliffe wave during the middle Miocene",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "694",
+    "pages": "A167",
+    "url": "https://arxiv.org/abs/2502.16360",
+    "img": "maconi25a.png"
+  },
+  "Buder24a": {
+    "author": "S. Buder, J. Kos, E. X. Wang, M. McKenzie, M. Howell, et al.",
+    "title": "The GALAH Survey: Data Release 4",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2409.19858",
+    "img": "buder24a.png"
+  },
+  "Medina25a": {
+    "author": "Gustavo E. Medina, Ting S. Li, Sergey E. Koposov, A. H. Riley, L. Beraldo e Silva, et al.",
+    "title": "The DESI Y1 RR Lyrae catalog I: Empirical modeling of the cyclic variation of spectroscopic properties and a chemodynamical analysis of the outer halo",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.02924",
+    "img": "medina25a.png"
+  },
+  "MiretRoig25a": {
+    "author": "N. Miret-Roig, J. Alves, S. Ratzenböck, P. A. B. Galli, H. Bouy, et al.",
+    "title": "The TW Hydrae Association is a cluster chain of Sco-Cen",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "694",
+    "pages": "A60",
+    "url": "https://arxiv.org/abs/2501.11716",
+    "img": "miretroig25a.png"
+  },
+  "Liu25a": {
+    "author": "Penghui Liu, Min Fang, Yue-Lin Sming Tsai, Xiaoying Pang, Fan Wang, et al.",
+    "title": "Revisiting open clusters within 200 pc in the solar neighbourhood with Gaia DR3",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.08179",
+    "img": "liu25a.png"
+  },
+  "Laversveiler25a": {
+    "author": "Marco Laversveiler, Denise R. Gonçalves, Helio J. Rocha-Pinto, & Jaroslav Merc",
+    "title": "The Local Group Symbiotic Star Population and its Tenuous Link with Type Ia Supernovae",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.02090",
+    "img": "laversveiler25a.png"
+  },
+  "Dantas25a": {
+    "author": "M. L. L. Dantas, R. Smiljanic, R. S. de Souza, P. B. Tissera, & L. Magrini",
+    "title": "Probing the Origins I: Generalised Additive Model inference of birth radii for Milky Way stars in the solar vicinity",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2502.20441",
+    "img": "dantas25a.png"
+  },
+  "DOrazi25a": {
+    "author": "V. D'Orazi, V. Braga, G. Bono, M. Fabrizio, G. Fiorentino, et al.",
+    "title": "The elderly among the oldest: new evidence for extremely metal-poor RR Lyrae stars",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "694",
+    "pages": "A158",
+    "url": "https://arxiv.org/abs/2501.05807",
+    "img": "dorazi25a.png"
+  },
+  "Distler25a": {
+    "author": "Adam Distler, Melinda Soares-Furtado, Andrew Vanderburg, Jack Schulte, Juliette Becker, et al.",
+    "title": "TESS Hunt for Young and Maturing Exoplanets (THYME). XII. A Young Mini-Neptune on the Upper Edge of the Radius Valley in the Hyades Cluster",
+    "year": "2025",
+    "journal": "Astron. J.",
+    "volume": "169",
+    "pages": "166",
+    "url": "https://arxiv.org/abs/2410.11990",
+    "img": "distler25a.png"
+  },
+  "Kuzma25a": {
+    "author": "P. B. Kuzma & M. N. Ishigaki",
+    "title": "A pristine view of galactic globular clusters and their peripheries: Omega Centauri",
+    "year": "2025",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "537",
+    "pages": "2752",
+    "url": "https://arxiv.org/abs/2502.01135",
+    "img": "kuzma25a.png"
+  },
+  "daSilva25a": {
+    "author": "A. R. da Silva & R. Smiljanic",
+    "title": "Discovery of a pair of very metal-poor stars enriched in neutron-capture elements: The proto-disk r-II star BPS CS 29529-0089 and the Gaia-Sausage-Enceladus r-I star TYC 9219-2422-1",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "696",
+    "pages": "A122",
+    "url": "https://arxiv.org/abs/2503.04926",
+    "img": "dasilva25a.png"
+  },
+  "Nibauer25a": {
+    "author": "Jacob Nibauer & Ana Bonaca",
+    "title": "Galactic Accelerations from the GD-1 Stream Suggest a Tilted Dark Matter Halo",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.07187",
+    "img": "nibauer25a.png"
+  },
+  "Zucker25a": {
+    "author": "Catherine Zucker, Seth Redfield, Sara Starecheski, Ralf Konietzka, & Jeffrey L. Linsky",
+    "title": "The Origin of the Cluster of Local Interstellar Clouds",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.00093",
+    "img": "zucker25a.png"
+  },
+  "Haroon25a": {
+    "author": "Aly Haroon, Waleed Elsanhoury, Essam Elkholy, Abdel naby Saad, & Deniz Cennet Cinar",
+    "title": "Study of Open Star Clusters Using the Gaia DR3: I- Poorly Studied King 2 and King 5",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2503.07730",
+    "img": "haroon25a.png"
+  },
+  "Ou25a": {
+    "author": "Xiaowei Ou, Lina Necib, Andrew Wetzel, Anna Frebel, Jeremy Bailin, et al.",
+    "title": "Decoding the Galactic Twirl: The Downfall of Milky Way-mass Galaxies Rotation Curves in the FIRE Simulations",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2503.05877",
+    "img": "ou25a.png"
+  },
+  "Risbud25a": {
+    "author": "Dhanraj Risbud, Vikrant V. Jadhav, & Pavel Kroupa",
+    "title": "Tidal tails of nearby open clusters: I. Mapping with Gaia DR3",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "694",
+    "pages": "A258",
+    "url": "https://arxiv.org/abs/2501.17225",
+    "img": "risbud25a.png"
+  },
+  "Tsantaki25a": {
+    "author": "M. Tsantaki, L. Magrini, C. Danielski, D. Bossini, D. Turrini, et al.",
+    "title": "Ariel stellar characterisation III. Fast rotators and new FGK stars in the Ariel Mission Candidate Sample",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2502.20950",
+    "img": "tsantaki25a.png"
+  },
+  "Liu25b": {
+    "author": "Xiaochen Liu, Zhihong He, Yangping Luo, & Kun Wang",
+    "title": "The disrupting and growing open cluster spiral arm patterns of the Milky Way",
+    "year": "2025",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "537",
+    "pages": "2403",
+    "url": "https://arxiv.org/abs/2501.14215",
+    "img": "liu25b.png"
+  },
+  "Liu25c": {
+    "author": "Guimei Liu, Yu Zhang, Jing Zhong, Li Chen, Xiangcun Meng, et al.",
+    "title": "Formation and evolution of new primordial open cluster groups: Feedback-driven star formation",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "696",
+    "pages": "A117",
+    "url": "https://arxiv.org/abs/2503.13892",
+    "img": "liu25c.png"
+  },
+  "Lucertini25a": {
+    "author": "F. Lucertini, L. Sbordone, E. Caffau, P. Bonifacio, L. Monaco, et al.",
+    "title": "MINCE: III. Detailed chemical analysis of the UVES sample",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "695",
+    "pages": "A36",
+    "url": "https://arxiv.org/abs/2501.14470",
+    "img": "lucertini25a.png"
+  },
+  "Li25a": {
+    "author": "Zhongcheng Li, Cuihua Du, Haoyang Liu, & Dashuang Ye",
+    "title": "Investigate Substructures of the Inner Halo Using the StarGO Algorithm with APOGEE DR17",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.01536",
+    "img": "li25a.png"
+  },
+  "Lowe25a": {
+    "author": "B. Lowe, T. Nordlander, L. Casagrande, G. S. Da Costa, M. Bessell, et al.",
+    "title": "The Rise of the Milky Way Disk through EMP Stars",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2502.18668",
+    "img": "lowe25a.png"
+  },
+  "Zhu25a": {
+    "author": "Haifan Zhu, Wei Wang, Xue Li, Jia-jia Li, & Pengfu Tian",
+    "title": "A white dwarf binary candidate discovered by LAMOST using dynamical method",
+    "year": "2025",
+    "journal": "Journal of High Energy Astrophysics",
+    "volume": "45",
+    "pages": "428",
+    "url": "https://arxiv.org/abs/2501.11865",
+    "img": "zhu25a.png"
+  },
+  "Akbaba24a": {
+    "author": "F. Akbaba, T. Ak, S. Bilir, O. Plevne, Ã. -. Ã-nal Taş, et al.",
+    "title": "Radial Metallicity Gradients for the Chemically Selected Galactic Thin Disc Main-Sequence Stars",
+    "year": "2024",
+    "journal": "Astronomische Nachrichten",
+    "volume": "345",
+    "pages": "e20240052",
+    "url": "https://arxiv.org/abs/2411.13660",
+    "img": "akbaba24a.png"
+  },
+  "Gaspari25a": {
+    "author": "N. Gaspari, A. J. Levan, A. A. Chrimes, & A. E. Nugent",
+    "title": "Binary neutron star merger offsets from their host galaxies II. Short-duration gamma-ray bursts",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.04825",
+    "img": "gaspari25a.png"
+  },
+  "Bale25a": {
+    "author": "B. Bale, G. Tautvaišienė, R. Minkevičiūtė, A. Drazdauskas, Š. Mikolaitis, et al.",
+    "title": "Chromospherically active stars: Chemical composition of photospheres in 20 RS CVn stars",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "696",
+    "pages": "A23",
+    "url": "https://arxiv.org/abs/2503.19888",
+    "img": "bale25a.png"
+  },
+  "Armstrong25a": {
+    "author": "Isabella Armstrong, Fraser A. Evans, & Jo Bovy",
+    "title": "The impact of the Galactic bar and the Large Magellanic Cloud on hypervelocity star trajectories",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2503.17344",
+    "img": "armstrong25a.png"
+  },
+  "Wan25a": {
+    "author": "Zhen Wan, Lulu Fan, Xuzhi Li, Xu Kong, Tinggui Wang, et al.",
+    "title": "A pilot survey on globular clusters with the Wide Field Survey Telescope (WFST)",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2503.05160",
+    "img": "wan25a.png"
+  },
+  "Starkman25a": {
+    "author": "Nathaniel Starkman, Jacob Nibauer, Jo Bovy, Jeremy J. Webb, Kiyan Tavangar, et al.",
+    "title": "Stream Members Only: Data-driven Characterization of Stellar Streams with Mixture Density Networks",
+    "year": "2025",
+    "journal": "Astrophys. J.",
+    "volume": "980",
+    "pages": "253",
+    "url": "https://arxiv.org/abs/2311.16960",
+    "img": "starkman25a.png"
+  },
+  "Larsen25a": {
+    "author": "Jens R. Larsen, Jakob L. Rørsted, Victor Aguirre Børsen-Koch, Mia S. Lundkvist, Jørgen Christensen-Dalsgaard, et al.",
+    "title": "Pushing the boundaries of asteroseismic individual frequency modelling: unveiling two evolved very-low metallicity red giants",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2503.23063",
+    "img": "larsen25a.png"
+  },
+  "XiangyuanMa25a": {
+    "author": "Peter Xiangyuan Ma, Keir K. Rogers, Ting S. Li, Renée Hložek, Jeremy Webb, et al.",
+    "title": "Towards characterizing dark matter subhalo perturbations in stellar streams with graph neural networks",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2502.03522",
+    "img": "xiangyuanma25a.png"
+  },
+  "Hussein25a": {
+    "author": "Abdelaziz Hussein, Lina Necib, Manoj Kaplinghat, Stacy Y. Kim, Andrew Wetzel, et al.",
+    "title": "Theoretical Predictions for the Inner Dark Matter Distribution in the Milky Way Informed by Simulations",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2501.14868",
+    "img": "hussein25a.png"
+  },
+  "Dantas25b": {
+    "author": "M. L. L. Dantas, R. Smiljanic, R. Boesso, H. Rocha-Pinto, L. Magrini, et al.",
+    "title": "The interplay between super-metallicity, lithium depletion, and radial migration in nearby stars",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2501.17031",
+    "img": "dantas25b.png"
+  },
+  "Piatti25a": {
+    "author": "Andrés E. Piatti",
+    "title": "Revisiting Physical Properties of Mock Globular Cluster Tidal Tails",
+    "year": "2025",
+    "journal": "Astrophys. J.",
+    "volume": "983",
+    "pages": "123",
+    "url": "https://arxiv.org/abs/2503.14224",
+    "img": "piatti25a.png"
+  },
+  "Sun25b": {
+    "author": "Tiancheng Sun, Shaolan Bi, Xunzhou Chen, Yuqin Chen, Yuxi Lucy Lu, et al.",
+    "title": "Potential impact of the Sagittarius dwarf galaxy on the formation of young O-rich stars",
+    "year": "2025",
+    "journal": "Nature Communications",
+    "volume": "16",
+    "pages": "1581",
+    "url": "https://arxiv.org/abs/2311.05815",
+    "img": "sun25b.png"
+  },
+  "Casado24a": {
+    "author": "Juan Casado, Yasser Hendy, Nikola Faltova, & Dana Kovaleva",
+    "title": "Open Superclusters II. Discovery of an Inactive Supercluster Including a New Open Cluster in the Solar Neighborhood",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2412.13727",
+    "img": "casado24a.png"
+  },
+  "Gao25a": {
+    "author": "Bore Annie Gao, Catherine Zucker, Tirupati Kumara Sridharan, Cameren Swiggum, Shmuel Bialy, et al.",
+    "title": "Origin of the IRAS Vela Shell: New Insights from 3D Dust Mapping",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.12381",
+    "img": "gao25a.png"
+  },
+  "Adams24a": {
+    "author": "Duncan K. Adams, Aditya Parikh, Oren Slone, Rouven Essig, Manoj Kaplinghat, et al.",
+    "title": "Semi-Analytic Modeling of Dark Matter Subhalo Encounters with Thin Stellar Streams: Statistical Predictions for GD-1-like Streams in CDM",
+    "year": "2024",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2412.13144",
+    "img": "adams24a.png"
+  },
+  "Barth25a": {
+    "author": "Nicholas A. Barth, David Mendez, Rana Ezzeddine, Yuxi, Lu, et al.",
+    "title": "Trials and Tribulations of Chemodynamical Tagging: Investigating the Recovery of Open Clusters in the Gaia DR3-GALAH DR4 Catalog",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.11586",
+    "img": "barth25a.png"
+  },
+  "Forbes25a": {
+    "author": "John C. Forbes, Michele T. Bannister, Angus Forrest, Ian DSouza, & Jack Patterson",
+    "title": "Semi-analytic Orbits: A Practical Implementation of Lynden-Bell's Planar Orbits and Extension to Vertical Oscillations",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.09175",
+    "img": "forbes25a.png"
+  },
+  "Yang25a": {
+    "author": "Guochao Yang, Jingkun Zhao, Yong Yang, Nian Liu, Yangping Luo, et al.",
+    "title": "Chemical Abundance Gradients in Open Clusters from the Gaia/LAMOST Sample",
+    "year": "2025",
+    "journal": "Astron. J.",
+    "volume": "169",
+    "pages": "214",
+    "url": "http://ui.adsabs.harvard.edu/abs/2025AJ....169..214Y",
+    "img": "yang25a.png"
+  },
+  "Ratzenbck25a": {
+    "author": "Sebastian Ratzenböck, João Alves, Emily L. Hunt, Núria Miret-Roig, Stefan Meingast, et al.",
+    "title": "Toward the fabric of the Milky Way: I. The density of disk streams from a local 250<SUP>3</SUP> pc<SUP>3</SUP> volume",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "694",
+    "pages": "A307",
+    "url": "http://ui.adsabs.harvard.edu/abs/2025A%26A...694A.307R",
+    "img": "ratzenbck25a.png"
+  },
+  "Wei25a": {
+    "author": "Xingyin Wei, Jing Chen, Su Zhang, Feilong He, Yunbo Zhao, et al.",
+    "title": "Forest Fire Clustering: A Novel Tool for Identifying Star Members of Clusters",
+    "year": "2025",
+    "journal": "Astron. J.",
+    "volume": "169",
+    "pages": "115",
+    "url": "http://ui.adsabs.harvard.edu/abs/2025AJ....169..115W",
+    "img": "wei25a.png"
+  },
     "_template": {
         "author": "",
         "title": "",
