@@ -6199,16 +6199,16 @@
     "url": "https://arxiv.org/abs/2310.06559",
     "img": "korol23a.png"
   },
-    "Xu23b": {
-        "author": "Yi Xu, Masami Ouchi, Kimihiko Nakajima, Yuichi Harikane, Yuki Isobe, et al.",
-        "title": "Stellar and AGN Feedback Probed with Outflows in JWST Galaxies at z=3-9: Implications of Frequent Nearly-Spherical Galactic Fountains",
-        "year": "2023",
-        "journal": "",
-        "volume": "",
-        "pages": "",
-        "url": "https://arxiv.org/abs/2310.06614",
-        "img": "xu23b.png"
-    },
+  "Xu23b": {
+    "author": "Yi Xu, Masami Ouchi, Kimihiko Nakajima, Yuichi Harikane, Yuki Isobe, et al.",
+    "title": "Stellar- and AGN-driven Outflows in JWST Galaxies at z = 3–9: More Frequent, Wider Opening Angles, and Mostly Bounded",
+    "year": "2025",
+    "journal": "Astrophys. J.",
+    "volume": "984",
+    "pages": "182",
+    "url": "https://arxiv.org/abs/2310.06614",
+    "img": "xu23b.png"
+  },
   "Grondin23a": {
     "author": "Steffani M. Grondin, Jeremy J. Webb, James M. M. Lane, Joshua S. Speagle, & Nathan W. C. Leigh",
     "title": "A catalogue of Galactic GEMS: Globular cluster Extra-tidal Mock Stars",
@@ -9021,11 +9021,11 @@
   },
   "Han24a": {
     "author": "Xiao Han, Hai-Feng Wang, Giovanni Carraro, Martín López-Corredoira, Yuan-Sen Ting, et al.",
-    "title": "The Structure, Populations and Kinematics of the Milky Way central and inner Bulge with OGLE, APOGEE and Gaia data",
-    "year": "2024",
-    "journal": "",
-    "volume": "",
-    "pages": "",
+    "title": "The Structure, Populations, and Kinematics of the Milky Way Central and Inner Bulge with OGLE, APOGEE, and Gaia Data",
+    "year": "2025",
+    "journal": "Astrophys. J.",
+    "volume": "985",
+    "pages": "32",
     "url": "https://arxiv.org/abs/2412.00752",
     "img": "han24a.png"
   },
@@ -9180,12 +9180,12 @@
     "img": "palicio24a.png"
   },
   "Palau24a": {
-    "author": "C. G. Palau, W. Wang, & J. Han",
+    "author": "Carles G. Palau, Wenting Wang, & Jiaxin Han",
     "title": "Constraining the potential of the Milky Way using stellar streams and the Inverse Time Integration method",
-    "year": "2024",
-    "journal": "",
-    "volume": "",
-    "pages": "",
+    "year": "2025",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "539",
+    "pages": "2718",
     "url": "https://arxiv.org/abs/2412.15091",
     "img": "palau24a.png"
   },
@@ -9658,6 +9658,306 @@
     "pages": "115",
     "url": "http://ui.adsabs.harvard.edu/abs/2025AJ....169..115W",
     "img": "wei25a.png"
+  },
+  "Wang25a": {
+    "author": "Weichen Wang, Sebastiano Cantalupo, Antonio Pensabene, Marta Galbiati, Andrea Travascio, et al.",
+    "title": "A giant disk galaxy two billion years after the Big Bang",
+    "year": "2025",
+    "journal": "Nature Astronomy",
+    "volume": "9",
+    "pages": "710",
+    "url": "https://arxiv.org/abs/2409.17956",
+    "img": "wang25a.png"
+  },
+  "Monaco25a": {
+    "author": "L. Monaco, E. Caffau, P. Molaro, P. Bonifacio, & G. Cescutti",
+    "title": "A Sequoia stellar candidate with very high <SUP>7</SUP>Li and <SUP>9</SUP>Be",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "697",
+    "pages": "A75",
+    "url": "https://arxiv.org/abs/2504.21823",
+    "img": "monaco25a.png"
+  },
+  "He25a": {
+    "author": "Wenlang He, Ping Zhou, Eda Gjergo, & Xiaoting Fu",
+    "title": "Alien-Type-Ia supernovae from the Milky Way merger history and one possible candidate -- Kepler's supernova",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2505.03085",
+    "img": "he25a.png"
+  },
+  "Miller25a": {
+    "author": "Alexis N. Miller, Kyle R. Tregoning, Jeff J. Andrews, Simon C. Schuler, Jason L. Curtis, et al.",
+    "title": "Evidence for a Catastrophically Disrupted Open Cluster",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.19343",
+    "img": "miller25a.png"
+  },
+  "Tchiorniy25a": {
+    "author": "Kristian Tchiorniy & Anna Genina",
+    "title": "Broken Expectations: The Effects of Modelling Assumptions on the Inferred Dark Matter Distribution in the Milky Way's Satellites",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.18617",
+    "img": "tchiorniy25a.png"
+  },
+  "Disberg25a": {
+    "author": "Paul Disberg & Ilya Mandel",
+    "title": "The Kick Velocity Distribution of Isolated Neutron Stars",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2505.22102",
+    "img": "disberg25a.png"
+  },
+  "Devlin25a": {
+    "author": "Scot Devlin, Holger Baumgardt, & Sarah M. Sweet",
+    "title": "Reevaluating UMa3/U1: star cluster or the smallest known galaxy?",
+    "year": "2025",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "539",
+    "pages": "2485",
+    "url": "https://arxiv.org/abs/2504.21301",
+    "img": "devlin25a.png"
+  },
+  "nar25a": {
+    "author": "Deniz Cennet Çınar, Selçuk Bilir, Timur Şahin, & Olcay Plevne",
+    "title": "Tracing the Galactic Origins of Selected Four G-type Stars in the Solar Neighbourhood",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.17844",
+    "img": "nar25a.png"
+  },
+  "ViscasillasVzquez25a": {
+    "author": "C. Viscasillas Vázquez, L. Magrini, E. Spitoni, G. Cescutti, G. Tautvaišienė, et al.",
+    "title": "The Galactic inner spiral arms revealed by the Gaia ESO Survey chemical abundances. Metallicity and [Mg/Fe] ratios",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.16905",
+    "img": "viscasillasvzquez25a.png"
+  },
+  "Kim25a": {
+    "author": "Bokyoung Kim, Sergey E. Koposov, Ting S. Li, Sophia Lilleengen, Andrew P. Cooper, et al.",
+    "title": "Nearby stellar substructures in the Galactic halo from DESI Milky Way Survey Year 1 Data Release",
+    "year": "2025",
+    "journal": "Mon. Not. Roy. Astron. Soc.",
+    "volume": "540",
+    "pages": "264",
+    "url": "https://arxiv.org/abs/2504.20327",
+    "img": "kim25a.png"
+  },
+  "Li25b": {
+    "author": "Yaguang Li",
+    "title": "Evidence that Mass Loss on the Red Giant Branch Decreases with Metallicity",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2505.12794",
+    "img": "li25b.png"
+  },
+  "Medina25b": {
+    "author": "Gustavo E. Medina, Ting S. Li, C. Allende Prieto, L. Beraldo e Silva, A. Bystrom, et al.",
+    "title": "The DESI Y1 RR Lyrae catalog II: The metallicity dependency of pulsational properties, the shape of the RR Lyrae instability strip, and metal rich RR Lyrae",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2505.10614",
+    "img": "medina25b.png"
+  },
+  "Thomsen25a": {
+    "author": "J. S. Thomsen, A. Miglio, K. Brogaard, J. Montalbán, M. Tailo, et al.",
+    "title": "Advancing accuracy in age determinations of old-disk stars using an oscillating red giant in an eclipsing binary",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.17853",
+    "img": "thomsen25a.png"
+  },
+  "Elsanhoury25a": {
+    "author": "W. H. Elsanhoury, A. A. Haroon, E. A. Elkholy, & D. C. Çınar",
+    "title": "Deeply comprehensive astrometric, photometric, and kinematic studies of the three OCSN open clusters with Gaia DR3",
+    "year": "2025",
+    "journal": "J. Astrophys. Astron.",
+    "volume": "46",
+    "pages": "21",
+    "url": "https://arxiv.org/abs/2412.07871",
+    "img": "elsanhoury25a.png"
+  },
+  "Wang25b": {
+    "author": "Fan Wang, Min Fang, Xiaoting Fu, Yang Su, Xuepeng Chen, et al.",
+    "title": "Multiple generation star formation in Cepheus Flare",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2505.00407",
+    "img": "wang25b.png"
+  },
+  "Lang25a": {
+    "author": "Kaixiang Lang, Yu Zhang, Hubiao Niu, Jayanand Maurya, Jinzhong Liu, et al.",
+    "title": "Insights into the 3D layered structure of nearby open clusters through N-body simulations",
+    "year": "2025",
+    "journal": "Astron. & Astrophys.",
+    "volume": "697",
+    "pages": "A122",
+    "url": "https://arxiv.org/abs/2505.08184",
+    "img": "lang25a.png"
+  },
+  "Marasco25a": {
+    "author": "Corin Marasco, Jamie Tayar, & David Nidever",
+    "title": "Asteroseismology of Metal-Poor Red Giants Observed by TESS",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.18642",
+    "img": "marasco25a.png"
+  },
+  "An25a": {
+    "author": "Deokkeun An, Young Sun Lee, Yutaka Hirai, & Timothy C. Beers",
+    "title": "Deciphering the Milky Way's Star Formation at Cosmic Noon with High Proper-Motion Stars: A Precursor to the Merger-Driven Starburst",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2505.10203",
+    "img": "an25a.png"
+  },
+  "Skladttir25a": {
+    "author": "Ása Skúladóttir, Heitor Ernandes, Diane K. Feuillet, Alice Mori, Sofia Feltzing, et al.",
+    "title": "Evidence of Gaia Enceladus experiencing at least two passages around the Milky Way",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2506.00409",
+    "img": "skladttir25a.png"
+  },
+  "Wang25c": {
+    "author": "Xiangyu Ivy Wang & Xiang-Dong Li",
+    "title": "On Neutron Star Natal Kicks in High-mass X-Ray Binaries: Insights from Population Synthesis",
+    "year": "2025",
+    "journal": "Astrophys. J.",
+    "volume": "985",
+    "pages": "12",
+    "url": "https://arxiv.org/abs/2504.19672",
+    "img": "wang25c.png"
+  },
+  "Deka25a": {
+    "author": "Simanta Deka",
+    "title": "Bayesian and Statistical Analysis of the Open Star Cluster NGC 6416",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.20909",
+    "img": "deka25a.png"
+  },
+  "Wu25a": {
+    "author": "Weiwei Wu, Long Wang, Shuai Liu, Yining Sun, Ataru Tanikawa, et al.",
+    "title": "Pair-Instability Gap Black Holes in Population III Star Clusters: Pathways, Dynamics, and Gravitational Wave Implications",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.20392",
+    "img": "wu25a.png"
+  },
+  "Sun25c": {
+    "author": "Yongkang Sun, Yang Huang, Jifeng Liu, Haozhu Fu, Huawei Zhang, et al.",
+    "title": "Systematic search for blue hyper-velocity stars from LAMOST survey",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.14836",
+    "img": "sun25c.png"
+  },
+  "Errani25a": {
+    "author": "Raphaël Errani, Jorge Peñarrubia, & Matthew G. Walker",
+    "title": "Stellar Mass Segregation in Dark Matter Halos",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2505.22717",
+    "img": "errani25a.png"
+  },
+  "YousefAlzahrani25a": {
+    "author": "Anwar Yousef Alzahrani, Aly Haroon, Waleed Elsanhoury, & Deniz Cennet Çınar",
+    "title": "Enhancing SED-Based Astrometric, Photometric, and Kinematic Studies of SAI 72 and SAI 75 Using Gaia DR3",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.15341",
+    "img": "yousefalzahrani25a.png"
+  },
+  "YousefAlzahrani25b": {
+    "author": "Anwar Yousef Alzahrani, Aly Haroon, Waleed Elsanhoury, & Deniz Cennet Çınar",
+    "title": "An In-depth Analysis of Photometric and Kinematic Characteristics of SAI 16, SAI 81 and SAI 86 Open Clusters Utilizing Gaia DR3",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2504.15344",
+    "img": "yousefalzahrani25b.png"
+  },
+  "Disberg25b": {
+    "author": "Paul Disberg, Nicola Gaspari, & Andrew J. Levan",
+    "title": "A kinematically constrained kick distribution for isolated neutron stars",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2503.01429",
+    "img": "disberg25b.png"
+  },
+  "Kumar25a": {
+    "author": "Prem Kumar, Marcel S. Pawlowski, Kosuke Jamie Kanehisa, Pengfei Li, Mariana P. Júlio, et al.",
+    "title": "The Effect of Measurement Uncertainties on the Inferred Stability of Planes of Satellite Galaxies",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2506.01459",
+    "img": "kumar25a.png"
+  },
+  "Ding25a": {
+    "author": "Hao Ding",
+    "title": "The systemic recoil velocity distribution and the scale height of isolated millisecond pulsar systems: Implications on neutron star retention fractions in star clusters",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2505.11357",
+    "img": "ding25a.png"
+  },
+  "Fernandez25a": {
+    "author": "Luis M. San Martin Fernandez, Steven Gough-Kelly, Victor P. Debattista, Oscar A. Gonzalez, Ilin Lazar, et al.",
+    "title": "The chemical and spatial variations of the bulge's velocity ellipsoids",
+    "year": "2025",
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://arxiv.org/abs/2506.02876",
+    "img": "fernandez25a.png"
   },
     "_template": {
         "author": "",
