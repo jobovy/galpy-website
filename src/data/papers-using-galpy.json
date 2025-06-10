@@ -9959,6 +9959,46 @@
     "url": "https://arxiv.org/abs/2506.02876",
     "img": "fernandez25a.png"
   },
+  "Wakjira24a": {
+    "author": "H. Y. Wakjira, S. H. Negu, D. A. Mosunova, M. D. Sizova, E. S. Postnikova, et al.",
+    "title": "Approach of the NGC1977 Star Cluster to the TOI-2796 Host Star",
+    "year": "2024",
+    "journal": "Astronomy Reports",
+    "volume": "68",
+    "pages": "967",
+    "url": "https://arxiv.org/abs/2310.14193",
+    "img": "wakjira24a.png"
+  },
+  "Ye25a": {
+    "author": "Xianhao Ye, Gang Zhao, Carlos Allende Prieto, Jingkun Zhao, Yong Yang, et al.",
+    "title": "Jormungandr: A Large Substructure Circling the Milky Way Identified from Gaia DR3 Data",
+    "year": "2025",
+    "journal": "Astrophys. J.",
+    "volume": "983",
+    "pages": "65",
+    "url": "http://ui.adsabs.harvard.edu/abs/2025ApJ...983...65Y",
+    "img": "ye25a.png"
+  },
+  "Widrow25a": {
+    "author": "Lawrence M. Widrow, David W. Hogg, Danny Horta, Haochaun Li, & Adrian M. Price-Whelan",
+    "title": "An Equilibrium Model of the Galaxy Determined by Element Abundance Gradients",
+    "year": "2025",
+    "journal": "Astrophys. J.",
+    "volume": "983",
+    "pages": "134",
+    "url": "http://ui.adsabs.harvard.edu/abs/2025ApJ...983..134W",
+    "img": "widrow25a.png"
+  },
+  "Gizis24a": {
+    "author": "John Gizis",
+    "title": "An Introduction to Brown Dwarfs; From very-low-mass stars to super-Jupiters",
+    "year": "2024",
+    "journal": "IOP ebooks. Bristol, UK: IOP Publishing",
+    "volume": "",
+    "pages": "",
+    "url": "http://ui.adsabs.harvard.edu/abs/2024ibdf.book.....G",
+    "img": "gizis24a.png"
+  },  
     "_template": {
         "author": "",
         "title": "",
